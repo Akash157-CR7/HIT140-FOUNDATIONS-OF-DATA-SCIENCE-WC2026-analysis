@@ -1,4 +1,4 @@
-# FIFA World Cup 2026 — Objective 1
+# FIFA World Cup 2026 - Objective 1
 
 **Darwin Group 46**  ·  Assessment 2, due 10 September 2026, 14:00 ACST
 
