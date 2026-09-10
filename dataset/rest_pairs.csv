@@ -1,0 +1,33 @@
+match_id,stage,winner,loser,winner_rest,loser_rest
+73,Round of 32,Canada,South Africa,4,4
+74,Round of 32,Paraguay,Germany,4,4
+75,Round of 32,Morocco,Netherlands,5,4
+76,Round of 32,Brazil,Japan,5,4
+77,Round of 32,France,Sweden,4,5
+78,Round of 32,Norway,Ivory Coast,4,5
+79,Round of 32,Mexico,Ecuador,6,5
+80,Round of 32,England,DR Congo,4,4
+81,Round of 32,United States,Bosnia and Herzegovina,6,7
+82,Round of 32,Belgium,Senegal,5,5
+83,Round of 32,Portugal,Croatia,5,5
+84,Round of 32,Spain,Austria,6,5
+85,Round of 32,Switzerland,Algeria,8,5
+86,Round of 32,Argentina,Cape Verde,6,7
+87,Round of 32,Colombia,Ghana,6,6
+88,Round of 32,Egypt,Australia,7,8
+89,Round of 16,France,Paraguay,4,5
+90,Round of 16,Morocco,Canada,5,6
+91,Round of 16,Norway,Brazil,5,6
+92,Round of 16,England,Mexico,4,5
+93,Round of 16,Spain,Portugal,4,4
+94,Round of 16,Belgium,United States,5,5
+95,Round of 16,Argentina,Egypt,4,4
+96,Round of 16,Switzerland,Colombia,5,4
+97,Quarter-final,France,Morocco,5,5
+98,Quarter-final,Spain,Belgium,4,4
+99,Quarter-final,England,Norway,6,6
+100,Quarter-final,Argentina,Switzerland,4,4
+101,Semi-final,Spain,France,4,5
+102,Semi-final,Argentina,England,4,4
+103,Match for third place,England,France,3,4
+104,Final,Spain,Argentina,5,4

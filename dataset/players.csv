@@ -1,0 +1,1040 @@
+player,position,team,age,club,birth_year,appearances,starts,minutes,PlayingTime_minutes_90s,goals,assists,goal_involvements,Performance_goals_pens,penalties_scored,Performance_pens_att,yellow_cards,red_cards,Per90Minutes_goals_per90,Per90Minutes_assists_per90,Per90Minutes_goals_assists_per90,Per90Minutes_goals_pens_per90,Per90Minutes_goals_assists_pens_per90,Starts_games_starts,sub_appearances,Subs_minutes_per_sub,Starts_minutes_per_start,PlayingTime_minutes_pct,fouls_committed,fouls_drawn,Performance_offsides,own_goals,position_group,confederation,squad_role,goals_per90,involvements_per90,fouls_per90,minutes_per_appearance
+Brenden Aaronson,MF,United States,25,1.eng Leeds United,2000,1,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,76.0,16.9,2,1,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,2.3684210526315788,76.0
+Thelo Aasgaard,MF,Norway,24,1.sct Rangers,2002,1,1,90,1.0,1,0,1,1,0,0,0,0,1.0,0.0,1.0,1.0,1.0,1,0,,90.0,15.8,0,3,0,0,MF,UEFA,Mainly a starter,1.0,1.0,0.0,90.0
+Hamza Abdelkarim,FW,Egypt,18,4.es Barcelona B,2008,4,0,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,15.0,,12.5,2,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,3.0,15.0
+Hossam Abdelmaguid,DF,Egypt,25,1.eg Zamalek SC,2001,2,0,59,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,30.0,,12.3,1,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,1.5254237288135593,29.5
+Mohamed Abdelmonem,DF,Egypt,27,1.fr Nice,1999,2,1,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,1.0,13.0,2.9,1,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,6.428571428571429,7.0
+Ali Abdi,DF,Tunisia,32,1.fr Nice,1993,3,3,269,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,99.6,4,1,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.338289962825279,89.66666666666667
+Saud Abdulhamid,DF,Saudi Arabia,26,1.fr Lens,1999,3,3,269,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,99.6,4,2,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.338289962825279,89.66666666666667
+Abdulla Abdullaev,DF,Uzbekistan,28,1.ae Dibba Al Fujairah,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,66.7,5,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,2.5,90.0
+Yusuf Abdurisag,FW,Qatar,26,1.qa Al-Wakrah,1999,2,2,98,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,49.0,36.3,1,2,0,0,FW,AFC,Mainly a starter,0.0,0.0,0.9183673469387755,49.0
+Husam Abu Dahab,DF,Jordan,26,1.kw Al-Salmiya SC,2000,2,2,178,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,89.0,65.9,2,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.0112359550561798,89.0
+Mohammad Abu Hasheesh,DF,Jordan,31,1.iq Al-Karma,1995,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,6.0,,2.2,0,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,6.0
+Mohannad Abu Taha,DF,Jordan,23,1.iq Al-Quwa Al-Jawiya,2003,3,3,264,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,88.0,97.8,2,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.6818181818181818,88.0
+Mo Abualnadi,DF,Jordan,25,1.my Selangor FA,2001,1,1,71,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,71.0,26.3,0,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.0,71.0
+Yazeed Abulaila,GK,Jordan,33,1.jo Al-Hussein SC,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,0,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Mahmoud Abunada,GK,Qatar,26,1.qa Al Rayyan SC,2000,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,1,1,0,1,GK,AFC,Mainly a starter,0.0,0.0,0.3333333333333333,90.0
+Elias Achouri,"FW,MF",Tunisia,27,1.dk FC Copenhagen,1999,3,0,43,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,14.0,,15.9,0,1,1,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,14.333333333333334
+Ché Adams,FW,Scotland,29,1.it Torino,1996,3,2,145,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,1.0,72.0,53.7,4,2,0,0,FW,UEFA,Mainly a starter,0.0,0.0,2.4827586206896552,48.333333333333336
+Jayden Adams,MF,South Africa,25,1.za Sundowns,2001,3,2,116,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,11.0,53.0,32.2,0,0,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.0,38.666666666666664
+Tyler Adams,MF,United States,27,1.eng Bournemouth,1999,4,4,341,3.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,85.0,75.8,5,6,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.3196480938416422,85.25
+Ricardo Adé,DF,Haiti,36,1.ec LDU Quito,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,6,4,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,2.0,90.0
+Ibrahim Adel,MF,Egypt,25,1.dk Nordsjælland,2001,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,3.0,,0.6,0,0,0,0,MF,CAF,Mainly a substitute,0.0,0.0,0.0,3.0
+Simon Adingra,"FW,MF",Ivory Coast,24,1.fr Monaco,2002,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,16.0,,4.4,0,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,16.0
+Jonas Adjetey,DF,Ghana,22,1.de Wolfsburg,2003,3,3,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,75.0,62.5,1,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.4,75.0
+Michel Aebischer,"MF,FW",Switzerland,29,1.it Pisa,1997,4,2,156,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,11.0,68.0,26.0,3,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.7307692307692308,39.0
+Akram Afif,"FW,MF",Qatar,29,1.qa Al Sadd,1996,3,3,238,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,79.0,88.1,0,4,2,0,FW,AFC,Mainly a starter,0.0,0.0,0.0,79.33333333333333
+Emmanuel Agbadou,DF,Ivory Coast,28,1.tr Beşiktaş,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,75.0,0,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Rodrigo Aguirre,FW,Uruguay,31,1.mx América,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.4,0,0,0,0,FW,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,1.0
+Ali Ahmed,MF,Canada,25,2.eng Norwich City,2000,4,3,234,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,30.0,68.0,52.0,1,5,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,0.38461538461538464,58.5
+Homam Ahmed,DF,Qatar,26,2.es Cultural Leonesa,1999,2,2,122,1.4,0,1,1,0,0,0,0,1,0.0,0.74,0.74,0.0,0.74,2,0,,61.0,45.2,4,0,0,0,DF,AFC,Mainly a starter,0.0,0.7377049180327869,2.9508196721311477,61.0
+Rayan Aït-Nouri,DF,Algeria,25,1.eng Manchester City,2001,4,3,284,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,20.0,88.0,78.9,6,4,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.9014084507042253,71.0
+Kristoffer Ajer,DF,Norway,28,1.eng Brentford,1998,5,5,480,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,84.2,2,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.375,96.0
+Manuel Akanji,DF,Switzerland,30,1.it Inter,1995,6,6,600,6.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,6,0,,100.0,100.0,4,4,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.6,100.0
+Nathan Aké,DF,Netherlands,31,1.eng Manchester City,1995,3,2,170,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,10.0,80.0,43.6,2,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.0588235294117647,56.666666666666664
+Yunus Akgün,MF,Turkey,25,1.tr Galatasaray,2000,2,1,88,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,1,29.0,59.0,32.6,2,1,0,0,MF,UEFA,Mainly a starter,0.0,0.0,2.0454545454545454,44.0
+Maghnes Akliouche,MF,France,24,1.fr Monaco,2002,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,8.0,,1.1,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,8.0
+Kerem Aktürkoğlu,FW,Turkey,27,1.tr Fenerbahçe,1998,2,2,129,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,65.0,47.8,0,2,0,0,FW,UEFA,Mainly a starter,0.0,0.0,0.0,64.5
+Ahmed Alaaeldin,FW,Qatar,33,1.qa Al Rayyan SC,1993,2,0,43,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,22.0,,15.9,1,1,0,0,FW,AFC,Mainly a substitute,0.0,0.0,2.0930232558139537,21.5
+David Alaba,DF,Austria,33,1.es Real Madrid,1992,4,4,275,3.1,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33,4,0,,69.0,76.4,2,0,0,0,DF,UEFA,Mainly a starter,0.0,0.32727272727272727,0.6545454545454545,68.75
+Kerim Alajbegović,MF,Bosnia and Herzegovina,18,1.at RB Salzburg,2007,4,3,277,3.1,1,0,1,1,0,0,0,0,0.32,0.0,0.32,0.32,0.32,3,1,17.0,87.0,76.9,4,6,1,0,MF,UEFA,Mainly a starter,0.3249097472924188,0.3249097472924188,1.2996389891696751,69.25
+Jordy Alcivar,MF,Ecuador,26,1.ec Independiente,1999,1,1,45,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,12.5,1,0,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,2.0,45.0
+Omar Alderete,DF,Paraguay,29,1.eng Sunderland,1996,4,4,320,3.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,80.0,66.7,2,3,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.5625,80.0
+Almoez Ali,FW,Qatar,29,1.qa Al Duhail SC,1996,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,19.0,,7.0,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,19.0
+Hussein Ali,DF,Iraq,24,1.pl Pogoń Szczecin,2002,2,2,162,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,81.0,60.0,1,0,1,0,DF,AFC,Mainly a starter,0.0,0.0,0.5555555555555556,81.0
+Mohanad Ali,FW,Iraq,25,1.ae Dibba Al Fujairah,2000,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,13.0,,4.8,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,13.0
+Taha Ali,"FW,MF",Sweden,27,1.se Malmö,1998,2,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,19.0,,10.3,0,2,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,18.5
+Khojiakbar Alijonov,MF,Uzbekistan,29,1.uz Pakhtakor Tashkent FK,1997,2,1,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,45.0,90.0,50.0,2,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.3333333333333333,67.5
+Ali Alipour,FW,Iran,30,1.ir Persepolis,1995,1,0,38,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,38.0,,14.1,1,1,0,0,FW,AFC,Mainly a substitute,0.0,0.0,2.3684210526315788,38.0
+Alisson,GK,Brazil,33,1.eng Liverpool,1992,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,90.0,100.0,0,0,0,0,GK,CONMEBOL,Mainly a starter,0.0,0.0,0.0,90.0
+Thiago Almada,MF,Argentina,25,1.es Atlético Madrid,2001,5,3,241,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,2,31.0,60.0,29.8,2,2,2,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,0.7468879668049793,48.2
+Miguel Almirón,"MF,FW",Paraguay,32,1.us Atlanta Utd,1994,4,4,282,3.1,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,4,0,,71.0,58.8,2,7,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,0.6382978723404256,70.5
+Júnior Alonso,DF,Paraguay,33,1.br Atlético Mineiro,1993,5,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,1,1.0,97.0,81.3,3,3,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.6923076923076923,78.0
+Barış Alper Yılmaz,"MF,FW",Turkey,26,1.tr Galatasaray,2000,3,2,179,2.0,1,1,2,1,0,0,0,0,0.5,0.5,1.01,0.5,1.01,2,1,45.0,67.0,66.3,4,1,2,0,MF,UEFA,Mainly a starter,0.5027932960893855,1.005586592178771,2.011173184357542,59.666666666666664
+Roberto Alvarado,"FW,MF",Mexico,27,1.mx Guadalajara,1998,5,5,428,4.8,0,3,3,0,0,0,0,0,0.0,0.63,0.63,0.0,0.63,5,0,,86.0,95.1,3,5,1,0,FW,CONCACAF,Mainly a starter,0.0,0.6308411214953271,0.6308411214953271,85.6
+Edson Álvarez,"MF,DF",Mexico,28,1.eng West Ham,1997,4,2,240,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,2,30.0,90.0,53.3,5,2,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.875,60.0
+Julián Álvarez,FW,Argentina,26,1.es Atlético Madrid,2000,8,5,602,6.7,1,0,1,1,0,0,0,0,0.15,0.0,0.15,0.15,0.15,5,3,40.0,96.0,74.3,11,4,2,0,FW,CONMEBOL,Mainly a starter,0.14950166112956811,0.14950166112956811,1.6445182724252492,75.25
+Ayoube Amaimouni,MF,Morocco,21,1.de Frankfurt,2004,2,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,9.0,,3.2,1,0,0,0,MF,CAF,Mainly a substitute,0.0,0.0,5.0,9.0
+Zeki Amdouni,"FW,MF",Switzerland,25,1.eng Burnley,2000,4,0,73,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,18.0,,12.2,5,4,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,6.164383561643835,18.25
+Michael Amir Murillo,"DF,MF",Panama,30,1.tr Beşiktaş,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,1,7,1,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.3333333333333333,90.0
+Nadiem Amiri,MF,Germany,29,1.de Mainz 05,1996,2,0,42,0.5,0,1,1,0,0,0,0,0,0.0,2.14,2.14,0.0,2.14,0,2,21.0,,10.8,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,2.142857142857143,0.0,21.0
+Amir Al Ammari,MF,Iraq,28,1.pl Cracovia,1997,3,3,247,2.7,0,1,1,0,0,0,2,0,0.0,0.36,0.36,0.0,0.36,3,0,,82.0,91.5,3,0,0,0,MF,AFC,Mainly a starter,0.0,0.3643724696356275,1.0931174089068827,82.33333333333333
+Azizbek Amonov,FW,Uzbekistan,28,1.uz FK Bukhara Nurafshon,1997,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,14.0,,5.2,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,14.0
+Mohamed Amoura,"FW,MF",Algeria,26,1.de Wolfsburg,2000,1,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,27.0,,7.5,1,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,3.3333333333333335,27.0
+Sofyan Amrabat,MF,Morocco,29,1.es Real Betis,1996,3,1,147,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,29.0,90.0,25.8,4,2,0,0,MF,CAF,Mainly a substitute,0.0,0.0,2.4489795918367347,49.0
+Abdulelah Al-Amri,DF,Saudi Arabia,29,,1997,3,3,239,2.7,1,0,1,1,0,0,1,0,0.38,0.0,0.38,0.38,0.38,3,0,,80.0,88.5,1,0,0,0,DF,AFC,Mainly a starter,0.37656903765690375,0.37656903765690375,0.37656903765690375,79.66666666666667
+Youssef Amyn,MF,Iraq,22,1.cy AEK Larnaca,2003,1,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,31.0,,11.5,0,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,31.0
+Elliot Anderson,MF,England,23,1.eng Nottingham,2002,8,7,632,7.0,0,1,1,0,0,0,1,0,0.0,0.14,0.14,0.0,0.14,7,1,12.0,89.0,84.3,9,13,0,0,MF,UEFA,Mainly a starter,0.0,0.14240506329113925,1.2816455696202531,79.0
+Andrés Andrade Cedeño,DF,Panama,27,1.at LASK,1998,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,4,0,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.3333333333333333,90.0
+Fredrik André Bjørkan,DF,Norway,27,1.no Bodø/Glimt,1998,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,7.9,0,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.0,45.0
+Nilson Angulo,MF,Ecuador,22,1.eng Sunderland,2003,4,2,218,2.4,1,0,1,1,0,0,0,0,0.41,0.0,0.41,0.41,0.41,2,2,28.0,81.0,60.6,4,3,0,0,MF,CONMEBOL,Mainly a starter,0.41284403669724773,0.41284403669724773,1.651376146788991,54.5
+Waldemar Anton,"DF,MF",Germany,29,1.de Dortmund,1996,2,0,50,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,25.0,,12.8,3,1,1,0,DF,UEFA,Mainly a substitute,0.0,0.0,5.4,25.0
+Jeremy Antonisse,"FW,MF",Curaçao,24,1.gr AE Kifisia,2002,2,0,75,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,38.0,,27.8,0,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,37.5
+Houssem Aouar,MF,Algeria,27,1.sa Al-Ittihad,1998,3,2,173,1.9,0,2,2,0,0,0,0,0,0.0,1.04,1.04,0.0,1.04,2,1,27.0,73.0,48.1,1,2,0,0,MF,CAF,Mainly a starter,0.0,1.0404624277456647,0.5202312138728323,57.666666666666664
+Oswin Appollis,"MF,FW",South Africa,24,1.za Orlando Pirates,2001,4,3,255,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,14.0,80.0,70.8,1,2,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.35294117647058826,63.75
+Yazan Al-Arab,DF,Jordan,30,1.kr FC Seoul,1996,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,4,0,0,1,DF,AFC,Mainly a starter,0.0,0.0,1.3333333333333333,90.0
+Maxi Araújo,"FW,MF",Uruguay,26,1.pt Sporting CP,2000,3,3,250,2.8,2,1,3,2,0,0,0,0,0.72,0.36,1.08,0.72,1.08,3,0,,83.0,92.6,2,7,6,0,FW,CONMEBOL,Mainly a starter,0.72,1.08,0.72,83.33333333333333
+Tomás Araújo,DF,Portugal,24,1.pt Benfica,2002,1,1,90,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,20.0,1,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.0,90.0
+Telmo Arcanjo,MF,Cape Verde,24,1.pt Vit. Guimarães,2001,2,1,57,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,12.0,45.0,14.6,0,1,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.0,28.5
+Álex Arce,FW,Paraguay,30,1.ar Ind. Rivadavia,1995,2,0,53,0.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,2,27.0,,11.0,1,0,0,0,FW,CONMEBOL,Mainly a substitute,0.0,0.0,1.6981132075471699,26.5
+Carlens Arcus,"MF,DF",Haiti,29,1.fr Angers,1996,3,2,146,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,11.0,68.0,54.1,5,3,2,0,MF,CONCACAF,Mainly a starter,0.0,0.0,3.0821917808219177,48.666666666666664
+Max Arfsten,MF,United States,25,1.us Columbus Crew,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.2,0,0,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,1.0
+Jhon Arias,MF,Colombia,28,1.br Palmeiras,1997,5,5,377,4.2,1,0,1,1,0,0,1,0,0.24,0.0,0.24,0.24,0.24,5,0,,75.0,78.5,5,2,0,0,MF,CONMEBOL,Mainly a starter,0.23872679045092837,0.23872679045092837,1.193633952254642,75.4
+Santiago Arias,DF,Colombia,34,1.ar Independiente,1992,1,1,86,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,86.0,17.9,1,0,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.0465116279069768,86.0
+Marko Arnautović,FW,Austria,37,1.rs Red Star,1989,4,1,144,1.6,2,0,2,1,1,1,1,0,1.25,0.0,1.25,0.62,0.62,1,3,33.0,45.0,40.0,3,1,5,0,FW,UEFA,Mainly a substitute,1.25,1.25,1.875,36.0
+Benjamin Asare,GK,Ghana,33,1.gh Accra Hearts of Oak,1992,3,2,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,90.0,62.5,0,1,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,75.0
+Emam Ashour,MF,Egypt,28,1.eg Al Ahly,1998,5,5,362,4.0,2,0,2,2,0,0,0,0,0.5,0.0,0.5,0.5,0.5,5,0,,72.0,75.4,2,13,0,0,MF,CAF,Mainly a starter,0.4972375690607735,0.4972375690607735,0.4972375690607735,72.4
+Rustam Ashurmatov,DF,Uzbekistan,29,1.ir Esteghlal,1996,3,3,256,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,85.0,94.8,1,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.3515625,85.33333333333333
+Lawrence Ati-Zigi,GK,Ghana,29,1.ch St. Gallen,1996,2,2,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,68.0,37.5,0,1,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,67.5
+Marwan Attia,MF,Egypt,27,1.eg Al Ahly,1998,5,4,434,4.8,0,1,1,0,0,0,2,0,0.0,0.21,0.21,0.0,0.21,4,1,45.0,97.0,90.4,8,1,0,0,MF,CAF,Mainly a starter,0.0,0.2073732718894009,1.6589861751152073,86.8
+Fredrik Aursnes,"MF,DF",Norway,30,1.pt Benfica,1995,6,3,304,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,3,32.0,69.0,53.3,5,3,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.480263157894737,50.666666666666664
+Gabriel Ávalos,FW,Paraguay,35,1.ar Independiente,1990,4,2,141,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,11.0,60.0,29.4,1,2,0,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,0.6382978723404256,35.25
+Yasin Ayari,MF,Sweden,22,1.eng Brighton,2003,4,4,339,3.8,2,0,2,2,0,0,1,0,0.53,0.0,0.53,0.53,0.53,4,0,,85.0,94.2,4,8,0,0,MF,UEFA,Mainly a starter,0.5309734513274337,0.5309734513274337,1.0619469026548674,84.75
+Oğuz Aydın,DF,Turkey,25,1.tr Fenerbahçe,2000,1,1,89,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,89.0,33.0,0,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.0,89.0
+Jordan Ayew,FW,Ghana,34,2.eng Leicester City,1991,4,4,300,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,75.0,83.3,7,7,1,0,FW,CAF,Mainly a starter,0.0,0.0,2.1,75.0
+Kaan Ayhan,"DF,MF",Turkey,31,1.tr Galatasaray,1994,1,0,3,0.0,1,0,1,1,0,0,0,0,30.0,0.0,30.0,30.0,30.0,0,1,3.0,,1.1,0,0,0,0,DF,UEFA,Mainly a substitute,30.0,30.0,0.0,3.0
+Neil El Aynaoui,MF,Morocco,24,1.it Roma,2001,6,6,562,6.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,6,0,,94.0,98.6,15,7,0,0,MF,CAF,Mainly a starter,0.0,0.0,2.402135231316726,93.66666666666667
+Ali Azaizeh,MF,Jordan,22,1.sa Al-Shabab,2004,3,1,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,5.0,45.0,20.0,1,1,0,0,MF,AFC,Mainly a substitute,0.0,0.0,1.6666666666666667,18.0
+Juninho Bacuna,MF,Curaçao,28,1.nl Volendam,1997,3,3,254,2.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,3,0,,85.0,94.1,6,3,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,2.125984251968504,84.66666666666667
+Leandro Bacuna,MF,Curaçao,34,2.tr 76 Iğdır Belediyespor,1991,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,3,3,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.0,90.0
+Álex Baena,"MF,FW",Spain,24,1.es Atlético Madrid,2001,7,7,481,5.3,1,1,2,1,0,0,1,0,0.19,0.19,0.37,0.19,0.37,7,0,,69.0,64.1,13,7,2,0,MF,UEFA,Mainly a starter,0.18711018711018712,0.37422037422037424,2.4324324324324325,68.71428571428571
+Esmir Bajraktarevic,MF,Bosnia and Herzegovina,21,1.nl PSV,2005,4,2,230,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,34.0,82.0,63.9,1,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.391304347826087,57.5
+Cédric Bakambu,FW,DR Congo,35,1.es Real Betis,1991,3,3,190,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,63.0,52.8,2,1,4,0,FW,CAF,Mainly a starter,0.0,0.0,0.9473684210526315,63.333333333333336
+Fabián Balbuena,DF,Paraguay,34,1.br Grêmio,1991,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.2,0,0,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,1.0
+Folarin Balogun,FW,United States,24,1.fr Monaco,2001,4,4,312,3.5,3,0,3,3,0,0,1,1,0.87,0.0,0.87,0.87,0.87,4,0,,78.0,69.3,3,8,3,0,FW,CONCACAF,Mainly a starter,0.8653846153846154,0.8653846153846154,0.8653846153846154,78.0
+Simon Banza,"FW,MF",DR Congo,29,1.ae Al Jazira Club,1996,2,0,40,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,20.0,,11.1,1,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,2.25,20.0
+Yoel Bárcenas,MF,Panama,32,1.mx Mazatlán,1993,3,3,249,2.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,83.0,92.2,3,3,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.0843373493975903,83.0
+Valentín Barco,"DF,MF",Argentina,21,1.fr Strasbourg,2004,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,20.0,,2.5,0,1,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,20.0
+Bradley Barcola,MF,France,23,1.fr PSG,2002,8,4,384,4.3,3,1,4,3,0,0,1,0,0.7,0.23,0.94,0.7,0.94,4,4,24.0,72.0,53.3,5,1,1,0,MF,UEFA,Mainly a starter,0.703125,0.9375,1.171875,48.0
+Abdülkerim Bardakcı,DF,Turkey,31,1.tr Galatasaray,1994,3,3,265,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,88.0,98.1,1,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.33962264150943394,88.33333333333333
+Ivan Bašić,MF,Bosnia and Herzegovina,24,1.kz FC Astana,2002,3,2,179,2.0,0,1,1,0,0,0,0,0,0.0,0.5,0.5,0.0,0.5,2,1,28.0,76.0,49.7,2,3,0,0,MF,UEFA,Mainly a starter,0.0,0.5027932960893855,1.005586592178771,59.666666666666664
+Ahmed Basil,GK,Iraq,29,1.iq Al-Shorta,1996,2,2,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,68.0,50.0,0,1,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,67.5
+Martin Baturina,"MF,FW",Croatia,23,1.it Como,2003,4,4,321,3.6,1,0,1,1,0,0,0,0,0.28,0.0,0.28,0.28,0.28,4,0,,80.0,89.2,1,14,0,0,MF,UEFA,Mainly a starter,0.2803738317757009,0.2803738317757009,0.2803738317757009,80.25
+Ibrahim Bayesh,"MF,FW",Iraq,26,1.ae Al Dhafra SCC,2000,3,3,235,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,78.0,87.0,3,5,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.148936170212766,78.33333333333333
+Samed Baždar,FW,Bosnia and Herzegovina,22,1.de Gladbach,2004,1,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,29.0,,8.1,1,1,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,3.103448275862069,29.0
+Riechedly Bazoer,DF,Curaçao,29,1.tr Konyaspor,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,2,0,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,2.0,90.0
+Patrick Beach,GK,Australia,22,1.au Melb City,2003,4,4,388,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,97.0,99.5,0,0,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,97.0
+Aziz Behich,MF,Australia,35,1.au Melb City,1990,3,2,217,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,7.0,105.0,55.6,1,4,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.4147465437788018,72.33333333333333
+Maximilian Beier,"FW,MF",Germany,23,1.de Dortmund,2002,1,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,27.0,,6.9,1,1,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,3.3333333333333335,27.0
+Alireza Beiranvand,GK,Iran,33,1.ir Tractor,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,1,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Zineddine Belaïd,DF,Algeria,27,1.dz JS Kabylie,1999,2,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,13.0,,6.9,0,0,1,0,DF,CAF,Mainly a substitute,0.0,0.0,0.0,12.5
+Rafik Belghali,DF,Algeria,24,1.it Hellas Verona,2002,4,4,331,3.7,1,0,1,1,0,0,0,0,0.27,0.0,0.27,0.27,0.27,4,0,,83.0,91.9,4,2,0,0,DF,CAF,Mainly a starter,0.2719033232628399,0.2719033232628399,1.0876132930513596,82.75
+Joe Bell,MF,New Zealand,27,1.no Viking,1999,3,3,243,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,81.0,90.0,3,0,0,0,MF,OFC,Mainly a starter,0.0,0.0,1.1111111111111112,81.0
+Jean-Ricner Bellegarde,MF,Haiti,27,1.eng Wolves,1998,3,3,260,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,87.0,96.3,4,5,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.3846153846153846,86.66666666666667
+Jude Bellingham,MF,England,22,1.es Real Madrid,2003,8,7,614,6.8,7,1,8,7,0,0,1,0,1.03,0.15,1.17,1.03,1.17,7,1,12.0,86.0,81.9,9,17,1,0,MF,UEFA,Mainly a starter,1.0260586319218241,1.1726384364820848,1.3192182410423452,76.75
+Mortadha Ben Ouanes,"DF,MF",Tunisia,31,1.tr Kasımpaşa,1994,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,23.0,,8.5,0,1,0,0,DF,CAF,Mainly a substitute,0.0,0.0,0.0,23.0
+Anis Ben Slimane,"MF,FW",Tunisia,25,2.eng Norwich City,2001,3,3,240,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,80.0,88.9,0,0,2,0,MF,CAF,Mainly a starter,0.0,0.0,0.0,80.0
+Oussama Benbot,GK,Algeria,31,1.dz USM Alger,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,25.0,0,1,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Nadhir Benbouali,FW,Algeria,26,1.hu Győr,2000,1,0,45,0.5,1,0,1,1,0,0,0,0,2.0,0.0,2.0,2.0,2.0,0,1,45.0,,12.5,0,0,0,0,FW,CAF,Mainly a substitute,2.0,2.0,0.0,45.0
+Gilson Benchimol,FW,Cape Verde,24,1.ru Akron Tolyatti,2001,2,1,78,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,21.0,57.0,20.0,0,1,0,0,FW,CAF,Mainly a starter,0.0,0.0,0.0,39.0
+Ramy Bensebaini,DF,Algeria,31,1.de Dortmund,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,1,5,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.25,90.0
+Nabil Bentaleb,MF,Algeria,31,1.fr Lille,1994,4,3,285,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,45.0,80.0,79.2,2,3,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.631578947368421,71.25
+Rodrigo Bentancur,MF,Uruguay,28,1.eng Tottenham,1997,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,7,5,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,2.3333333333333335,90.0
+Patrick Berg,MF,Norway,28,1.no Bodø/Glimt,1997,6,4,445,4.9,0,2,2,0,0,0,1,0,0.0,0.4,0.4,0.0,0.4,4,2,28.0,98.0,78.1,4,2,0,0,MF,UEFA,Mainly a starter,0.0,0.4044943820224719,0.8089887640449438,74.16666666666667
+Sander Berge,MF,Norway,28,1.eng Fulham,1998,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,84.2,6,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.125,96.0
+Lucas Bergvall,MF,Sweden,20,1.eng Tottenham,2006,4,1,181,2.0,0,1,1,0,0,0,1,0,0.0,0.5,0.5,0.0,0.5,1,3,39.0,65.0,50.3,7,4,0,0,MF,UEFA,Mainly a substitute,0.0,0.4972375690607735,3.4806629834254146,45.25
+Sebastian Berhalter,MF,United States,25,1.us Vancouver,2001,5,1,187,2.1,1,1,2,1,0,0,1,0,0.48,0.48,0.96,0.48,0.96,1,4,24.0,90.0,41.6,5,6,0,0,MF,CONCACAF,Mainly a substitute,0.48128342245989303,0.9625668449197861,2.406417112299465,37.4
+Alexander Bernhardsson,MF,Sweden,27,2.de Holstein Kiel,1998,3,3,217,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,72.0,60.3,2,4,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.8294930875576036,72.33333333333333
+Tyler Bindon,DF,New Zealand,21,2.eng Sheffield United,2005,3,1,97,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,4.0,90.0,35.9,2,1,0,0,DF,OFC,Mainly a substitute,0.0,0.0,1.8556701030927836,32.333333333333336
+César Blackman,"MF,DF",Panama,28,1.sk Slovan Bratislava,1998,2,2,178,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,89.0,65.9,2,2,1,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.0112359550561798,89.0
+Damián Bobadilla,MF,Paraguay,24,1.br São Paulo,2001,4,2,189,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,23.0,72.0,39.4,1,1,0,1,MF,CONMEBOL,Mainly a starter,0.0,0.0,0.47619047619047616,47.25
+Oscar Bobb,FW,Norway,22,1.eng Fulham,2003,6,1,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,5,29.0,82.0,39.5,1,4,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.4,37.5
+Moïse Bombito,DF,Canada,26,1.fr Nice,2000,3,2,193,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,74.0,42.9,2,0,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.9326424870466321,64.33333333333333
+Theo Bongonda,"FW,MF",DR Congo,30,1.ru Spartak Moscow,1995,2,0,34,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,17.0,,9.4,0,1,0,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,17.0
+Ange-Yoan Bonny,FW,Ivory Coast,22,1.it Inter,2003,4,3,234,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,35.0,66.0,65.0,1,3,1,0,FW,CAF,Mainly a starter,0.0,0.0,0.38461538461538464,58.5
+Jordy Bos,"MF,DF",Australia,23,1.nl Feyenoord,2002,4,4,308,3.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,77.0,79.0,4,4,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.1688311688311688,77.0
+Ayyoub Bouaddi,MF,Morocco,18,1.fr Lille,2007,5,5,381,4.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,76.0,66.8,3,6,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.7086614173228346,76.2
+Hicham Boudaoui,MF,Algeria,26,1.fr Nice,1999,3,2,128,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,20.0,54.0,35.6,4,1,0,0,MF,CAF,Mainly a starter,0.0,0.0,2.8125,42.666666666666664
+Karim Boudiaf,MF,Qatar,35,1.qa Al Duhail SC,1990,2,1,102,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,31.0,71.0,37.8,0,2,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.0,51.0
+Adil Boulbina,FW,Algeria,23,1.qa Al Duhail SC,2003,2,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,10.0,,5.3,0,0,1,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,9.5
+Yassine Bounou,GK,Morocco,35,1.sa Al-Hilal,1991,6,6,570,6.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,6,0,,95.0,100.0,0,4,0,1,GK,CAF,Mainly a starter,0.0,0.0,0.0,95.0
+Nawaf Boushal,DF,Saudi Arabia,26,1.sa Al-Nassr,1999,2,1,91,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,10.0,81.0,33.7,1,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.989010989010989,45.5
+Michael Boxall,DF,New Zealand,37,1.us Minnesota Utd,1988,3,2,207,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,27.0,90.0,76.7,2,2,0,0,DF,OFC,Mainly a starter,0.0,0.0,0.8695652173913043,69.0
+Sultan Al-Brake,DF,Qatar,30,1.qa Al Duhail SC,1996,2,1,141,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,51.0,90.0,52.2,2,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.2765957446808511,70.5
+Joshua Brenet,DF,Curaçao,32,1.tr Kayserispor,1994,2,2,179,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,66.3,0,1,1,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.0,89.5
+Brian Brobbey,FW,Netherlands,24,1.eng Sunderland,2002,4,3,223,2.5,3,0,3,3,0,0,0,0,1.21,0.0,1.21,1.21,1.21,3,1,6.0,72.0,57.2,4,3,2,0,FW,UEFA,Mainly a starter,1.210762331838565,1.210762331838565,1.6143497757847534,55.75
+Dylan Bronn,DF,Tunisia,30,1.ch Servette FC,1995,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,16.7,1,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,2.0,45.0
+Nathaniel Brown,DF,Germany,22,1.de Frankfurt,2003,3,3,282,3.1,1,1,2,1,0,0,0,0,0.32,0.32,0.64,0.32,0.64,3,0,,94.0,72.3,4,1,0,0,DF,UEFA,Mainly a starter,0.3191489361702128,0.6382978723404256,1.2765957446808511,94.0
+Tajon Buchanan,MF,Canada,27,1.es Villarreal,1999,5,5,376,4.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,75.0,83.6,5,8,2,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.196808510638298,75.2
+Ante Budimir,FW,Croatia,34,1.es Osasuna,1991,3,2,155,1.7,1,0,1,1,0,0,0,0,0.58,0.0,0.58,0.58,0.58,2,1,45.0,55.0,43.1,6,4,0,0,FW,UEFA,Mainly a starter,0.5806451612903226,0.5806451612903226,3.4838709677419355,51.666666666666664
+Firas Al-Buraikan,FW,Saudi Arabia,26,1.sa Al-Ahli,2000,3,3,238,2.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,79.0,88.1,2,3,0,0,FW,AFC,Mainly a starter,0.0,0.0,0.7563025210084033,79.33333333333333
+Cameron Burgess,DF,Australia,30,2.eng Swansea City,1995,2,2,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,68.0,34.6,0,0,0,1,DF,AFC,Mainly a starter,0.0,0.0,0.0,67.5
+Dan Burn,DF,England,34,1.eng Newcastle,1992,3,0,35,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,12.0,,4.7,1,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,2.5714285714285716,11.666666666666666
+Dženis Burnić,MF,Bosnia and Herzegovina,28,2.de Karlsruher,1998,2,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,8.0,,4.4,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,8.0
+Gustavo Caballero,"FW,MF",Paraguay,24,2.eng Portsmouth,2001,2,0,96,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,48.0,,20.0,2,2,1,0,FW,CONMEBOL,Mainly a substitute,0.0,0.0,1.875,48.0
+Jovane Cabral,FW,Cape Verde,28,1.pt Estrela,1998,2,2,139,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,70.0,35.6,1,2,0,0,FW,CAF,Mainly a starter,0.0,0.0,0.6474820143884892,69.5
+Liberato Cacace,DF,New Zealand,25,2.eng Wrexham,2000,3,3,220,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,73.0,81.5,1,5,0,0,DF,OFC,Mainly a starter,0.0,0.0,0.4090909090909091,73.33333333333333
+Juan Cáceres,DF,Paraguay,26,1.ru Dynamo Moskva,2000,5,5,436,4.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,87.0,90.8,9,6,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.8577981651376148,87.2
+Sebastián Cáceres,DF,Uruguay,26,1.mx América,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,2,2,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.6666666666666666,90.0
+Jordy Caicedo,FW,Ecuador,28,1.ar Huracán,1997,3,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,7.0,,5.6,2,0,0,0,FW,CONMEBOL,Mainly a substitute,0.0,0.0,9.0,6.666666666666667
+Moisés Caicedo,MF,Ecuador,24,1.eng Chelsea,2001,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,5,4,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,1.25,90.0
+Uğurcan Çakır,GK,Turkey,30,1.tr Galatasaray,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Hakan Çalhanoğlu,MF,Turkey,32,1.it Inter,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,66.7,2,1,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.0,90.0
+Lamine Camara,MF,Senegal,22,1.fr Monaco,2004,4,3,248,2.8,0,1,1,0,0,0,1,0,0.0,0.36,0.36,0.0,0.36,3,1,55.0,64.0,63.6,5,3,0,0,MF,CAF,Mainly a starter,0.0,0.3629032258064516,1.814516129032258,62.0
+Jaminton Campaz,"FW,MF",Colombia,26,1.ar Rosario Central,2000,3,0,75,0.8,1,0,1,1,0,0,0,0,1.2,0.0,1.2,1.2,1.2,0,3,25.0,,15.6,2,3,2,0,FW,CONMEBOL,Mainly a substitute,1.2,1.2,2.4,25.0
+İrfan Can Kahveci,MF,Turkey,30,1.tr Kasımpaşa,1995,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.4,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,1.0
+José Canale,DF,Paraguay,29,1.ar Lanús,1996,4,1,161,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,3,14.0,120.0,33.5,1,2,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,0.5590062111801242,40.25
+João Cancelo,DF,Portugal,32,1.es Barcelona,1994,5,5,312,3.5,0,1,1,0,0,0,0,0,0.0,0.29,0.29,0.0,0.29,5,0,,62.0,69.3,6,2,1,0,DF,UEFA,Mainly a starter,0.0,0.28846153846153844,1.7307692307692308,62.4
+Agustín Canobbio,FW,Uruguay,27,1.br Fluminense,1998,3,2,224,2.5,1,0,1,1,0,0,0,1,0.4,0.0,0.4,0.4,0.4,2,1,45.0,90.0,83.0,7,5,1,0,FW,CONMEBOL,Mainly a starter,0.4017857142857143,0.4017857142857143,2.8125,74.66666666666667
+Casemiro,MF,Brazil,34,1.eng Manchester Utd,1992,5,5,379,4.2,1,0,1,1,0,0,2,0,0.24,0.0,0.24,0.24,0.24,5,0,,76.0,84.2,6,6,0,0,MF,CONMEBOL,Mainly a starter,0.23746701846965698,0.23746701846965698,1.424802110817942,75.8
+Josué Casimir,MF,Haiti,24,1.fr Auxerre,2001,3,2,182,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,30.0,76.0,67.4,4,4,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.978021978021978,60.666666666666664
+Timothy Castagne,DF,Belgium,30,1.eng Fulham,1995,6,5,478,5.3,0,1,1,0,0,0,1,0,0.0,0.19,0.19,0.0,0.19,5,1,33.0,89.0,83.9,7,2,0,0,DF,UEFA,Mainly a starter,0.0,0.18828451882845187,1.3179916317991631,79.66666666666667
+Kevin Castaño,MF,Colombia,25,1.ar River Plate,2000,2,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,8.0,,3.3,0,0,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,8.0
+Jens Castrop,MF,South Korea,22,1.de Gladbach,2003,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,45.0,,16.7,3,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,6.0,45.0
+Zeki Çelik,DF,Turkey,29,1.it Roma,1997,2,2,163,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,82.0,60.4,1,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.5521472392638037,81.5
+Lukáš Červ,MF,Czech Republic,25,1.cz Viktoria Plzeň,2001,2,2,163,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,82.0,60.4,3,3,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.656441717791411,81.5
+Fares Chaïbi,MF,Algeria,23,1.de Frankfurt,2002,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,3,2,1,0,MF,CAF,Mainly a starter,0.0,0.0,0.75,90.0
+Trevoh Chalobah,"DF,MF",England,26,1.eng Chelsea,1999,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.1,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,1.0
+Štěpán Chaloupek,DF,Czech Republic,23,1.cz Slavia Prague,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,1,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.0,90.0
+Mouhib Chamakh,GK,Tunisia,24,1.tn Club Africain,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,0,0,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Firas Chaouat,FW,Tunisia,30,1.tn Club Africain,1996,3,0,49,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,16.0,,18.1,1,2,3,0,FW,CAF,Mainly a substitute,0.0,0.0,1.836734693877551,16.333333333333332
+Luis Chávez,MF,Mexico,30,1.ru Dynamo Moskva,1996,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,25.0,,5.6,1,0,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,3.6,25.0
+Mateo Chávez,DF,Mexico,22,1.nl AZ Alkmaar,2004,1,1,77,0.9,1,0,1,1,0,0,0,0,1.17,0.0,1.17,1.17,1.17,1,0,,77.0,17.1,1,1,0,0,DF,CONCACAF,Mainly a starter,1.1688311688311688,1.1688311688311688,1.1688311688311688,77.0
+Samir Chergui,DF,Algeria,27,1.fr Paris FC,1999,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,20.0,,5.6,0,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,0.0,20.0
+Rayan Cherki,MF,France,22,1.eng Manchester City,2003,7,1,130,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,6,14.0,45.0,18.1,2,2,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,1.3846153846153846,18.571428571428573
+Mathieu Choinière,MF,Canada,27,1.us LAFC,1999,1,1,57,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,57.0,12.7,1,1,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.5789473684210527,57.0
+Tahith Chong,MF,Curaçao,26,2.eng Sheffield United,1999,3,3,247,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,82.0,91.5,3,13,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.0931174089068827,82.33333333333333
+Tomáš Chorý,FW,Czech Republic,31,1.cz Slavia Prague,1995,2,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,16.0,,11.5,2,1,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,5.806451612903226,15.5
+Ryan Christie,MF,Scotland,31,1.eng Bournemouth,1995,3,1,95,1.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,2,13.0,70.0,35.2,2,1,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,1.894736842105263,31.666666666666668
+Carney Chukwuemeka,MF,Austria,22,1.de Dortmund,2003,3,0,83,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,28.0,,23.1,2,2,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,2.1686746987951806,27.666666666666668
+Mojmír Chytil,FW,Czech Republic,27,1.cz Slavia Prague,1999,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,7.0,,2.6,1,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,12.857142857142858,7.0
+Brian Cipenga,"MF,FW",DR Congo,28,2.es Castellón,1998,2,2,146,1.6,1,0,1,1,0,0,0,0,0.62,0.0,0.62,0.62,0.62,2,0,,73.0,40.6,2,1,1,0,MF,CAF,Mainly a starter,0.6164383561643836,0.6164383561643836,1.2328767123287672,73.0
+Alessandro Circati,DF,Australia,22,1.it Parma,2003,4,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,100.0,5,4,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.1538461538461537,97.5
+Pathé Ciss,DF,Senegal,32,1.es Rayo Vallecano,1994,4,1,184,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,3,21.0,120.0,47.2,1,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,0.4891304347826087,46.0
+Livano Comenencia,MF,Curaçao,22,1.ch Zürich,2004,3,3,233,2.6,1,0,1,1,0,0,1,0,0.39,0.0,0.39,0.39,0.39,3,0,,78.0,86.3,4,1,0,0,MF,CONCACAF,Mainly a starter,0.38626609442060084,0.38626609442060084,1.5450643776824033,77.66666666666667
+Eray Cömert,DF,Switzerland,28,1.es Valencia,1998,1,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,31.0,,5.2,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,31.0
+Francisco Conceição,MF,Portugal,23,1.it Juventus,2002,4,0,126,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,32.0,,28.0,1,2,1,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.7142857142857143,31.5
+Jhon Córdoba,FW,Colombia,33,1.ru Krasnodar,1993,3,2,99,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,33.0,33.0,20.6,1,2,2,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,0.9090909090909091,33.0
+José Córdoba,DF,Panama,25,2.eng Norwich City,2001,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,5,1,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.6666666666666667,90.0
+Derek Cornelius,DF,Canada,28,1.fr Marseille,1997,4,4,315,3.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,79.0,70.0,4,3,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.1428571428571428,78.75
+Diogo Costa,GK,Portugal,26,1.pt Porto,1999,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,90.0,100.0,0,1,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Nuno da Costa,FW,Cape Verde,35,1.tr Başakşehir,1991,4,1,159,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,3,31.0,66.0,40.8,0,3,0,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,39.75
+Samu Costa,MF,Portugal,25,1.es Mallorca,2000,1,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,21.0,,4.7,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,21.0
+Vladimír Coufal,"MF,DF",Czech Republic,33,1.de Hoffenheim,1992,3,3,270,3.0,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33,3,0,,90.0,100.0,4,3,1,0,MF,UEFA,Mainly a starter,0.0,0.3333333333333333,1.3333333333333333,90.0
+Thibaut Courtois,GK,Belgium,34,1.es Real Madrid,1992,6,6,550,6.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,6,0,,92.0,96.5,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,91.66666666666667
+Maxime Crépeau,GK,Canada,32,1.us Orlando City,1994,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,90.0,100.0,1,1,0,0,GK,CONCACAF,Mainly a starter,0.0,0.0,0.2,90.0
+Max Crocombe,GK,New Zealand,32,2.eng Millwall,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,1,0,0,GK,OFC,Mainly a starter,0.0,0.0,0.0,90.0
+Pau Cubarsí,DF,Spain,19,1.es Barcelona,2007,8,8,750,8.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,8,0,,94.0,100.0,4,5,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.48,93.75
+Andrés Cubas,MF,Paraguay,30,1.us Vancouver,1996,5,5,480,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,100.0,14,3,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,2.625,96.0
+Cucho,"FW,MF",Colombia,27,1.es Real Betis,1999,2,0,50,0.6,0,1,1,0,0,0,0,0,0.0,1.8,1.8,0.0,1.8,0,2,25.0,,10.4,0,1,0,0,FW,CONMEBOL,Mainly a substitute,0.0,1.8,0.0,25.0
+Marc Cucurella,DF,Spain,27,1.eng Chelsea,1998,8,8,750,8.3,0,2,2,0,0,0,1,0,0.0,0.24,0.24,0.0,0.24,8,0,,94.0,100.0,8,5,4,0,DF,UEFA,Mainly a starter,0.0,0.24,0.96,93.75
+Matheus Cunha,FW,Brazil,27,1.eng Manchester Utd,1999,5,4,290,3.2,3,0,3,3,0,0,0,0,0.93,0.0,0.93,0.93,0.93,4,1,30.0,65.0,64.4,1,3,1,0,FW,CONMEBOL,Mainly a starter,0.9310344827586207,0.9310344827586207,0.3103448275862069,58.0
+Findlay Curtis,MF,Scotland,19,1.sct Kilmarnock,2006,2,0,9,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,2,5.0,,3.3,1,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,10.0,4.5
+Aymen Dahmen,GK,Tunisia,29,1.tn Ahly Sfaxien,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,66.7,0,1,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Diogo Dalot,"DF,MF",Portugal,27,1.eng Manchester Utd,1999,2,0,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,33.0,,14.4,0,1,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,32.5
+Danilo,DF,Brazil,34,1.br Flamengo,1991,5,4,405,4.5,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,4,1,45.0,90.0,90.0,7,1,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.5555555555555556,81.0
+Kevin Danso,DF,Austria,27,1.eng Tottenham,1998,4,2,241,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,31.0,90.0,66.9,1,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.37344398340248963,60.25
+Vladimír Darida,MF,Czech Republic,35,1.cz Hradec Králové,1990,1,1,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,54.0,20.0,0,1,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.0,54.0
+Jonathan David,FW,Canada,26,1.it Juventus,2000,5,5,420,4.7,3,0,3,3,0,0,1,0,0.64,0.0,0.64,0.64,0.64,5,0,,84.0,93.3,5,5,0,0,FW,CONCACAF,Mainly a starter,0.6428571428571429,0.6428571428571429,1.0714285714285714,84.0
+Promise David,FW,Canada,24,1.be Union SG,2001,4,0,80,0.9,1,1,2,1,0,0,0,0,1.13,1.13,2.25,1.13,2.25,0,4,20.0,,17.8,4,2,0,0,FW,CONCACAF,Mainly a substitute,1.125,2.25,4.5,20.0
+Alphonso Davies,"DF,FW",Canada,25,1.de Bayern Munich,2000,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,16.0,,3.6,0,0,0,0,DF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,16.0
+Erick Davis,DF,Panama,35,1.pa Plaza Amador,1991,2,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,2.0,,1.5,0,1,0,0,DF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,2.0
+Nasser Al-Dawsari,MF,Saudi Arabia,27,1.sa Al-Hilal,1998,3,2,207,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,28.0,90.0,76.7,7,2,0,0,MF,AFC,Mainly a starter,0.0,0.0,3.0434782608695654,69.0
+Salem Al-Dawsari,MF,Saudi Arabia,34,1.sa Al-Hilal,1991,3,3,245,2.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,82.0,90.7,3,4,1,0,MF,AFC,Mainly a starter,0.0,0.0,1.1020408163265305,81.66666666666667
+Mohammad Al-Dawud,"FW,MF",Jordan,34,1.jo Al-Wehdat SC,1992,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,3.0,,1.1,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,3.0
+Kevin De Bruyne,MF,Belgium,34,1.it Napoli,1991,5,5,382,4.2,1,0,1,1,0,0,1,0,0.24,0.0,0.24,0.24,0.24,5,0,,76.0,67.0,2,4,0,0,MF,UEFA,Mainly a starter,0.2356020942408377,0.2356020942408377,0.4712041884816754,76.4
+Maxim De Cuyper,DF,Belgium,25,1.eng Brighton,2000,6,5,442,4.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,1,35.0,81.0,77.5,7,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.4253393665158371,73.66666666666667
+Luc De Fougerolles,DF,Canada,20,1.eng Fulham,2005,5,4,372,4.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,4,1,32.0,85.0,82.7,8,8,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.935483870967742,74.4
+Charles De Ketelaere,"FW,MF",Belgium,25,1.it Atalanta,2001,5,5,350,3.9,3,1,4,3,0,0,0,0,0.77,0.26,1.03,0.77,1.03,5,0,,70.0,61.4,2,3,2,0,FW,UEFA,Mainly a starter,0.7714285714285715,1.0285714285714285,0.5142857142857142,70.0
+Nicolás De La Cruz,MF,Uruguay,29,1.br Flamengo,1997,3,0,86,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,3,29.0,,31.9,2,3,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,2.0930232558139537,28.666666666666668
+Rodrigo De Paul,MF,Argentina,32,1.us Inter Miami,1994,7,6,491,5.5,0,1,1,0,0,0,1,0,0.0,0.18,0.18,0.0,0.18,6,1,19.0,79.0,60.6,2,5,1,0,MF,CONMEBOL,Mainly a starter,0.0,0.18329938900203666,0.3665987780040733,70.14285714285714
+Amar Dedić,DF,Bosnia and Herzegovina,23,1.pt Benfica,2002,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,75.0,6,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,2.0,90.0
+Louicius Deedson,MF,Haiti,25,1.us FC Dallas,2001,3,1,112,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,26.0,60.0,41.5,3,1,1,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,2.4107142857142856,37.333333333333336
+Hannes Delcroix,DF,Haiti,27,1.ch Lugano,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,1,2,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.3333333333333333,90.0
+Ousmane Dembélé,MF,France,29,1.fr PSG,1997,8,7,592,6.6,6,2,8,6,0,0,0,0,0.91,0.3,1.22,0.91,1.22,7,1,45.0,78.0,82.2,0,4,3,0,MF,UEFA,Mainly a starter,0.9121621621621622,1.2162162162162162,0.0,74.0
+Merih Demiral,DF,Turkey,28,1.sa Al-Ahli,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,66.7,2,1,3,0,DF,UEFA,Mainly a starter,0.0,0.0,1.0,90.0
+Ermedin Demirović,FW,Bosnia and Herzegovina,28,1.de Stuttgart,1998,4,4,354,3.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,89.0,98.3,11,3,1,0,FW,UEFA,Mainly a starter,0.0,0.0,2.7966101694915255,88.5
+Sergiño Dest,MF,United States,25,1.nl PSV,2000,5,4,297,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,1,15.0,71.0,66.0,2,4,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,0.6060606060606061,59.4
+Frans Dhia Putros,DF,Iraq,32,1.id Persib Bandung,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,2,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,2.0,90.0
+Oumar Diakité,FW,Ivory Coast,22,1.be Cercle Brugge,2003,2,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,14.0,,7.8,0,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,14.0
+Amad Diallo,"MF,FW",Ivory Coast,23,1.eng Manchester Utd,2002,4,2,185,2.1,2,0,2,2,0,0,0,0,0.97,0.0,0.97,0.97,0.97,2,2,33.0,60.0,51.4,0,2,1,0,MF,CAF,Mainly a starter,0.972972972972973,0.972972972972973,0.0,46.25
+Assane Diao,MF,Senegal,20,1.it Como,2005,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,10.0,,2.6,0,0,0,0,MF,CAF,Mainly a substitute,0.0,0.0,0.0,10.0
+Habib Diarra,MF,Senegal,22,1.eng Sunderland,2004,3,2,143,1.6,2,0,2,2,0,0,0,0,1.26,0.0,1.26,1.26,1.26,2,1,15.0,64.0,36.7,2,2,0,0,MF,CAF,Mainly a starter,1.2587412587412588,1.2587412587412588,1.2587412587412588,47.666666666666664
+Rúben Dias,DF,Portugal,29,1.eng Manchester City,1997,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,80.0,6,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.5,90.0
+Krépin Diatta,DF,Senegal,27,1.fr Monaco,1999,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,100.0,4,6,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.9230769230769231,97.5
+Mory Diaw,GK,Senegal,32,1.fr Le Havre,1993,3,2,238,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,28.0,105.0,61.0,0,2,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,79.33333333333333
+Brahim Díaz,MF,Morocco,26,1.es Real Madrid,1999,6,6,457,5.1,0,4,4,0,0,0,0,0,0.0,0.79,0.79,0.0,0.79,6,0,,76.0,80.2,3,10,0,0,MF,CAF,Mainly a starter,0.0,0.787746170678337,0.5908096280087527,76.16666666666667
+Ismael Díaz,"FW,MF",Panama,29,1.mx León,1997,2,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,19.0,,13.7,0,0,2,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,18.5
+Luis Díaz,"FW,MF",Colombia,29,1.de Bayern Munich,1997,5,5,478,5.3,1,1,2,1,0,0,0,0,0.19,0.19,0.38,0.19,0.38,5,0,,96.0,99.6,7,9,9,0,FW,CONMEBOL,Mainly a starter,0.18828451882845187,0.37656903765690375,1.3179916317991631,95.6
+Bamba Dieng,FW,Senegal,26,1.fr Lorient,2000,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,8.0,,2.1,0,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,8.0
+Lucas Digne,DF,France,32,1.eng Aston Villa,1993,6,5,463,5.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,1,45.0,84.0,64.3,7,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.3606911447084233,77.16666666666667
+Diney,DF,Cape Verde,31,1.ae Al Bataeh,1995,4,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,100.0,2,0,0,1,DF,CAF,Mainly a starter,0.0,0.0,0.46153846153846156,97.5
+Ousmane Diomande,DF,Ivory Coast,22,1.pt Sporting CP,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,25.0,0,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Yan Diomandé,"MF,FW",Ivory Coast,19,1.de RB Leipzig,2006,4,4,329,3.7,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27,4,0,,82.0,91.4,2,7,0,0,MF,CAF,Mainly a starter,0.0,0.2735562310030395,0.547112462006079,82.25
+Issa Diop,DF,Morocco,29,1.eng Fulham,1997,5,5,476,5.3,1,0,1,1,0,0,3,0,0.19,0.0,0.19,0.19,0.19,5,0,,95.0,83.5,4,1,0,0,DF,CAF,Mainly a starter,0.18907563025210083,0.18907563025210083,0.7563025210084033,95.2
+El Hadji Malick Diouf,DF,Senegal,21,1.eng West Ham,2004,3,2,171,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,28.0,72.0,43.8,2,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.0526315789473684,57.0
+Ritsu Doan,MF,Japan,27,1.de Frankfurt,1998,4,4,278,3.1,0,1,1,0,0,0,0,0,0.0,0.32,0.32,0.0,0.32,4,0,,70.0,77.2,6,4,0,0,MF,AFC,Mainly a starter,0.0,0.3237410071942446,1.9424460431654675,69.5
+Jeremy Doku,MF,Belgium,24,1.eng Manchester City,2002,5,4,309,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,1,24.0,71.0,54.2,4,18,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.1650485436893203,61.8
+Merchas Doski,DF,Iraq,26,1.cz Viktoria Plzeň,1999,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,3,8,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.0,90.0
+David Douděra,MF,Czech Republic,28,1.cz Slavia Prague,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,0,1,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Désiré Doué,MF,France,21,1.fr PSG,2005,8,4,400,4.4,1,1,2,1,0,0,0,0,0.23,0.23,0.45,0.23,0.45,4,4,26.0,74.0,55.6,4,8,0,0,MF,UEFA,Mainly a starter,0.225,0.45,0.9,50.0
+Guéla Doué,DF,Ivory Coast,23,1.fr Strasbourg,2002,4,3,277,3.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,1,9.0,89.0,76.9,6,5,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.9494584837545126,69.25
+Deroy Duarte,MF,Cape Verde,26,1.bg Ludogorets,1999,4,2,264,2.9,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34,2,2,38.0,95.0,67.7,4,1,0,0,MF,CAF,Mainly a starter,0.3409090909090909,0.3409090909090909,1.3636363636363635,66.0
+Laros Duarte,MF,Cape Verde,29,1.hu Puskás Akad.,1997,4,2,166,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,20.0,63.0,42.6,0,2,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.0,41.5
+Denzel Dumfries,"DF,MF",Netherlands,30,1.it Inter,1996,4,4,390,4.3,0,2,2,0,0,0,0,0,0.0,0.46,0.46,0.0,0.46,4,0,,98.0,100.0,6,3,1,0,DF,UEFA,Mainly a starter,0.0,0.46153846153846156,1.3846153846153846,97.5
+Jean-Kevin Duverne,DF,Haiti,28,1.be Gent,1997,2,2,169,1.9,0,1,1,0,0,0,0,0,0.0,0.53,0.53,0.0,0.53,2,0,,85.0,62.6,2,1,1,0,DF,CONCACAF,Mainly a starter,0.0,0.5325443786982249,1.0650887573964498,84.5
+Lyndon Dykes,"FW,MF",Scotland,30,2.eng Charlton Athletic,1995,2,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,18.0,,13.3,2,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,5.0,18.0
+Edin Džeko,FW,Bosnia and Herzegovina,40,2.de Schalke 04,1986,3,3,176,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,59.0,48.9,1,2,0,0,FW,UEFA,Mainly a starter,0.0,0.0,0.5113636363636364,58.666666666666664
+Roshon van Eijma,DF,Curaçao,28,2.nl RKC Waalwijk,1998,1,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,15.0,,5.6,0,0,0,0,DF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,15.0
+Anthony Elanga,"MF,FW",Sweden,24,1.eng Newcastle,2002,4,2,217,2.4,2,0,2,2,0,0,0,0,0.83,0.0,0.83,0.83,0.83,2,2,19.0,90.0,60.3,0,7,1,0,MF,UEFA,Mainly a starter,0.8294930875576036,0.8294930875576036,0.0,54.25
+Meschak Elia,"FW,MF",DR Congo,28,1.tr Alanyaspor,1997,2,0,46,0.5,0,1,1,0,0,0,0,0,0.0,1.96,1.96,0.0,1.96,0,2,23.0,,12.8,2,0,0,0,FW,CAF,Mainly a substitute,0.0,1.9565217391304348,3.9130434782608696,23.0
+Callan Elliot,DF,New Zealand,26,1.au Auckland FC,1999,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,13.0,,4.8,0,0,0,0,DF,OFC,Mainly a substitute,0.0,0.0,0.0,13.0
+Eren Elmalı,DF,Turkey,25,1.tr Galatasaray,2000,2,1,111,1.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,1,21.0,90.0,41.1,2,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.6216216216216217,55.5
+Nico Elvedi,DF,Switzerland,29,1.de Gladbach,1996,6,6,600,6.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,6,0,,100.0,100.0,5,6,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.75,100.0
+Breel Embolo,FW,Switzerland,29,1.fr Rennes,1997,6,6,501,5.6,2,2,4,1,1,1,2,1,0.36,0.36,0.72,0.18,0.54,6,0,,84.0,83.5,9,11,4,0,FW,UEFA,Mainly a starter,0.3592814371257485,0.718562874251497,1.6167664670658684,83.5
+Julio Enciso,FW,Paraguay,22,1.fr Strasbourg,2004,5,5,386,4.3,1,2,3,1,0,0,0,0,0.23,0.47,0.7,0.23,0.7,5,0,,77.0,80.4,3,9,0,0,FW,CONMEBOL,Mainly a starter,0.23316062176165803,0.6994818652849741,0.6994818652849741,77.2
+Endrick,FW,Brazil,19,1.fr Lyon,2006,4,0,114,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,29.0,,25.3,1,1,1,0,FW,CONMEBOL,Mainly a substitute,0.0,0.0,0.7894736842105263,28.5
+Sherzod Esanov,MF,Uzbekistan,23,1.uz FK Bukhara Nurafshon,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.4,0,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,1.0
+Fidel Escobar,DF,Panama,31,1.cr Saprissa,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,1,0,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.0,90.0
+Pervis Estupiñán,MF,Ecuador,28,1.it Milan,1998,2,1,89,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,20.0,69.0,24.7,3,0,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,3.033707865168539,44.5
+Derrick Etienne,"FW,MF",Haiti,29,1.us Toronto FC,1996,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,10.0,,3.7,0,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,10.0
+Stephen Eustáquio,MF,Canada,29,1.pt Porto,1996,5,4,392,4.4,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23,4,1,33.0,90.0,87.1,2,7,0,0,MF,CONCACAF,Mainly a starter,0.22959183673469388,0.22959183673469388,0.45918367346938777,78.4
+Martin Expérience,"DF,MF",Haiti,27,2.fr Nancy,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,7,6,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,2.3333333333333335,90.0
+Saeid Ezatolahi,MF,Iran,29,1.ae Al-Ahli Dubai FC,1996,3,3,264,2.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,3,0,,88.0,97.8,7,4,0,0,MF,AFC,Mainly a starter,0.0,0.0,2.3863636363636362,88.0
+Eberechi Eze,MF,England,27,1.eng Arsenal,1998,5,1,211,2.3,0,1,1,0,0,0,0,0,0.0,0.43,0.43,0.0,0.43,1,4,33.0,78.0,28.1,2,4,1,0,MF,UEFA,Mainly a substitute,0.0,0.4265402843601896,0.8530805687203792,42.2
+Fabinho,"DF,MF",Brazil,32,1.sa Al-Ittihad,1993,3,0,71,0.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,3,24.0,,15.8,4,0,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,5.070422535211268,23.666666666666668
+José Fajardo,FW,Panama,32,1.ec Univ Católica,1993,3,1,155,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,2,37.0,82.0,57.4,4,3,1,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,2.3225806451612905,51.666666666666664
+Odeh Al-Fakhouri,"MF,FW",Jordan,20,1.eg Pyramids FC,2005,3,2,148,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,15.0,67.0,54.8,2,3,1,0,MF,AFC,Mainly a starter,0.0,0.0,1.2162162162162162,49.333333333333336
+Henrik Falchener,DF,Norway,23,1.no Viking,2003,1,1,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,65.0,11.4,0,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.0,65.0
+Marko Farji,MF,Iraq,22,2.it Venezia,2004,2,0,54,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,27.0,,20.0,0,2,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,27.0
+Christian Fassnacht,"FW,MF",Switzerland,32,1.ch Young Boys,1993,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,6.0,,1.0,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,6.0
+Abdul Fatawu Issahaku,"FW,MF",Ghana,22,2.eng Leicester City,2004,4,0,132,1.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,4,33.0,,36.7,1,7,0,0,FW,CAF,Mainly a substitute,0.0,0.0,0.6818181818181818,33.0
+Ahmed Fathy,MF,Qatar,33,1.qa Al-Arabi,1993,3,1,150,1.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,1,2,36.0,78.0,55.6,2,1,0,0,MF,AFC,Mainly a substitute,0.0,0.0,1.2,50.0
+Hamdy Fathy,"DF,MF",Egypt,31,1.qa Al-Wakrah,1994,4,3,238,2.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,1,45.0,64.0,49.6,3,2,1,0,DF,CAF,Mainly a starter,0.0,0.0,1.134453781512605,59.5
+Ahmed Fatouh,DF,Egypt,28,1.eg Zamalek SC,1998,3,3,267,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,89.0,55.6,2,3,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.6741573033707865,89.0
+Abbosbek Fayzullayev,MF,Uzbekistan,22,1.tr Başakşehir,2003,3,3,220,2.4,1,0,1,1,0,0,0,0,0.41,0.0,0.41,0.41,0.41,3,0,,73.0,81.5,6,4,0,0,MF,AFC,Mainly a starter,0.4090909090909091,0.4090909090909091,2.4545454545454546,73.33333333333333
+João Félix,MF,Portugal,26,1.sa Al-Nassr,1999,3,3,201,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,67.0,44.7,3,6,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.3432835820895523,67.0
+Lewis Ferguson,MF,Scotland,26,1.it Bologna,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,5,10,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.6666666666666667,90.0
+Bruno Fernandes,MF,Portugal,31,1.eng Manchester Utd,1994,5,5,422,4.7,0,1,1,0,0,0,0,0,0.0,0.21,0.21,0.0,0.21,5,0,,84.0,93.8,2,8,1,0,MF,UEFA,Mainly a starter,0.0,0.2132701421800948,0.4265402843601896,84.4
+Enzo Fernández,MF,Argentina,25,1.eng Chelsea,2001,7,7,659,7.3,2,0,2,2,0,0,2,1,0.27,0.0,0.27,0.27,0.27,7,0,,94.0,81.4,12,6,1,0,MF,CONMEBOL,Mainly a starter,0.2731411229135053,0.2731411229135053,1.6388467374810318,94.14285714285714
+Matias Fernandez-Pardo,"FW,MF",Belgium,21,1.fr Lille,2005,3,0,44,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,15.0,,7.7,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,14.666666666666666
+Álvaro Fidalgo,MF,Mexico,29,1.es Real Betis,1997,3,1,96,1.1,1,0,1,1,0,0,0,0,0.94,0.0,0.94,0.94,0.94,1,2,16.0,65.0,21.3,0,2,0,0,MF,CONCACAF,Mainly a substitute,0.9375,0.9375,0.0,32.0
+Sherel Floranus,DF,Curaçao,27,1.nl Zwolle,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,2,0,1,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.6666666666666666,90.0
+Seko Fofana,MF,Ivory Coast,31,1.pt Porto,1995,2,1,92,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,1,16.0,76.0,25.6,1,0,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.9782608695652174,46.0
+Yahia Fofana,GK,Ivory Coast,25,1.tr Rizespor,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,3,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Deveron Fonville,DF,Curaçao,23,1.nl NEC Nijmegen,2003,3,3,241,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,80.0,89.3,2,3,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.7468879668049793,80.33333333333333
+Yassin Fortuné,"FW,MF",Haiti,27,2.pt Vizela,1999,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,6.0,,2.2,0,1,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,6.0
+Lyle Foster,FW,South Africa,25,1.eng Burnley,2000,1,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,55.0,15.3,0,1,0,0,FW,CAF,Mainly a starter,0.0,0.0,0.0,55.0
+Alan Franco,DF,Ecuador,27,1.br Atlético Mineiro,1998,4,4,251,2.8,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,4,0,,63.0,69.7,7,0,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,2.50996015936255,62.75
+Alex Freeman,DF,United States,21,1.es Villarreal,2004,5,4,374,4.2,1,1,2,1,0,0,0,0,0.24,0.24,0.48,0.24,0.48,4,1,14.0,90.0,83.1,1,1,0,0,DF,CONCACAF,Mainly a starter,0.24064171122994651,0.48128342245989303,0.24064171122994651,74.8
+Matt Freese,GK,United States,27,1.us NYCFC,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,80.0,0,2,0,0,GK,CONCACAF,Mainly a starter,0.0,0.0,0.0,90.0
+Remo Freuler,MF,Switzerland,34,1.it Bologna,1992,6,6,592,6.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,6,0,,99.0,98.7,8,3,1,0,MF,UEFA,Mainly a starter,0.0,0.0,1.2162162162162162,98.66666666666667
+Marco Friedl,DF,Austria,28,1.de Werder Bremen,1998,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,24.0,,6.7,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,24.0
+Juriën Gaari,DF,Curaçao,32,2.sa Abha,1993,2,2,166,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,83.0,61.5,4,1,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,2.1686746987951806,83.0
+Jassem Gaber,MF,Qatar,24,1.qa Al Rayyan SC,2002,3,3,149,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,50.0,55.2,7,0,0,0,MF,AFC,Mainly a starter,0.0,0.0,4.228187919463087,49.666666666666664
+Cody Gakpo,FW,Netherlands,27,1.eng Liverpool,1999,4,4,368,4.1,3,1,4,3,0,0,0,0,0.73,0.24,0.98,0.73,0.98,4,0,,92.0,94.4,3,3,3,0,FW,UEFA,Mainly a starter,0.7336956521739131,0.9782608695652174,0.7336956521739131,92.0
+Matías Galarza,MF,Paraguay,24,1.us Atlanta Utd,2002,4,4,388,4.3,1,1,2,1,0,0,2,0,0.23,0.23,0.46,0.23,0.46,4,0,,97.0,80.8,10,9,0,0,MF,CONMEBOL,Mainly a starter,0.23195876288659795,0.4639175257731959,2.3195876288659796,97.0
+Hernán Galíndez,GK,Ecuador,39,1.ar Huracán,1987,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,0,0,0,GK,CONMEBOL,Mainly a starter,0.0,0.0,0.0,90.0
+Jesús Gallardo,DF,Mexico,31,1.mx Toluca,1994,5,4,373,4.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,1,13.0,90.0,82.9,7,3,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.6890080428954424,74.6
+Ahmed Al-Ganehi,FW,Qatar,25,1.qa Al-Gharafa Sports Club,2000,1,0,36,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,36.0,,13.3,1,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,2.5,36.0
+Ben Gannon-Doak,MF,Scotland,20,1.eng Bournemouth,2005,3,2,186,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,31.0,78.0,68.9,3,1,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.4516129032258065,62.0
+Eric García,"DF,MF",Spain,25,1.es Barcelona,2001,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,22.0,,2.9,1,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,4.090909090909091,22.0
+Gavi,FW,Spain,21,1.es Barcelona,2004,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,6.0,70.0,10.1,2,1,0,0,FW,UEFA,Mainly a starter,0.0,0.0,2.3684210526315788,38.0
+Jason Geria,DF,Australia,33,2.jp Albirex Niigata,1993,2,0,62,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,31.0,,15.9,2,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,2.903225806451613,31.0
+Khalid Al Ghannam,MF,Saudi Arabia,25,1.sa Al-Ettifaq,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.4,0,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,1.0
+Ismaël Gharbi,MF,Tunisia,22,1.de Augsburg,2004,3,1,127,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,27.0,74.0,47.0,0,2,0,0,MF,CAF,Mainly a substitute,0.0,0.0,0.0,42.333333333333336
+Mehdi Ghayedi,FW,Iran,27,1.ae Al-Nasr Dubai,1998,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,45.0,,16.7,2,1,0,0,FW,AFC,Mainly a substitute,0.0,0.0,4.0,45.0
+Farés Ghedjemis,"FW,MF",Algeria,23,2.it Frosinone,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.3,0,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,1.0
+Saman Ghoddos,MF,Iran,32,1.ae Al-Ittihad Kalba,1993,3,3,208,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,69.0,77.0,3,0,1,0,MF,AFC,Mainly a starter,0.0,0.0,1.2980769230769231,69.33333333333333
+Mohammad Ghorbani,MF,Iran,25,1.ae Al-Wahda FC,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,2,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,2.0,90.0
+Lee Gi-hyuk,DF,South Korea,25,1.kr Gangwon FC,2000,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,2,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.6666666666666666,90.0
+Armin Gigovic,MF,Bosnia and Herzegovina,24,1.ch Young Boys,2002,2,1,79,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,29.0,50.0,21.9,0,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.0,39.5
+Orlando Gill,GK,Paraguay,26,1.py San Lorenzo,2000,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,100.0,0,3,0,0,GK,CONMEBOL,Mainly a starter,0.0,0.0,0.0,96.0
+Santiago Giménez,FW,Mexico,25,1.it Milan,2001,4,0,86,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,22.0,,19.1,1,3,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,1.0465116279069768,21.5
+Aníbal Godoy,MF,Panama,36,1.us San Diego FC,1990,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.4,0,1,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,1.0
+Andrés Gómez,MF,Colombia,23,1.br Vasco da Gama,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.2,0,0,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,1.0
+Diego Gómez,MF,Paraguay,23,1.eng Brighton,2003,4,4,304,3.4,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,4,0,,76.0,63.3,5,1,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,1.480263157894737,76.0
+Gustavo Gómez,DF,Paraguay,33,1.br Palmeiras,1993,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,100.0,3,2,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.5625,96.0
+Armando González,FW,Mexico,23,1.mx Guadalajara,2003,1,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,15.0,,3.3,1,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,6.0,15.0
+Nicolás González,MF,Argentina,28,1.es Atlético Madrid,1998,7,1,259,2.9,0,1,1,0,0,0,0,0,0.0,0.35,0.35,0.0,0.35,1,6,36.0,45.0,32.0,4,3,2,0,MF,CONMEBOL,Mainly a substitute,0.0,0.3474903474903475,1.38996138996139,37.0
+Anthony Gordon,MF,England,25,1.es Barcelona,2001,6,5,396,4.4,1,3,4,1,0,0,0,0,0.23,0.68,0.91,0.23,0.91,5,1,30.0,73.0,52.8,4,10,0,0,MF,UEFA,Mainly a starter,0.22727272727272727,0.9090909090909091,0.9090909090909091,66.0
+Leon Goretzka,MF,Germany,31,1.de Bayern Munich,1995,3,0,99,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,33.0,,25.4,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,33.0
+Kenji Gorré,"FW,MF",Curaçao,31,1.il Maccabi Haifa,1994,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,16.0,,5.9,0,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,16.0
+Keisuke Gotō,FW,Japan,21,1.be Sint-Truiden,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,7.0,,1.9,0,1,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,7.0
+Amine Gouiri,FW,Algeria,26,1.fr Marseille,2000,4,3,251,2.8,1,0,1,1,0,0,0,0,0.36,0.0,0.36,0.36,0.36,3,1,33.0,73.0,69.7,1,1,0,0,FW,CAF,Mainly a starter,0.35856573705179284,0.35856573705179284,0.35856573705179284,62.75
+Ryan Gravenberch,MF,Netherlands,24,1.eng Liverpool,2002,4,4,345,3.8,0,2,2,0,0,0,0,0,0.0,0.52,0.52,0.0,0.52,4,0,,86.0,88.5,5,3,0,0,MF,UEFA,Mainly a starter,0.0,0.5217391304347826,1.3043478260869565,86.25
+Michael Gregoritsch,FW,Austria,32,1.de Augsburg,1994,3,2,188,2.1,0,1,1,0,0,0,0,0,0.0,0.48,0.48,0.0,0.48,2,1,45.0,72.0,52.2,1,1,2,0,FW,UEFA,Mainly a starter,0.0,0.4787234042553192,0.4787234042553192,62.666666666666664
+Florian Grillitsch,"DF,MF",Austria,30,1.pt Braga,1995,2,0,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,45.0,,25.0,3,1,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,3.0,45.0
+Pascal Groß,"DF,MF",Germany,34,1.eng Brighton,1991,1,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,18.0,,4.6,1,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,5.0,18.0
+Gabriel Gudmundsson,"MF,DF",Sweden,27,1.eng Leeds United,1999,4,4,330,3.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,83.0,91.7,5,7,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.3636363636363635,82.5
+Cho Gue-sung,FW,South Korea,28,1.dk Midtjylland,1998,2,0,31,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,2,16.0,,11.5,1,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,2.903225806451613,15.5
+Marc Guéhi,DF,England,25,1.eng Manchester City,2000,8,7,663,7.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,7,1,4.0,94.0,88.4,4,13,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.5429864253393665,82.875
+Evann Guessand,"FW,MF",Ivory Coast,24,1.eng Crystal Palace,2001,2,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,9.0,,4.7,1,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,5.294117647058823,8.5
+Idrissa Gueye,MF,Senegal,36,1.eng Everton,1989,4,4,361,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,92.6,2,2,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.4986149584487535,90.25
+Pape Gueye,MF,Senegal,27,1.es Villarreal,1999,4,3,234,2.6,2,1,3,2,0,0,1,0,0.77,0.38,1.15,0.77,1.15,3,1,34.0,67.0,60.0,4,2,0,0,MF,CAF,Mainly a starter,0.7692307692307693,1.1538461538461537,1.5384615384615385,58.5
+Bruno Guimarães,MF,Brazil,28,1.eng Newcastle,1997,5,5,416,4.6,0,4,4,0,0,1,0,0,0.0,0.87,0.87,0.0,0.87,5,0,,83.0,92.4,4,7,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.8653846153846154,0.8653846153846154,83.2
+Deniz Gül,FW,Turkey,21,1.pt Porto,2004,2,0,37,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,19.0,,13.7,2,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,4.864864864864865,18.5
+Arda Güler,MF,Turkey,21,1.es Real Madrid,2005,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.0,0.33,0.33,0.33,3,0,,90.0,100.0,3,10,2,0,MF,UEFA,Mainly a starter,0.3333333333333333,0.3333333333333333,1.0,90.0
+Angus Gunn,GK,Scotland,30,1.eng Nottingham,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Malo Gusto,DF,France,23,1.eng Chelsea,2003,5,1,121,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,4,8.0,89.0,16.8,4,2,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,2.975206611570248,24.2
+Brian Gutiérrez,MF,Mexico,22,1.mx Guadalajara,2003,4,2,198,2.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,2,32.0,68.0,44.0,5,3,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,2.272727272727273,49.5
+Jorge Gutiérrez,DF,Panama,27,1.ve Dep. La Guaira,1998,1,1,87,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,87.0,32.2,1,2,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.0344827586206897,87.0
+Joško Gvardiol,DF,Croatia,24,1.eng Manchester City,2002,4,2,139,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,2.0,68.0,38.6,2,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.2949640287769784,34.75
+Viktor Gyökeres,FW,Sweden,28,1.eng Arsenal,1998,4,4,360,4.0,1,2,3,1,0,0,1,0,0.25,0.5,0.75,0.25,0.75,4,0,,90.0,100.0,4,7,1,0,FW,UEFA,Mainly a starter,0.25,0.75,1.0,90.0
+Aziz Gʻaniyev,MF,Uzbekistan,28,,1998,2,1,122,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,32.0,90.0,45.2,2,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.4754098360655739,61.0
+Erling Haaland,FW,Norway,25,1.eng Manchester City,2000,5,5,465,5.2,7,0,7,7,0,0,0,0,1.35,0.0,1.35,1.35,1.35,5,0,,93.0,81.6,5,3,0,0,FW,UEFA,Mainly a starter,1.3548387096774193,1.3548387096774193,0.967741935483871,93.0
+Ihsan Haddad,DF,Jordan,32,1.jo Al-Hussein SC,1994,3,3,260,2.9,0,1,1,0,0,0,0,0,0.0,0.35,0.35,0.0,0.35,3,0,,87.0,96.3,3,1,0,0,DF,AFC,Mainly a starter,0.0,0.34615384615384615,1.0384615384615385,86.66666666666667
+Anis Hadj Moussa,MF,Algeria,24,1.nl Feyenoord,2002,3,1,98,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,18.0,63.0,27.2,0,2,0,0,MF,CAF,Mainly a substitute,0.0,0.0,0.0,32.666666666666664
+Jaouen Hadjam,DF,Algeria,23,1.ch Young Boys,2003,3,1,109,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,20.0,70.0,30.3,0,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,0.0,36.333333333333336
+Amir Hadžiahmetović,MF,Bosnia and Herzegovina,29,2.eng Hull City,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,6.0,,1.7,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,6.0
+Dennis Hadžikadunić,DF,Bosnia and Herzegovina,27,2.it Sampdoria,1998,1,0,27,0.3,0,1,1,0,0,0,0,0,0.0,3.33,3.33,0.0,3.33,0,1,27.0,,7.5,1,0,0,0,DF,UEFA,Mainly a substitute,0.0,3.3333333333333335,3.3333333333333335,27.0
+Karim Hafez,DF,Egypt,30,1.eg Pyramids FC,1996,3,2,172,1.9,0,1,1,0,0,0,0,0,0.0,0.52,0.52,0.0,0.52,2,1,3.0,85.0,35.8,1,2,0,0,DF,CAF,Mainly a starter,0.0,0.5232558139534884,0.5232558139534884,57.333333333333336
+Ehsan Hajsafi,DF,Iran,36,1.ir Sepahan,1990,2,1,91,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,1,26.0,65.0,33.7,2,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.978021978021978,45.5
+Achraf Hakimi,DF,Morocco,27,1.fr PSG,1998,6,6,570,6.3,1,2,3,1,0,0,1,0,0.16,0.32,0.47,0.16,0.47,6,0,,95.0,100.0,7,16,0,0,DF,CAF,Mainly a starter,0.15789473684210525,0.47368421052631576,1.105263157894737,95.0
+Redouane Halhal,DF,Morocco,23,1.be Mechelen,2003,2,2,180,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,31.6,3,5,1,0,DF,CAF,Mainly a starter,0.0,0.0,1.5,90.0
+Ali Al Hamadi,FW,Iraq,24,2.eng Ipswich Town,2002,3,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,65.0,58.0,66.7,1,5,0,0,FW,AFC,Mainly a starter,0.0,0.0,0.5,60.0
+Abdullah Al-Hamdan,FW,Saudi Arabia,26,1.sa Al-Nassr,1999,3,0,71,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,24.0,,26.3,2,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,2.535211267605634,23.666666666666668
+Mohamed Amine Ben Hamida,DF,Tunisia,30,1.tn Espérance Tunis,1995,3,2,202,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,79.0,74.8,3,1,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.3366336633663367,67.33333333333333
+Odiljon Hamrobekov,MF,Uzbekistan,30,1.ir Tractor,1996,2,1,77,0.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,1,32.0,45.0,28.5,1,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.1688311688311688,38.5
+Lee Han-beom,DF,South Korea,23,1.dk Midtjylland,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,7,2,0,0,DF,AFC,Mainly a starter,0.0,0.0,2.3333333333333335,90.0
+Grant Hanley,DF,Scotland,34,1.sct Hibernian,1991,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,66.7,1,0,1,0,DF,UEFA,Mainly a starter,0.0,0.0,0.5,90.0
+Sontje Hansen,FW,Curaçao,24,2.eng Middlesbrough,2002,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,16.7,0,0,0,0,FW,CONCACAF,Mainly a starter,0.0,0.0,0.0,45.0
+Mohamed Hany,DF,Egypt,30,1.eg Al Ahly,1996,5,5,480,5.3,0,1,1,0,0,0,0,0,0.0,0.19,0.19,0.0,0.19,5,0,,96.0,100.0,2,1,0,2,DF,CAF,Mainly a starter,0.0,0.1875,0.375,96.0
+Moteb Al-Harbi,DF,Saudi Arabia,26,1.sa Al-Hilal,2000,3,2,188,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,9.0,90.0,69.6,0,4,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.0,62.666666666666664
+Saleh Hardani,DF,Iran,27,1.ir Esteghlal,1998,2,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,45.0,45.0,33.3,0,2,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.0,45.0
+Carlos Harvey,MF,Panama,26,1.us Minnesota Utd,2000,3,3,267,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,89.0,98.9,8,3,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,2.696629213483146,89.0
+Akam Hashim,DF,Iraq,27,1.iq Al-Zawra'a SC,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,3,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Haissem Hassan,MF,Egypt,24,1.es Oviedo,2002,2,1,126,1.4,0,1,1,0,0,0,2,0,0.0,0.71,0.71,0.0,0.71,1,1,54.0,72.0,26.3,2,2,0,0,MF,CAF,Mainly a starter,0.0,0.7142857142857143,1.4285714285714286,63.0
+Jalal Hassan,GK,Iraq,35,1.iq Al-Zawra'a SC,1991,2,1,135,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,45.0,90.0,50.0,0,1,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,67.5
+Abdulaziz Hatem,MF,Qatar,36,1.qa Al Rayyan SC,1990,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,45.0,,16.7,1,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,2.0,45.0
+Jorrel Hato,DF,Netherlands,20,1.eng Chelsea,2006,1,0,35,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,35.0,,9.0,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,35.0
+Kai Havertz,FW,Germany,27,1.eng Arsenal,1999,4,4,353,3.9,3,0,3,2,1,1,1,0,0.76,0.0,0.76,0.51,0.51,4,0,,88.0,90.5,3,4,1,0,FW,UEFA,Mainly a starter,0.7648725212464589,0.7648725212464589,0.7648725212464589,88.25
+Hassan Al-Haydos,MF,Qatar,35,1.qa Al Sadd,1990,2,1,57,0.6,1,0,1,1,0,0,0,0,1.58,0.0,1.58,1.58,1.58,1,1,3.0,54.0,21.1,1,1,0,0,MF,AFC,Mainly a starter,1.5789473684210527,1.5789473684210527,1.5789473684210527,28.5
+Jan Paul van Hecke,DF,Netherlands,26,1.eng Brighton,2000,4,4,390,4.3,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23,4,0,,98.0,100.0,4,2,0,0,DF,UEFA,Mainly a starter,0.23076923076923078,0.23076923076923078,0.9230769230769231,97.5
+Hwang Hee-chan,FW,South Korea,30,1.eng Wolves,1996,3,1,108,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,32.0,45.0,40.0,1,2,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.8333333333333334,36.0
+Torbjørn Heggem,DF,Norway,27,1.it Bologna,1999,5,5,443,4.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,89.0,77.7,2,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.40632054176072235,88.6
+Alaa Al Hejji,MF,Saudi Arabia,30,1.sa Neom,1995,2,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,16.0,,11.9,0,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,16.0
+Dean Henderson,GK,England,29,1.eng Crystal Palace,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,12.0,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Jordan Henderson,MF,England,35,1.eng Brentford,1990,1,0,7,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,1,7.0,,0.9,0,1,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,7.0
+Jack Hendry,DF,Scotland,31,1.sa Al-Ettifaq,1995,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,1,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.3333333333333333,90.0
+Luiz Henrique,"FW,MF",Brazil,25,1.ru Zenit,2001,1,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,29.0,,6.4,0,1,0,0,FW,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,29.0
+Theo Hernández,DF,France,28,1.sa Al-Hilal,1997,5,3,257,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,2,16.0,75.0,35.7,2,4,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.7003891050583657,51.4
+Lucas Herrington,DF,Australia,18,1.us Colorado Rapids,2007,2,2,210,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,105.0,53.8,2,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.8571428571428571,105.0
+Son Heung-min,FW,South Korea,33,1.us LAFC,1992,3,2,169,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,62.0,62.6,0,4,2,0,FW,AFC,Mainly a starter,0.0,0.0,0.0,56.333333333333336
+Aaron Hickey,DF,Scotland,24,1.eng Brentford,2002,1,1,74,0.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,0,,74.0,27.4,2,4,0,0,DF,UEFA,Mainly a starter,0.0,0.0,2.4324324324324325,74.0
+Isak Hien,DF,Sweden,27,1.it Atalanta,1999,3,3,216,2.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,72.0,60.0,3,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.25,72.0
+Piero Hincapié,DF,Ecuador,24,1.eng Arsenal,2002,4,4,339,3.8,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,4,0,,85.0,94.2,5,4,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.3274336283185841,84.75
+Adam Hložek,FW,Czech Republic,23,1.de Hoffenheim,2002,3,2,156,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,27.0,65.0,57.8,4,4,0,0,FW,UEFA,Mainly a starter,0.0,0.0,2.3076923076923075,52.0
+Tomáš Holeš,DF,Czech Republic,33,1.cz Slavia Prague,1993,2,2,153,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,77.0,56.7,2,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.1764705882352942,76.5
+Amirhossein Hosseinzadeh,FW,Iran,25,1.ir Tractor,2000,2,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,9.0,,6.3,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,8.5
+Robin Hranáč,DF,Czech Republic,26,1.de Hoffenheim,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,6,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,2.0,90.0
+Ajdin Hrustic,MF,Australia,29,1.nl Heracles Almelo,1996,2,0,80,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,40.0,,20.5,1,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,1.125,40.0
+César Huerta,"FW,MF",Mexico,25,1.be Anderlecht,2000,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,7.0,,1.6,0,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,7.0
+Al-Hashmi Al-Hussain,MF,Qatar,22,1.qa Al-Arabi,2003,1,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,32.0,,11.9,2,2,0,0,MF,AFC,Mainly a substitute,0.0,0.0,5.625,32.0
+Ayman Hussein,FW,Iraq,30,1.iq Al-Karma,1996,2,2,115,1.3,1,0,1,1,0,0,0,0,0.78,0.0,0.78,0.78,0.78,2,0,,58.0,42.6,2,1,0,1,FW,AFC,Mainly a starter,0.782608695652174,0.782608695652174,1.565217391304348,57.5
+Oh Hyeon-gyu,FW,South Korea,25,1.tr Beşiktaş,2001,3,1,129,1.4,1,0,1,1,0,0,0,0,0.7,0.0,0.7,0.7,0.7,1,2,28.0,73.0,47.8,0,1,0,0,FW,AFC,Mainly a substitute,0.6976744186046512,0.6976744186046512,0.0,43.0
+Yang Hyun-jun,"FW,MF",South Korea,24,1.sct Celtic,2002,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,20.0,,7.4,1,0,1,0,FW,AFC,Mainly a substitute,0.0,0.0,4.5,20.0
+Roger Ibanez,DF,Brazil,27,1.sa Al-Ahli,1998,1,1,45,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,10.0,2,1,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,4.0,45.0
+Yasser Ibrahim,DF,Egypt,33,1.eg Al Ahly,1993,5,4,467,5.2,1,0,1,1,0,0,2,0,0.19,0.0,0.19,0.19,0.19,4,1,77.0,98.0,97.3,6,3,0,0,DF,CAF,Mainly a starter,0.19271948608137046,0.19271948608137046,1.1563169164882228,93.4
+Borja Iglesias,FW,Spain,33,1.es Celta Vigo,1993,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.1,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,1.0
+Hwang In-beom,MF,South Korea,29,1.nl Feyenoord,1996,3,3,263,2.9,1,1,2,1,0,0,0,0,0.34,0.34,0.68,0.34,0.68,3,0,,88.0,97.4,1,1,0,0,MF,AFC,Mainly a starter,0.34220532319391633,0.6844106463878327,0.34220532319391633,87.66666666666667
+Christ Inao Oulaï,MF,Ivory Coast,20,1.tr Trabzonspor,2006,4,2,208,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,30.0,75.0,57.8,3,5,0,0,MF,CAF,Mainly a starter,0.0,0.0,1.2980769230769231,52.0
+Zidane Iqbal,MF,Iraq,23,1.nl Utrecht,2003,3,2,188,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,32.0,78.0,69.6,1,2,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.4787234042553192,62.666666666666664
+Nestory Irankunda,"FW,MF",Australia,20,2.eng Watford,2006,4,3,261,2.9,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34,3,1,45.0,72.0,66.9,4,5,0,0,FW,AFC,Mainly a starter,0.3448275862068966,0.3448275862068966,1.3793103448275863,65.25
+Jackson Irvine,MF,Australia,33,1.de St Pauli,1993,4,2,223,2.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,2,10.0,102.0,57.2,3,3,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.210762331838565,55.75
+Alexander Isak,FW,Sweden,26,1.eng Liverpool,1999,4,4,357,4.0,1,3,4,1,0,0,0,0,0.25,0.76,1.01,0.25,1.01,4,0,,89.0,99.2,4,1,5,0,FW,UEFA,Mainly a starter,0.25210084033613445,1.0084033613445378,1.0084033613445378,89.25
+Wilson Isidor,FW,Haiti,25,1.eng Sunderland,2000,3,2,186,2.1,1,0,1,1,0,0,0,0,0.48,0.0,0.48,0.48,0.48,2,1,45.0,71.0,68.9,3,2,1,0,FW,CONCACAF,Mainly a starter,0.4838709677419355,0.4838709677419355,1.4516129032258065,62.0
+Jamshid Iskanderov,"FW,MF",Uzbekistan,32,1.uz Neftchi FK,1993,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,9.0,,3.3,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,9.0
+Zaid Ismail,MF,Iraq,24,1.iq Al-Talaba,2002,2,2,117,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,59.0,43.3,2,0,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.5384615384615385,58.5
+Ko Itakura,DF,Japan,29,1.nl Ajax,1997,2,2,128,1.4,0,1,1,0,0,0,0,0,0.0,0.7,0.7,0.0,0.7,2,0,,64.0,35.6,1,0,0,0,DF,AFC,Mainly a starter,0.0,0.703125,0.703125,64.0
+Jacob Italiano,DF,Australia,24,1.at Grazer AK,2001,2,2,163,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,82.0,41.8,0,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.0,81.5
+Hiroki Ito,DF,Japan,27,1.de Bayern Munich,1999,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,7,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.75,90.0
+Junya Itō,MF,Japan,33,1.be Genk,1993,4,2,216,2.4,1,0,1,1,0,0,0,0,0.42,0.0,0.42,0.42,0.42,2,2,25.0,84.0,60.0,2,5,0,0,MF,AFC,Mainly a starter,0.4166666666666667,0.4166666666666667,0.8333333333333334,54.0
+Cedric Itten,"FW,MF",Switzerland,29,2.de Düsseldorf,1996,3,0,42,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,14.0,,7.0,4,2,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,8.571428571428571,14.0
+Nicolas Jackson,FW,Senegal,24,1.de Bayern Munich,2001,4,2,234,2.6,0,1,1,0,0,0,0,0,0.0,0.38,0.38,0.0,0.38,2,2,31.0,86.0,60.0,2,0,5,0,FW,CAF,Mainly a starter,0.0,0.38461538461538464,0.7692307692307693,58.5
+Lee Jae-sung,FW,South Korea,33,1.de Mainz 05,1992,2,2,117,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,59.0,43.3,1,4,1,0,FW,AFC,Mainly a starter,0.0,0.0,0.7692307692307693,58.5
+Alireza Jahanbakhsh,"FW,MF",Iran,32,1.be Dender,1993,2,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,23.0,,17.0,2,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,3.9130434782608696,23.0
+Ismail Jakobs,DF,Senegal,26,1.tr Galatasaray,1999,3,2,219,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,37.0,91.0,56.2,2,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.821917808219178,73.0
+Reece James,DF,England,26,1.eng Chelsea,1999,5,3,319,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,2,29.0,87.0,42.5,3,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.8463949843260188,63.8
+Amer Jamous,MF,Jordan,23,1.iq Al-Zawra'a SC,2002,1,0,15,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,15.0,,5.6,1,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,6.0,15.0
+Luca Jaquez,DF,Switzerland,23,1.de Stuttgart,2003,2,1,78,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,5.0,73.0,13.0,3,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,3.4615384615384617,39.0
+Ardon Jashari,MF,Switzerland,23,1.it Milan,2002,3,1,72,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,14.0,45.0,12.0,2,1,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,2.5,24.0
+Ali Jasim,MF,Iraq,22,1.sa Al-Najma,2004,2,2,129,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,65.0,47.8,1,0,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.6976744186046512,64.5
+Danley Jean-Jacques,MF,Haiti,26,1.us Philadelphia,2000,3,3,259,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,86.0,95.9,5,3,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.7374517374517375,86.33333333333333
+Eom Ji-sung,MF,South Korea,24,2.eng Swansea City,2002,2,0,42,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,21.0,,15.6,0,1,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,21.0
+Raúl Jiménez,FW,Mexico,35,1.eng Fulham,1991,4,4,317,3.5,3,0,3,2,1,1,0,0,0.85,0.0,0.85,0.57,0.57,4,0,,79.0,70.4,7,2,2,0,FW,CONCACAF,Mainly a starter,0.8517350157728707,0.8517350157728707,1.9873817034700316,79.25
+Kim Jin-gyu,MF,South Korea,29,1.kr Jeonbuk,1997,2,0,52,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,26.0,,19.3,0,1,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,26.0
+Park Jinseob,"DF,MF",South Korea,30,1.cn Zhejiang,1995,2,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,16.0,,11.9,0,1,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,16.0
+Ruslanbek Jiyanov,FW,Uzbekistan,25,1.uz Navbahor,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.4,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,1.0
+Alistair Johnston,DF,Canada,27,1.sct Celtic,1998,5,5,450,5.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,90.0,100.0,5,4,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.0,90.0
+Frenkie de Jong,MF,Netherlands,29,1.es Barcelona,1997,4,4,328,3.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,82.0,84.1,6,6,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.646341463414634,82.0
+Lenny Joseph,FW,Haiti,25,1.hu Ferencváros,2000,3,1,117,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,18.0,82.0,43.3,6,1,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,4.615384615384615,39.0
+Edmilson Junior,"MF,FW",Qatar,31,1.qa Al Duhail SC,1994,3,3,210,2.3,0,1,1,0,0,0,0,0,0.0,0.43,0.43,0.0,0.43,3,0,,70.0,77.8,4,2,1,0,MF,AFC,Mainly a starter,0.0,0.42857142857142855,1.7142857142857142,70.0
+Vinicius Júnior,FW,Brazil,25,1.es Real Madrid,2000,5,5,440,4.9,4,1,5,4,0,0,0,0,0.82,0.2,1.02,0.82,1.02,5,0,,88.0,97.8,4,10,3,0,FW,CONMEBOL,Mainly a starter,0.8181818181818182,1.0227272727272727,0.8181818181818182,88.0
+Elijah Just,MF,New Zealand,26,1.sct Motherwell,2000,3,3,264,2.9,3,0,3,3,0,0,1,0,1.02,0.0,1.02,1.02,1.02,3,0,,88.0,97.8,3,2,0,0,MF,OFC,Mainly a starter,1.0227272727272727,1.0227272727272727,1.0227272727272727,88.0
+Musab Al Juwayr,"MF,FW",Saudi Arabia,22,1.sa Al-Qadsiah,2003,3,2,152,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,54.0,56.3,1,1,2,0,MF,AFC,Mainly a starter,0.0,0.0,0.5921052631578947,50.666666666666664
+Ayoub El Kaabi,FW,Morocco,32,1.gr Olympiacos,1993,1,1,69,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,69.0,12.1,1,1,3,0,FW,CAF,Mainly a starter,0.0,0.0,1.3043478260869565,69.0
+Ozan Kabak,DF,Turkey,26,1.de Hoffenheim,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,3,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,3.0,90.0
+Ferdi Kadioglu,DF,Turkey,26,1.eng Brighton,1999,2,2,159,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,80.0,58.9,0,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.0,79.5
+Kaku,MF,Paraguay,31,1.ae Al Ain,1995,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,11.0,,2.3,1,1,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,8.181818181818182,11.0
+Saša Kalajdžić,FW,Austria,28,1.at LASK,1997,3,1,77,0.9,1,0,1,1,0,0,0,0,1.17,0.0,1.17,1.17,1.17,1,2,16.0,45.0,21.4,2,2,0,0,FW,UEFA,Mainly a substitute,1.1688311688311688,1.1688311688311688,2.3376623376623376,25.666666666666668
+Gédéon Kalulu,DF,DR Congo,28,1.cy Aris Limassol,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,6.0,,1.7,0,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,0.0,6.0
+Daichi Kamada,MF,Japan,29,1.eng Crystal Palace,1996,4,4,329,3.7,2,0,2,2,0,0,1,0,0.55,0.0,0.55,0.55,0.55,4,0,,82.0,91.4,2,4,1,0,MF,AFC,Mainly a starter,0.547112462006079,0.547112462006079,0.547112462006079,82.25
+Hossein Kanaanizadegan,DF,Iran,32,1.ir Persepolis,1994,2,2,135,1.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,68.0,50.0,1,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.6666666666666666,67.5
+Harry Kane,FW,England,32,1.de Bayern Munich,1993,7,7,652,7.2,6,1,7,4,2,2,0,0,0.83,0.14,0.97,0.55,0.69,7,0,,93.0,86.9,8,9,2,0,FW,UEFA,Mainly a starter,0.8282208588957055,0.9662576687116564,1.1042944785276074,93.14285714285714
+Lee Kang-in,FW,South Korea,25,1.fr PSG,2001,3,3,270,3.0,0,1,1,0,0,0,1,0,0.0,0.33,0.33,0.0,0.33,3,0,,90.0,100.0,1,7,0,0,FW,AFC,Mainly a starter,0.0,0.3333333333333333,0.3333333333333333,90.0
+Mohamed Kanno,MF,Saudi Arabia,31,1.sa Al-Hilal,1994,3,2,225,2.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,90.0,83.3,5,0,0,0,MF,AFC,Mainly a starter,0.0,0.0,2.0,75.0
+Steve Kapuadi,DF,DR Congo,28,1.pl Widzew Łódź,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,50.0,2,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.0,90.0
+Bekhruz Karimov,DF,Uzbekistan,18,1.uz FC Surkhon,2007,2,2,179,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,66.3,8,4,0,0,DF,AFC,Mainly a starter,0.0,0.0,4.022346368715084,89.5
+Jesper Karlström,MF,Sweden,30,1.it Udinese,1995,2,2,138,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,69.0,38.3,3,0,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.9565217391304348,69.0
+Gervane Kastaneer,"FW,MF",Curaçao,30,1.my Terengganu City,1996,3,0,30,0.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,0,3,10.0,,11.1,2,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,6.0,10.0
+Nikola Katić,DF,Bosnia and Herzegovina,29,2.de Schalke 04,1996,4,4,317,3.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,79.0,88.1,4,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.135646687697161,79.25
+Edo Kayembe,MF,DR Congo,28,2.eng Watford,1998,3,2,160,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,15.0,73.0,44.4,5,3,0,0,MF,CAF,Mainly a starter,0.0,0.0,2.8125,53.333333333333336
+Joris Kayembe,"DF,FW",DR Congo,31,1.be Genk,1994,4,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,11.0,,12.5,0,1,0,0,DF,CAF,Mainly a substitute,0.0,0.0,0.0,11.25
+Franck Kessié,MF,Ivory Coast,29,1.sa Al-Ahli,1996,4,4,346,3.8,1,0,1,1,0,0,1,0,0.26,0.0,0.26,0.26,0.26,4,0,,87.0,96.1,7,2,1,0,MF,CAF,Mainly a starter,0.26011560693641617,0.26011560693641617,1.8208092485549132,86.5
+Abdullah Al-Khaibari,MF,Saudi Arabia,29,1.sa Al-Nassr,1996,3,3,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,60.0,66.7,0,2,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.0,60.0
+Shoja' Khalilzadeh,DF,Iran,37,1.ir Tractor,1989,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,4,0,1,0,DF,AFC,Mainly a starter,0.0,0.0,1.3333333333333333,90.0
+Dostonbek Khamdamov,MF,Uzbekistan,29,1.uz Pakhtakor Tashkent FK,1996,2,1,103,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,45.0,58.0,38.1,1,0,1,0,MF,AFC,Mainly a starter,0.0,0.0,0.8737864077669902,51.5
+Bilal El Khannouss,"MF,FW",Morocco,22,1.de Stuttgart,2004,6,6,461,5.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,6,0,,77.0,80.9,5,6,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.9761388286334056,76.83333333333333
+Rani Khedira,MF,Tunisia,32,1.de Union Berlin,1994,3,2,149,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,1.0,74.0,55.2,3,0,0,0,MF,CAF,Mainly a starter,0.0,0.0,1.8120805369127517,49.666666666666664
+Boualem Khoukhi,DF,Qatar,35,1.qa Al Sadd,1990,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.0,0.33,0.33,0.33,3,0,,90.0,100.0,2,1,0,0,DF,AFC,Mainly a starter,0.3333333333333333,0.3333333333333333,0.6666666666666666,90.0
+Abdukodir Khusanov,DF,Uzbekistan,22,1.eng Manchester City,2004,3,3,270,3.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,6,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,2.0,90.0
+Joshua Kimmich,DF,Germany,31,1.de Bayern Munich,1995,4,4,351,3.9,0,2,2,0,0,0,0,0,0.0,0.51,0.51,0.0,0.51,4,0,,88.0,90.0,0,7,0,0,DF,UEFA,Mainly a starter,0.0,0.5128205128205128,0.0,87.75
+Justin Kluivert,"FW,MF",Netherlands,27,1.eng Bournemouth,1999,2,0,27,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,14.0,,6.9,0,2,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,13.5
+Gregor Kobel,GK,Switzerland,28,1.de Dortmund,1997,6,6,600,6.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,6,0,,100.0,100.0,0,3,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,100.0
+Orkun Kökçü,MF,Turkey,25,1.tr Beşiktaş,2000,3,2,153,1.7,0,1,1,0,0,0,0,0,0.0,0.59,0.59,0.0,0.59,2,1,5.0,74.0,56.7,2,4,0,0,MF,UEFA,Mainly a starter,0.0,0.5882352941176471,1.1764705882352942,51.0
+Sead Kolašinac,DF,Bosnia and Herzegovina,32,1.it Atalanta,1993,4,4,337,3.7,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27,4,0,,84.0,93.6,6,4,0,0,DF,UEFA,Mainly a starter,0.0,0.26706231454005935,1.6023738872403561,84.25
+Ghislain Konan,DF,Ivory Coast,30,1.pt Gil Vicente FC,1995,3,3,269,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,74.7,0,1,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,89.66666666666667
+Ibrahima Konaté,DF,France,27,1.eng Liverpool,1999,2,1,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,15.0,45.0,8.3,2,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,3.0,30.0
+Ismaël Koné,MF,Canada,23,1.it Sassuolo,2002,2,2,146,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,73.0,32.4,1,3,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,0.6164383561643836,73.0
+Manu Koné,MF,France,25,1.it Roma,2001,5,4,385,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,1,45.0,85.0,53.5,6,7,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.4025974025974026,77.0
+Ezri Konsa,DF,England,28,1.eng Aston Villa,1997,8,7,647,7.2,1,0,1,1,0,0,0,0,0.14,0.0,0.14,0.14,0.14,7,1,19.0,90.0,86.3,8,11,0,0,DF,UEFA,Mainly a starter,0.1391035548686244,0.1391035548686244,1.1128284389489953,80.875
+Teun Koopmeiners,"DF,MF",Netherlands,28,1.it Juventus,1998,4,0,122,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,31.0,,31.3,3,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,2.2131147540983607,30.5
+Odilon Kossounou,DF,Ivory Coast,25,1.it Atalanta,2001,4,3,272,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,2.0,90.0,75.6,0,1,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,68.0
+Kalidou Koulibaly,DF,Senegal,34,1.sa Al-Hilal,1991,2,2,161,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,81.0,41.3,0,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,80.5
+Jules Koundé,DF,France,27,1.es Barcelona,1998,8,7,599,6.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7,1,1.0,85.0,83.2,6,5,1,0,DF,UEFA,Mainly a starter,0.0,0.0,0.9015025041736227,74.875
+Mateo Kovačić,MF,Croatia,32,1.eng Manchester City,1994,4,3,270,3.0,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33,3,1,33.0,79.0,75.0,3,3,0,0,MF,UEFA,Mainly a starter,0.0,0.3333333333333333,1.0,67.5
+Matej Kovar,GK,Czech Republic,26,1.nl PSV,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Andrej Kramarić,"FW,MF",Croatia,34,1.de Hoffenheim,1991,3,0,59,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,20.0,,16.4,0,0,1,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,19.666666666666668
+Ladislav Krejčí,DF,Czech Republic,27,1.eng Wolves,1999,3,3,270,3.0,1,0,1,1,0,0,1,0,0.33,0.0,0.33,0.33,0.33,3,0,,90.0,100.0,6,2,0,0,DF,UEFA,Mainly a starter,0.3333333333333333,0.3333333333333333,2.0,90.0
+Takefusa Kubo,MF,Japan,25,1.es Real Sociedad,2001,1,1,74,0.8,0,1,1,0,0,0,0,0,0.0,1.22,1.22,0.0,1.22,1,0,,74.0,20.6,1,1,0,0,MF,AFC,Mainly a starter,0.0,1.2162162162162162,1.2162162162162162,74.0
+Brandley Kuwas,"FW,MF",Curaçao,33,1.nl Volendam,1992,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.4,0,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,1.0
+Prince Kwabena Adu,FW,Ghana,22,1.cz Viktoria Plzeň,2003,3,0,39,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,13.0,,10.8,4,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,9.23076923076923,13.0
+Maxence Lacroix,DF,France,26,1.eng Crystal Palace,2000,3,2,241,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,61.0,90.0,33.5,5,0,1,0,DF,UEFA,Mainly a starter,0.0,0.0,1.8672199170124482,80.33333333333333
+Gustaf Lagerbielke,DF,Sweden,26,1.pt Braga,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,1,3,1,0,DF,UEFA,Mainly a starter,0.0,0.0,0.25,90.0
+Konrad Laimer,"MF,DF",Austria,29,1.de Bayern Munich,1997,4,4,360,4.0,0,1,1,0,0,0,1,0,0.0,0.25,0.25,0.0,0.25,4,0,,90.0,100.0,6,3,3,0,MF,UEFA,Mainly a starter,0.0,0.25,1.5,90.0
+Ali Lajami,DF,Saudi Arabia,30,1.sa Al-Hilal,1996,3,1,149,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,30.0,90.0,55.2,0,2,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,49.666666666666664
+Senne Lammens,GK,Belgium,23,1.eng Manchester Utd,2002,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,20.0,,3.5,0,0,0,0,GK,UEFA,Mainly a substitute,0.0,0.0,0.0,20.0
+Noa Lang,"FW,MF",Netherlands,26,1.tr Galatasaray,1999,2,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,4.0,,2.1,0,1,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,4.0
+Sondre Langås,DF,Norway,25,2.eng Derby County,2001,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,25.0,,4.4,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,25.0
+Aymeric Laporte,DF,Spain,32,1.es Athletic Club,1994,8,8,727,8.1,0,1,1,0,0,0,1,0,0.0,0.12,0.12,0.0,0.12,8,0,,91.0,96.9,5,4,0,0,DF,UEFA,Mainly a starter,0.0,0.12379642365887207,0.6189821182943603,90.875
+Cyle Larin,FW,Canada,31,1.es Mallorca,1995,4,2,190,2.1,2,0,2,2,0,0,2,0,0.95,0.0,0.95,0.95,0.95,2,2,22.0,74.0,42.2,5,1,3,0,FW,CONCACAF,Mainly a starter,0.9473684210526315,0.9473684210526315,2.3684210526315788,47.5
+Richie Laryea,DF,Canada,31,1.us Toronto FC,1995,5,5,429,4.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,86.0,95.3,8,14,1,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.6783216783216783,85.8
+Mohanad Lasheen,MF,Egypt,30,,1996,4,4,359,4.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,74.8,5,3,0,0,MF,CAF,Mainly a starter,0.0,0.0,1.2534818941504178,89.75
+Issa Laye,"MF,DF",Qatar,28,1.qa Al-Arabi,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,3,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Rafael Leão,MF,Portugal,27,1.it Milan,1999,5,1,158,1.8,1,1,2,1,0,0,0,0,0.57,0.57,1.14,0.57,1.14,1,4,17.0,90.0,35.1,1,2,0,0,MF,UEFA,Mainly a substitute,0.569620253164557,1.139240506329114,0.569620253164557,31.6
+Mathew Leckie,MF,Australia,35,1.au Melb City,1991,1,1,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,60.0,15.4,1,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.5,60.0
+Jefferson Lerma,MF,Colombia,31,1.eng Crystal Palace,1994,5,5,410,4.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,82.0,85.4,6,5,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,1.3170731707317074,82.0
+Jamie Leweling,"FW,MF",Germany,25,1.de Stuttgart,2001,1,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,31.0,,7.9,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,31.0
+Philipp Lienhart,DF,Austria,29,1.de Freiburg,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,50.0,0,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Victor Lindelöf,"DF,MF",Sweden,31,1.eng Aston Villa,1994,4,4,356,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,89.0,98.9,3,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.7584269662921348,89.0
+Erik Lira,MF,Mexico,26,1.mx Cruz Azul,2000,4,4,345,3.8,0,1,1,0,0,0,0,0,0.0,0.26,0.26,0.0,0.26,4,0,,86.0,76.7,3,4,0,0,MF,CONCACAF,Mainly a starter,0.0,0.2608695652173913,0.782608695652174,86.25
+Dominik Livaković,GK,Croatia,31,1.hr Dinamo Zagreb,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,1,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Dailon Livramento,FW,Cape Verde,25,1.pt Casa Pia,2001,3,2,174,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,54.0,60.0,44.6,1,1,2,0,FW,CAF,Mainly a starter,0.0,0.0,0.5172413793103449,58.0
+Marcos Llorente,DF,Spain,31,1.es Atlético Madrid,1995,3,2,187,2.1,0,1,1,0,0,0,0,0,0.0,0.48,0.48,0.0,0.48,2,1,7.0,90.0,24.9,2,1,0,0,DF,UEFA,Mainly a starter,0.0,0.48128342245989303,0.9625668449197861,62.333333333333336
+Giovani Lo Celso,MF,Argentina,30,1.es Real Betis,1996,1,1,59,0.7,1,0,1,1,0,0,0,0,1.53,0.0,1.53,1.53,1.53,1,0,,59.0,7.3,1,1,1,0,MF,CONMEBOL,Mainly a starter,1.5254237288135593,1.5254237288135593,1.5254237288135593,59.0
+Jürgen Locadia,FW,Curaçao,32,2.us Miami FC,1993,3,3,235,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,78.0,87.0,3,4,2,0,FW,CONCACAF,Mainly a starter,0.0,0.0,1.148936170212766,78.33333333333333
+Azarías Londoño,MF,Panama,24,1.ec Univ Católica,2001,3,0,56,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,19.0,,20.7,1,0,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,1.6071428571428572,18.666666666666668
+Sidny Lopes Cabral,DF,Cape Verde,23,1.pt Benfica,2002,3,3,285,3.2,1,0,1,1,0,0,2,0,0.32,0.0,0.32,0.32,0.32,3,0,,95.0,73.1,2,9,0,0,DF,CAF,Mainly a starter,0.3157894736842105,0.3157894736842105,0.631578947368421,95.0
+Flaco López,FW,Argentina,25,1.br Palmeiras,2000,2,0,20,0.2,0,1,1,0,0,0,1,0,0.0,4.5,4.5,0.0,4.5,0,2,10.0,,2.5,1,0,0,0,FW,CONMEBOL,Mainly a substitute,0.0,4.5,4.5,10.0
+Derrick Luckassen,DF,Ghana,30,1.cy Pafos FC,1995,2,2,180,2.0,1,0,1,1,0,0,0,0,0.5,0.0,0.5,0.5,0.5,2,0,,90.0,50.0,1,2,0,0,DF,CAF,Mainly a starter,0.5,0.5,0.5,90.0
+Jhon Lucumí,DF,Colombia,27,1.it Bologna,1998,5,5,478,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,99.6,5,0,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.9414225941422594,95.6
+José Luis Rodríguez,"MF,FW",Panama,27,1.mx FC Juárez,1998,3,3,233,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,78.0,86.3,4,2,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.5450643776824033,77.66666666666667
+Romelu Lukaku,FW,Belgium,33,1.it Napoli,1993,6,1,233,2.6,3,1,4,3,0,0,1,0,1.16,0.39,1.55,1.16,1.55,1,5,32.0,72.0,40.9,2,0,1,0,FW,UEFA,Mainly a substitute,1.1587982832618027,1.5450643776824033,0.7725321888412017,38.833333333333336
+Dodi Lukebakio,MF,Belgium,28,1.pt Benfica,1997,3,1,164,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,49.0,66.0,28.8,1,2,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.5487804878048781,54.666666666666664
+Jovo Lukić,FW,Bosnia and Herzegovina,27,1.ro Univ. Cluj,1998,2,1,67,0.7,1,0,1,1,0,0,1,0,1.34,0.0,1.34,1.34,1.34,1,1,6.0,61.0,18.6,1,0,0,0,FW,UEFA,Mainly a starter,1.3432835820895523,1.3432835820895523,1.3432835820895523,33.5
+Awer Mabil,"FW,MF",Australia,30,2.es Castellón,1995,1,0,30,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,30.0,,7.7,0,1,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,30.0
+Alexis Mac Allister,MF,Argentina,27,1.eng Liverpool,1998,8,7,750,8.3,1,1,2,1,0,0,1,0,0.12,0.12,0.24,0.12,0.24,7,1,30.0,103.0,92.6,9,12,0,0,MF,CONMEBOL,Mainly a starter,0.12,0.24,1.08,93.75
+Deiver Machado,DF,Colombia,32,1.fr Nantes,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,18.8,1,2,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.0,90.0
+Shuto Machino,FW,Japan,26,1.de Gladbach,1999,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,13.0,,3.6,1,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,6.923076923076923,13.0
+Assim Madibo,MF,Qatar,29,1.qa Al-Wakrah,1996,2,2,131,1.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,2,0,,66.0,48.5,2,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.3740458015267176,65.5
+Noni Madueke,MF,England,24,1.eng Arsenal,2002,5,4,286,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,1,28.0,65.0,38.1,2,3,1,0,MF,UEFA,Mainly a starter,0.0,0.0,0.6293706293706294,57.2
+Daizen Maeda,MF,Japan,28,1.sct Celtic,1997,3,3,244,2.7,1,0,1,1,0,0,0,0,0.37,0.0,0.37,0.37,0.37,3,0,,81.0,67.8,2,1,1,0,MF,AFC,Mainly a starter,0.36885245901639346,0.36885245901639346,0.7377049180327869,81.33333333333333
+Gabriel Magalhães,DF,Brazil,28,1.eng Arsenal,1997,5,5,450,5.0,0,1,1,0,0,0,0,0,0.0,0.2,0.2,0.0,0.2,5,0,,90.0,100.0,1,3,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.2,0.2,90.0
+Ermin Mahmić,MF,Bosnia and Herzegovina,21,1.cz Slovan Liberec,2005,3,0,68,0.8,2,0,2,2,0,0,1,0,2.65,0.0,2.65,2.65,2.65,0,3,23.0,,18.9,1,1,0,0,MF,UEFA,Mainly a substitute,2.6470588235294117,2.6470588235294117,1.3235294117647058,22.666666666666668
+Hadj Mahmoud,MF,Tunisia,26,1.ch Lugano,2000,2,0,43,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,22.0,,15.9,2,0,0,0,MF,CAF,Mainly a substitute,0.0,0.0,4.186046511627907,21.5
+Riyad Mahrez,MF,Algeria,35,1.sa Al-Ahli,1991,4,3,262,2.9,2,1,3,2,0,0,0,0,0.69,0.34,1.03,0.69,1.03,3,1,27.0,78.0,72.8,1,7,1,0,MF,CAF,Mainly a starter,0.6870229007633588,1.0305343511450382,0.3435114503816794,65.5
+Alexandro Maidana,DF,Paraguay,20,1.ar Talleres–C,2005,2,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,10.0,45.0,11.5,0,0,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.0,27.5
+Mike Maignan,GK,France,30,1.it Milan,1995,8,8,720,8.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,8,0,,90.0,100.0,0,2,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Evidence Makgopa,FW,South Africa,26,1.za Orlando Pirates,2000,4,2,215,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,20.0,88.0,59.7,1,1,2,0,FW,CAF,Mainly a starter,0.0,0.0,0.4186046511627907,53.75
+Ahmed Maknzi,DF,Iraq,24,1.iq Al-Karma,2001,1,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,33.0,,12.2,0,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,33.0
+Donyell Malen,FW,Netherlands,27,1.it Roma,1999,3,3,185,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,62.0,47.4,0,2,0,0,FW,UEFA,Mainly a starter,0.0,0.0,0.0,61.666666666666664
+Arjan Malic,DF,Bosnia and Herzegovina,20,1.at Sturm Graz,2005,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,12.5,1,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,2.0,45.0
+Mohamed Manai,DF,Qatar,23,1.qa Al-Shamal Sports Club,2002,3,0,69,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,23.0,,25.6,3,0,0,1,DF,AFC,Mainly a substitute,0.0,0.0,3.9130434782608696,23.0
+Aïssa Mandi,DF,Algeria,34,1.fr Lille,1991,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,5,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Sadio Mané,"MF,FW",Senegal,34,1.sa Al-Nassr,1992,4,4,362,4.0,0,1,1,0,0,0,0,0,0.0,0.25,0.25,0.0,0.25,4,0,,91.0,92.8,4,10,3,0,MF,CAF,Mainly a starter,0.0,0.24861878453038674,0.994475138121547,90.5
+Juan Manuel Sanabria,DF,Uruguay,26,1.mx Atlético San Luis,2000,3,2,204,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,80.0,75.6,1,0,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.4411764705882353,68.0
+Johan Manzambi,"MF,FW",Switzerland,20,1.de Freiburg,2005,4,2,199,2.2,3,2,5,3,0,0,0,0,1.36,0.9,2.26,1.36,2.26,2,2,23.0,77.0,33.2,3,3,1,0,MF,UEFA,Mainly a starter,1.35678391959799,2.2613065326633164,1.35678391959799,49.75
+Mahmoud Al-Mardi,MF,Jordan,32,1.jo Al-Hussein SC,1993,3,1,130,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,28.0,75.0,48.1,4,2,0,0,MF,AFC,Mainly a substitute,0.0,0.0,2.769230769230769,43.333333333333336
+Jearl Margaritha,"FW,MF",Curaçao,26,2.be Beveren,2000,2,0,41,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,21.0,,15.2,0,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,20.5
+Omar Marmoush,"FW,MF",Egypt,27,1.eng Manchester City,1999,5,3,326,3.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,2,28.0,90.0,67.9,3,8,0,0,FW,CAF,Mainly a starter,0.0,0.0,0.8282208588957055,65.2
+Marquinhos,DF,Brazil,32,1.fr PSG,1994,5,5,450,5.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,90.0,100.0,0,2,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.0,90.0
+Gabriel Martinelli,MF,Brazil,24,1.eng Arsenal,2001,4,1,143,1.6,1,0,1,1,0,0,0,0,0.63,0.0,0.63,0.63,0.63,1,3,26.0,66.0,31.8,4,3,0,0,MF,CONMEBOL,Mainly a substitute,0.6293706293706294,0.6293706293706294,2.5174825174825175,35.75
+Guillermo Martínez Ayala,FW,Mexico,31,1.mx UNAM,1995,2,1,72,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,10.0,62.0,16.0,3,1,0,0,FW,CONCACAF,Mainly a starter,0.0,0.0,3.75,36.0
+Cristian Martínez,"MF,FW",Panama,29,1.il Kiryat Shmona,1997,3,3,242,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,81.0,89.6,5,5,1,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.859504132231405,80.66666666666667
+Emiliano Martínez,GK,Argentina,33,1.eng Aston Villa,1992,8,8,810,9.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,8,0,,101.0,100.0,0,1,0,0,GK,CONMEBOL,Mainly a starter,0.0,0.0,0.0,101.25
+Lautaro Martínez,FW,Argentina,28,1.it Inter,1997,7,4,310,3.4,3,1,4,2,1,1,1,0,0.87,0.29,1.16,0.58,0.87,4,3,24.0,60.0,38.3,8,5,2,0,FW,CONMEBOL,Mainly a starter,0.8709677419354839,1.1612903225806452,2.3225806451612905,44.285714285714285
+Lisandro Martínez,DF,Argentina,28,1.eng Manchester Utd,1998,7,7,624,6.9,1,1,2,1,0,0,2,0,0.14,0.14,0.29,0.14,0.29,7,0,,89.0,77.0,7,4,0,0,DF,CONMEBOL,Mainly a starter,0.14423076923076922,0.28846153846153844,1.0096153846153846,89.14285714285714
+Thapelo Maseko,"MF,FW",South Africa,22,1.cy AEL Limassol,2003,3,3,242,2.7,1,0,1,1,0,0,0,0,0.37,0.0,0.37,0.37,0.37,3,0,,81.0,67.2,4,10,0,0,MF,CAF,Mainly a starter,0.371900826446281,0.371900826446281,1.487603305785124,80.66666666666667
+Hazem Mastouri,FW,Tunisia,28,1.ru D. Makhachkala,1997,1,1,89,1.0,1,0,1,1,0,0,0,0,1.01,0.0,1.01,1.01,1.01,1,0,,89.0,33.0,2,2,0,0,FW,CAF,Mainly a starter,1.0112359550561798,1.0112359550561798,2.0224719101123596,89.0
+Arthur Masuaku,DF,DR Congo,32,1.fr Lens,1993,4,4,315,3.5,0,1,1,0,0,0,0,0,0.0,0.29,0.29,0.0,0.29,4,0,,79.0,87.5,0,4,0,0,DF,CAF,Mainly a starter,0.0,0.2857142857142857,0.0,78.75
+Igor Matanović,FW,Croatia,23,1.de Freiburg,2003,3,0,95,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,32.0,,26.4,4,3,1,0,FW,UEFA,Mainly a substitute,0.0,0.0,3.789473684210526,31.666666666666668
+Pape Matar Sarr,MF,Senegal,23,1.eng Tottenham,2002,2,0,67,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,34.0,,17.2,1,0,0,0,MF,CAF,Mainly a substitute,0.0,0.0,1.3432835820895523,33.5
+Jean-Philippe Mateta,FW,France,28,1.eng Crystal Palace,1997,3,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,8.0,,3.3,1,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,3.75,8.0
+Mauricio,MF,Paraguay,25,1.br Palmeiras,2001,4,0,173,1.9,1,0,1,1,0,0,0,0,0.52,0.0,0.52,0.52,0.52,0,4,43.0,,36.0,3,3,0,0,MF,CONMEBOL,Mainly a substitute,0.5202312138728323,0.5202312138728323,1.560693641618497,43.25
+Fiston Mayele,FW,DR Congo,31,1.eg Pyramids FC,1994,2,0,42,0.5,1,0,1,1,0,0,0,0,2.14,0.0,2.14,2.14,2.14,0,2,21.0,,11.7,1,1,1,0,FW,CAF,Mainly a substitute,2.142857142857143,2.142857142857143,2.142857142857143,21.0
+Ibrahim Maza,"MF,FW",Algeria,20,1.de Leverkusen,2005,4,4,351,3.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,88.0,97.5,1,5,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.2564102564102564,87.75
+Noussair Mazraoui,DF,Morocco,28,1.eng Manchester Utd,1997,6,5,477,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,1,8.0,94.0,83.7,4,6,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.7547169811320755,79.5
+Kylian Mbappé,FW,France,27,1.es Real Madrid,1998,8,8,695,7.7,10,4,14,9,1,2,1,0,1.29,0.52,1.81,1.17,1.68,8,0,,87.0,96.5,6,8,7,0,FW,UEFA,Mainly a starter,1.2949640287769784,1.8129496402877698,0.7769784172661871,86.875
+Thalente Mbatha,MF,South Africa,26,1.za Orlando Pirates,2000,4,2,260,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,2,40.0,90.0,72.2,4,0,0,0,MF,CAF,Mainly a starter,0.0,0.0,1.3846153846153846,65.0
+Ibrahim Mbaye,MF,Senegal,18,1.fr PSG,2008,4,1,157,1.7,1,0,1,1,0,0,0,0,0.57,0.0,0.57,0.57,0.57,1,3,34.0,56.0,40.3,0,2,0,0,MF,CAF,Mainly a substitute,0.5732484076433121,0.5732484076433121,0.0,39.25
+Chancel Mbemba,DF,DR Congo,31,1.fr Lille,1994,4,4,360,4.0,0,1,1,0,0,0,1,0,0.0,0.25,0.25,0.0,0.25,4,0,,90.0,100.0,1,3,0,0,DF,CAF,Mainly a starter,0.0,0.25,0.25,90.0
+Mbekezeli Mbokazi,DF,South Africa,20,1.us Chicago Fire,2005,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,3,5,1,0,DF,CAF,Mainly a starter,0.0,0.0,0.75,90.0
+Nathanaël Mbuku,"MF,FW",DR Congo,24,2.fr Montpellier,2002,3,2,143,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,9.0,67.0,39.7,4,8,0,0,MF,CAF,Mainly a starter,0.0,0.0,2.5174825174825175,47.666666666666664
+Callum McCowatt,MF,New Zealand,27,1.dk Silkeborg,1999,3,2,159,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,27.0,66.0,58.9,4,1,0,0,MF,OFC,Mainly a starter,0.0,0.0,2.2641509433962264,53.0
+John McGinn,MF,Scotland,31,1.eng Aston Villa,1994,3,3,259,2.9,1,0,1,1,0,0,0,0,0.35,0.0,0.35,0.35,0.35,3,0,,86.0,95.9,2,11,0,0,MF,UEFA,Mainly a starter,0.3474903474903475,0.3474903474903475,0.694980694980695,86.33333333333333
+Scott McKenna,DF,Scotland,29,1.hr Dinamo Zagreb,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,0,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Weston McKennie,MF,United States,27,1.it Juventus,1998,5,5,443,4.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,89.0,98.4,8,2,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.6252821670428894,88.6
+Mark McKenzie,DF,United States,27,1.fr Toulouse,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,20.0,1,1,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.0,90.0
+Kenny McLean,MF,Scotland,34,2.eng Norwich City,1992,3,1,118,1.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,2,14.0,90.0,43.7,1,1,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.7627118644067796,39.333333333333336
+Scott McTominay,MF,Scotland,29,1.it Napoli,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,3,0,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.0,90.0
+Brandon Mechele,DF,Belgium,33,1.be Club Brugge,1993,6,6,570,6.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,6,0,,95.0,100.0,9,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.4210526315789473,95.0
+Facundo Medina,DF,Argentina,27,1.fr Marseille,1999,5,3,308,3.4,0,1,1,0,0,0,1,0,0.0,0.29,0.29,0.0,0.29,3,2,26.0,85.0,38.0,3,2,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.2922077922077922,0.8766233766233766,61.6
+Yaimar Medina,"DF,MF",Ecuador,21,1.be Genk,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,45.0,,12.5,1,0,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,2.0,45.0
+Hannibal Mejbri,MF,Tunisia,23,1.eng Burnley,2003,3,3,270,3.0,0,2,2,0,0,0,0,0,0.0,0.67,0.67,0.0,0.67,3,0,,90.0,100.0,4,15,0,0,MF,CAF,Mainly a starter,0.0,0.6666666666666666,1.3333333333333333,90.0
+Amar Memić,MF,Bosnia and Herzegovina,25,1.cz Viktoria Plzeň,2001,4,2,224,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,31.0,82.0,62.2,4,3,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.6071428571428572,56.0
+Memphis,"FW,MF",Netherlands,32,1.br Corinthians,1994,3,0,54,0.6,0,1,1,0,0,0,1,0,0.0,1.67,1.67,0.0,1.67,0,3,18.0,,13.8,1,1,0,0,FW,UEFA,Mainly a substitute,0.0,1.6666666666666667,1.6666666666666667,18.0
+Sultan Mendash,MF,Saudi Arabia,31,1.sa Al-Hilal,1994,1,1,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,65.0,24.1,1,2,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.3846153846153846,65.0
+Lucas Mendes,DF,Qatar,35,1.qa Al-Wakrah,1990,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,4.0,,1.5,0,0,1,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,4.0
+Nuno Mendes,DF,Portugal,23,1.fr PSG,2002,5,5,395,4.4,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23,5,0,,79.0,87.8,3,12,1,0,DF,UEFA,Mainly a starter,0.22784810126582278,0.22784810126582278,0.6835443037974683,79.0
+Ryan Mendes,"FW,MF",Cape Verde,36,2.tr 76 Iğdır Belediyespor,1990,4,4,330,3.7,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27,4,0,,83.0,84.6,1,2,2,0,FW,CAF,Mainly a starter,0.0,0.2727272727272727,0.2727272727272727,82.5
+Édouard Mendy,GK,Senegal,34,1.sa Al-Ahli,1992,2,2,152,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,76.0,39.0,0,0,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,76.0
+Gideon Mensah,DF,Ghana,27,1.fr Auxerre,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,2,3,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.5,90.0
+Mikel Merino,MF,Spain,29,1.eng Arsenal,1996,8,1,199,2.2,2,0,2,2,0,0,0,0,0.9,0.0,0.9,0.9,0.9,1,7,20.0,59.0,26.5,6,8,0,0,MF,UEFA,Mainly a substitute,0.9045226130653267,0.9045226130653267,2.71356783919598,24.875
+Lionel Messi,FW,Argentina,38,1.us Inter Miami,1987,8,7,740,8.2,8,4,12,8,0,2,0,0,0.97,0.49,1.46,0.97,1.46,7,1,31.0,101.0,91.4,3,20,5,0,FW,CONMEBOL,Mainly a starter,0.972972972972973,1.4594594594594594,0.36486486486486486,92.5
+Connor Metcalfe,MF,Australia,26,1.de St Pauli,1999,4,3,315,3.5,1,0,1,1,0,0,0,0,0.29,0.0,0.29,0.29,0.29,3,1,45.0,90.0,80.8,1,0,0,0,MF,AFC,Mainly a starter,0.2857142857142857,0.2857142857142857,0.2857142857142857,78.75
+Thomas Meunier,DF,Belgium,34,1.fr Lille,1991,3,2,190,2.1,0,1,1,0,0,0,0,0,0.0,0.47,0.47,0.0,0.47,2,1,43.0,74.0,33.3,9,0,0,0,DF,UEFA,Mainly a starter,0.0,0.47368421052631576,4.2631578947368425,63.333333333333336
+Liam Millar,MF,Canada,26,2.eng Hull City,1999,3,2,162,1.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,33.0,65.0,36.0,3,1,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.6666666666666667,54.0
+Kim Min-jae,DF,South Korea,29,1.de Bayern Munich,1996,3,3,245,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,82.0,90.7,2,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.7346938775510204,81.66666666666667
+Yerry Mina,DF,Colombia,31,1.it Cagliari,1994,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,2.0,,0.4,0,1,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,2.0
+Alan Minda,MF,Ecuador,23,1.br Atlético Mineiro,2003,1,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,55.0,15.3,0,1,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,0.0,55.0
+Aubrey Modiba,DF,South Africa,30,1.za Sundowns,1995,4,4,346,3.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,87.0,96.1,4,6,2,0,DF,CAF,Mainly a starter,0.0,0.0,1.0404624277456647,86.5
+Luka Modrić,MF,Croatia,40,1.it Milan,1985,4,4,317,3.5,0,1,1,0,0,0,1,0,0.0,0.28,0.28,0.0,0.28,4,0,,79.0,88.1,4,3,0,0,MF,UEFA,Mainly a starter,0.0,0.28391167192429023,1.135646687697161,79.25
+Relebohile Mofokeng,MF,South Africa,21,1.za Orlando Pirates,2004,3,2,169,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,62.0,46.9,3,2,0,0,MF,CAF,Mainly a starter,0.0,0.0,1.5976331360946745,56.333333333333336
+Shahriar Moghanlou,FW,Iran,31,1.ae Al-Ittihad Kalba,1994,3,1,88,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,18.0,52.0,32.6,1,1,1,0,FW,AFC,Mainly a substitute,0.0,0.0,1.0227272727272727,29.333333333333332
+Milad Mohammadi,DF,Iran,32,1.ir Persepolis,1993,3,2,205,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,25.0,90.0,75.9,1,1,2,0,DF,AFC,Mainly a starter,0.0,0.0,0.43902439024390244,68.33333333333333
+Mohammad Mohebi,MF,Iran,27,1.ru Rostov,1998,3,3,244,2.7,1,0,1,1,0,0,0,0,0.37,0.0,0.37,0.37,0.37,3,0,,81.0,90.4,1,1,0,0,MF,AFC,Mainly a starter,0.36885245901639346,0.36885245901639346,0.36885245901639346,81.33333333333333
+Johan Mojica,DF,Colombia,33,1.es Mallorca,1992,4,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,81.3,1,7,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.23076923076923078,97.5
+Teboho Mokoena,MF,South Africa,29,1.za Sundowns,1997,3,3,270,3.0,1,0,1,0,1,1,2,0,0.33,0.0,0.33,0.0,0.0,3,0,,90.0,75.0,3,6,0,0,MF,CAF,Mainly a starter,0.3333333333333333,0.3333333333333333,1.0,90.0
+Nahuel Molina,DF,Argentina,28,1.es Atlético Madrid,1998,7,5,528,5.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,2,54.0,84.0,65.2,3,0,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.5113636363636364,75.42857142857143
+Jamiro Monteiro,MF,Cape Verde,32,1.nl Zwolle,1993,4,3,281,3.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,54.0,76.0,72.1,4,2,0,0,MF,CAF,Mainly a starter,0.0,0.0,1.2811387900355873,70.25
+César Montes,DF,Mexico,29,1.ru Loko Moscow,1997,4,4,314,3.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,4,0,,79.0,69.8,4,3,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.1464968152866242,78.5
+Gonzalo Montiel,DF,Argentina,29,1.ar River Plate,1997,6,2,192,2.1,0,1,1,0,0,0,1,0,0.0,0.47,0.47,0.0,0.47,2,4,23.0,51.0,23.7,4,2,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.46875,1.875,32.0
+Kim Moon-hwan,MF,South Korea,30,1.kr Daejeon Hana,1995,1,1,70,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,70.0,25.9,0,0,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.0,70.0
+Gilberto Mora,MF,Mexico,17,1.mx Tijuana,2008,4,3,213,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,25.0,63.0,47.3,3,3,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.267605633802817,53.25
+Diego Moreira,MF,Belgium,21,1.fr Strasbourg,2004,1,0,58,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,58.0,,10.2,2,1,1,0,MF,UEFA,Mainly a substitute,0.0,0.0,3.103448275862069,58.0
+Steven Moreira,DF,Cape Verde,31,1.us Columbus Crew,1994,4,3,301,3.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,1.0,100.0,77.2,0,2,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,75.25
+Tshepang Moremi,MF,South Africa,25,1.za Orlando Pirates,2000,2,0,34,0.4,0,1,1,0,0,0,0,0,0.0,2.65,2.65,0.0,2.65,0,2,17.0,,9.4,1,1,0,0,MF,CAF,Mainly a substitute,0.0,2.6470588235294117,2.6470588235294117,17.0
+Orlando Mosquera,GK,Panama,31,1.sa Al-Fayha,1994,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,0,0,0,GK,CONCACAF,Mainly a starter,0.0,0.0,0.0,90.0
+Samir El Mourabet,MF,Morocco,20,1.fr Strasbourg,2005,5,0,81,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,5,16.0,,14.2,0,1,0,0,MF,CAF,Mainly a substitute,0.0,0.0,0.0,16.2
+Samuel Moutoussamy,MF,DR Congo,29,1.gr Atromitos,1996,4,4,330,3.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,83.0,91.7,8,1,0,0,MF,CAF,Mainly a starter,0.0,0.0,2.1818181818181817,82.5
+Akmal Mozgovoy,MF,Uzbekistan,27,1.uz Pakhtakor Tashkent FK,1999,3,2,216,2.4,0,1,1,0,0,0,0,0,0.0,0.42,0.42,0.0,0.42,2,1,45.0,86.0,80.0,0,3,0,0,MF,AFC,Mainly a starter,0.0,0.4166666666666667,0.0,72.0
+Lionel Mpasi,GK,DR Congo,31,1.fr Le Havre,1994,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,0,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Khuliso Mudau,DF,South Africa,31,1.za Sundowns,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,4,10,1,0,DF,CAF,Mainly a starter,0.0,0.0,1.0,90.0
+Tarik Muharemovic,DF,Bosnia and Herzegovina,23,1.it Sassuolo,2003,3,3,259,2.9,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3,0,,86.0,71.9,5,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.7374517374517375,86.33333333333333
+Miro Muheim,"DF,MF",Switzerland,28,1.de Hamburger SV,1998,3,0,87,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,3,29.0,,14.5,1,3,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,1.0344827586206897,29.0
+Ngal'Ayel Mukau,MF,DR Congo,21,1.fr Lille,2004,4,3,195,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,19.0,59.0,54.2,3,4,1,0,MF,CAF,Mainly a starter,0.0,0.0,1.3846153846153846,48.75
+Mert Müldür,DF,Turkey,27,1.tr Fenerbahçe,1999,3,1,101,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,6.0,90.0,37.4,1,2,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.8910891089108911,33.666666666666664
+Daniel Muñoz,DF,Colombia,30,1.eng Crystal Palace,1996,5,4,394,4.4,2,0,2,2,0,0,0,0,0.46,0.0,0.46,0.46,0.46,4,1,4.0,98.0,82.1,9,1,3,0,DF,CONMEBOL,Mainly a starter,0.45685279187817257,0.45685279187817257,2.0558375634517767,78.8
+Petar Musa,FW,Croatia,28,1.us FC Dallas,1998,2,2,110,1.2,1,0,1,1,0,0,0,0,0.82,0.0,0.82,0.82,0.82,2,0,,55.0,30.6,1,1,0,0,FW,UEFA,Mainly a starter,0.8181818181818182,0.8181818181818182,0.8181818181818182,55.0
+Jamal Musiala,MF,Germany,23,1.de Bayern Munich,2003,4,3,270,3.0,1,0,1,1,0,0,1,0,0.33,0.0,0.33,0.33,0.33,3,1,58.0,71.0,69.2,5,11,0,0,MF,UEFA,Mainly a starter,0.3333333333333333,0.3333333333333333,1.6666666666666667,67.5
+Fernando Muslera,GK,Uruguay,39,1.tr Galatasaray,1986,3,3,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,75.0,83.3,0,0,0,0,GK,CONMEBOL,Mainly a starter,0.0,0.0,0.0,75.0
+Phillipp Mwene,DF,Austria,32,1.de Mainz 05,1994,2,2,147,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,74.0,40.8,1,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.6122448979591837,73.5
+David Møller Wolfe,DF,Norway,24,1.eng Wolves,2002,5,5,430,4.8,0,1,1,0,0,0,0,0,0.0,0.21,0.21,0.0,0.21,5,0,,86.0,75.4,7,2,0,0,DF,UEFA,Mainly a starter,0.0,0.20930232558139536,1.4651162790697674,86.0
+Yūto Nagatomo,"DF,MF",Japan,39,1.jp FC Tokyo,1986,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,16.0,,4.4,0,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,16.0
+Keito Nakamura,MF,Japan,25,2.fr Reims,2000,4,4,307,3.4,1,1,2,1,0,0,0,0,0.29,0.29,0.59,0.29,0.59,4,0,,77.0,85.3,3,1,1,0,MF,AFC,Mainly a starter,0.2931596091205212,0.5863192182410424,0.8794788273615635,76.75
+Abdallah Nasib,DF,Jordan,32,1.iq Al-Zawra'a SC,1994,3,3,260,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,87.0,96.3,1,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.34615384615384615,86.66666666666667
+Sherzod Nasrullaev,"DF,MF",Uzbekistan,27,1.uz FC Nasaf,1998,3,3,180,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,60.0,66.7,3,2,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.5,60.0
+Duckens Nazon,"FW,MF",Haiti,32,1.ir Esteghlal,1994,1,0,24,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,1,24.0,,8.9,0,1,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,24.0
+Iliman Ndiaye,FW,Senegal,26,1.eng Everton,2000,3,1,114,1.3,1,2,3,1,0,0,0,0,0.79,1.58,2.37,0.79,2.37,1,2,21.0,72.0,29.2,2,1,0,0,FW,CAF,Mainly a substitute,0.7894736842105263,2.3684210526315788,1.5789473684210527,38.0
+Dan Ndoye,"MF,FW",Switzerland,25,1.eng Nottingham,2000,6,5,406,4.5,2,0,2,2,0,0,0,0,0.44,0.0,0.44,0.44,0.44,5,1,11.0,79.0,67.7,5,16,4,0,MF,UEFA,Mainly a starter,0.4433497536945813,0.4433497536945813,1.1083743842364533,67.66666666666667
+Jayden Nelson,"FW,MF",Canada,23,1.us Austin FC,2002,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,4.0,,0.9,0,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,4.0
+Ali Nemati,DF,Iran,30,1.ir Foolad,1996,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,3,0,1,0,DF,AFC,Mainly a starter,0.0,0.0,1.0,90.0
+Abduvohid Nematov,GK,Uzbekistan,25,1.uz FC Nasaf,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,66.7,0,0,0,1,GK,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Pedro Neto,MF,Portugal,26,1.eng Chelsea,2000,5,5,350,3.9,0,1,1,0,0,0,0,0,0.0,0.26,0.26,0.0,0.26,5,0,,70.0,77.8,4,4,0,0,MF,UEFA,Mainly a starter,0.0,0.2571428571428571,1.0285714285714285,70.0
+Manuel Neuer,GK,Germany,40,1.de Bayern Munich,1986,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,100.0,0,2,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,97.5
+João Neves,MF,Portugal,21,1.fr PSG,2004,5,4,390,4.3,1,0,1,1,0,0,0,0,0.23,0.0,0.23,0.23,0.23,4,1,45.0,86.0,86.7,1,4,0,0,MF,UEFA,Mainly a starter,0.23076923076923078,0.23076923076923078,0.23076923076923078,78.0
+Rúben Neves,MF,Portugal,29,1.sa Al-Hilal,1997,2,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,10.0,45.0,12.2,0,0,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.0,27.5
+Neymar,"FW,MF",Brazil,34,1.br Santos,1992,2,0,39,0.4,1,0,1,0,1,1,1,0,2.31,0.0,2.31,0.0,0.0,0,2,20.0,,8.7,1,1,0,0,FW,CONMEBOL,Mainly a substitute,2.3076923076923075,2.3076923076923075,2.3076923076923075,19.5
+Nathan Ngoy,DF,Belgium,23,1.fr Lille,2003,4,4,335,3.7,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,4,0,,84.0,58.8,6,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.6119402985074627,83.75
+Moussa Niakhaté,DF,Senegal,30,1.fr Lyon,1996,4,4,390,4.3,0,1,1,0,0,0,0,0,0.0,0.23,0.23,0.0,0.23,4,0,,98.0,100.0,3,6,0,0,DF,CAF,Mainly a starter,0.0,0.23076923076923078,0.6923076923076923,97.5
+Gustaf Nilsson,FW,Sweden,29,1.be Club Brugge,1997,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,2.0,,0.6,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,2.0
+Felix Nmecha,MF,Germany,25,1.de Dortmund,2000,4,4,270,3.0,1,1,2,1,0,0,0,0,0.33,0.33,0.67,0.33,0.67,4,0,,68.0,69.2,3,3,0,0,MF,UEFA,Mainly a starter,0.3333333333333333,0.6666666666666666,1.0,67.5
+Kristoffer Nordfeldt,GK,Sweden,36,1.se AIK Stockholm,1989,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,50.0,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Tyrese Noslin,MF,Curaçao,23,1.nl Telstar,2002,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,14.0,,5.2,0,2,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,14.0
+Ernest Nuamah,MF,Ghana,22,1.fr Lyon,2003,3,1,89,1.0,0,1,1,0,0,0,0,0,0.0,1.01,1.01,0.0,1.01,1,2,16.0,57.0,24.7,2,2,0,0,MF,CAF,Mainly a substitute,0.0,1.0112359550561798,2.0224719101123596,29.666666666666668
+Matheus Nunes,"DF,MF",Portugal,27,1.eng Manchester City,1998,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.2,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,1.0
+Darwin Núñez,FW,Uruguay,26,1.sa Al-Hilal,1999,3,2,156,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,21.0,68.0,57.8,1,1,2,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,0.5769230769230769,52.0
+Antonio Nusa,FW,Norway,21,1.de RB Leipzig,2005,6,4,318,3.5,1,0,1,1,0,0,1,0,0.28,0.0,0.28,0.28,0.28,4,2,31.0,64.0,55.8,1,5,2,0,FW,UEFA,Mainly a starter,0.2830188679245283,0.2830188679245283,0.2830188679245283,53.0
+Benjamin Nygren,MF,Sweden,24,1.sct Celtic,2001,4,2,130,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,6.0,59.0,36.1,3,0,0,0,MF,UEFA,Mainly a starter,0.0,0.0,2.076923076923077,32.5
+Ørjan Nyland,GK,Norway,35,1.es Sevilla,1990,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,84.2,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,96.0
+Aiden O'Neill,MF,Australia,27,1.us NYCFC,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,92.3,2,8,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.5,90.0
+Nico O'Reilly,DF,England,21,1.eng Manchester City,2005,7,5,461,5.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,2,17.0,86.0,61.5,6,4,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.1713665943600868,65.85714285714286
+Salim Obaid,DF,Jordan,34,1.jo Al-Hussein SC,1992,3,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,7.0,,7.8,1,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,4.285714285714286,7.0
+Armando Obispo,DF,Curaçao,27,1.nl PSV,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,1,0,1,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.3333333333333333,90.0
+Guillermo Ochoa,GK,Mexico,40,1.cy AEL Limassol,1985,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,13.0,,2.9,0,0,0,0,GK,CONCACAF,Mainly a substitute,0.0,0.0,0.0,13.0
+Kōki Ogawa,FW,Japan,28,1.nl NEC Nijmegen,1997,3,0,42,0.5,0,1,1,0,0,0,0,0,0.0,2.14,2.14,0.0,2.14,0,3,14.0,,11.7,1,0,0,0,FW,AFC,Mainly a substitute,0.0,2.142857142857143,2.142857142857143,14.0
+Braian Ojeda,MF,Paraguay,25,1.us Orlando City,2000,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,22.0,,4.6,0,0,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,22.0
+Noah Okafor,"FW,MF",Switzerland,26,1.eng Leeds United,2000,1,0,20,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,20.0,,3.3,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,20.0
+Ime Okon,DF,South Africa,22,2.de Hannover 96,2004,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,1,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.25,90.0
+Paul Okon-Engstler,MF,Australia,21,1.au Sydney FC,2005,4,2,197,2.2,0,1,1,0,0,0,0,0,0.0,0.46,0.46,0.0,0.46,2,2,19.0,80.0,50.5,3,2,0,0,MF,AFC,Mainly a starter,0.0,0.45685279187817257,1.3705583756345177,49.25
+Ben Old,MF,New Zealand,23,2.fr Saint-Étienne,2002,3,0,93,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,31.0,,34.4,0,1,0,0,MF,OFC,Mainly a substitute,0.0,0.0,0.0,31.0
+Michael Olise,MF,France,24,1.de Bayern Munich,2001,8,8,646,7.2,0,7,7,0,0,0,1,0,0.0,0.98,0.98,0.0,0.98,8,0,,81.0,89.7,5,16,0,0,MF,UEFA,Mainly a starter,0.0,0.9752321981424149,0.6965944272445821,80.75
+Mathías Olivera,DF,Uruguay,28,1.it Napoli,1997,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,3,0,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.0,90.0
+Dani Olmo,MF,Spain,28,1.es Barcelona,1998,8,6,491,5.5,0,2,2,0,0,0,0,0,0.0,0.37,0.37,0.0,0.37,6,2,21.0,75.0,65.5,6,10,0,0,MF,UEFA,Mainly a starter,0.0,0.3665987780040733,1.0997963340122199,61.375
+Tani Oluwaseyi,FW,Canada,26,1.es Villarreal,2000,5,3,259,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,2,27.0,69.0,57.6,5,5,1,0,FW,CONCACAF,Mainly a starter,0.0,0.0,1.7374517374517375,51.8
+Ali Olwan,MF,Jordan,26,1.qa Al-Sailiya SC,2000,3,3,268,3.0,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34,3,0,,89.0,99.3,1,4,1,0,MF,AFC,Mainly a starter,0.3358208955223881,0.3358208955223881,0.3358208955223881,89.33333333333333
+Amadou Onana,MF,Belgium,24,1.eng Aston Villa,2001,4,2,106,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,16.0,38.0,18.6,1,3,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.8490566037735849,26.5
+Christopher Opéri,DF,Ivory Coast,29,1.tr Başakşehir,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,25.0,2,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,2.0,90.0
+Jerome Opoku,DF,Ghana,27,1.tr Başakşehir,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,75.0,2,4,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.6666666666666666,90.0
+Joel Ordóñez,DF,Ecuador,22,1.be Club Brugge,2004,3,3,225,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,75.0,62.5,1,1,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.4,75.0
+Jonathan Osorio,MF,Canada,34,1.us Toronto FC,1992,2,0,5,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,3.0,,1.1,0,1,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,2.5
+Nicolás Otamendi,DF,Argentina,38,1.pt Benfica,1988,7,1,247,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,6,26.0,90.0,30.5,4,4,1,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,1.45748987854251,35.285714285714285
+Zakaria El Ouahdi,"DF,MF",Morocco,24,1.be Genk,2001,1,0,17,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,17.0,,3.0,1,1,0,0,DF,CAF,Mainly a substitute,0.0,0.0,5.294117647058823,17.0
+Ayoub Al-Oui,DF,Qatar,21,1.qa Al-Gharafa Sports Club,2005,2,2,149,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,75.0,55.2,1,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.6040268456375839,74.5
+Azzedine Ounahi,MF,Morocco,26,1.es Girona,2000,6,5,435,4.8,2,0,2,2,0,0,1,0,0.41,0.0,0.41,0.41,0.41,5,1,21.0,83.0,76.3,3,7,0,0,MF,CAF,Mainly a starter,0.41379310344827586,0.41379310344827586,0.6206896551724138,72.5
+Mohammed Al-Owais,GK,Saudi Arabia,34,1.sa Al-Ula,1991,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,1,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Elisha Owusu,MF,Ghana,28,1.fr Auxerre,1997,3,2,151,1.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,29.0,61.0,41.9,2,0,0,0,MF,CAF,Mainly a starter,0.0,0.0,1.1920529801324504,50.333333333333336
+Mikel Oyarzabal,FW,Spain,29,1.es Real Sociedad,1997,8,8,601,6.7,5,1,6,4,1,1,0,0,0.75,0.15,0.9,0.6,0.75,8,0,,75.0,80.1,4,5,1,0,FW,UEFA,Mainly a starter,0.7487520798668885,0.8985024958402662,0.5990016638935108,75.125
+Salih Özcan,MF,Turkey,28,1.de Dortmund,1998,2,1,100,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,10.0,90.0,37.0,2,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.8,50.0
+Willian Pacho,DF,Ecuador,24,1.fr PSG,2001,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,3,2,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.75,90.0
+Kendry Páez,MF,Ecuador,19,1.ar River Plate,2007,1,0,12,0.1,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,1,12.0,,3.3,1,0,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,7.5,12.0
+Exequiel Palacios,DF,Argentina,27,1.de Leverkusen,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,11.1,1,1,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.0,90.0
+Lucas Paquetá,MF,Brazil,28,1.br Flamengo,1997,4,4,233,2.6,0,1,1,0,0,0,0,0,0.0,0.39,0.39,0.0,0.39,4,0,,58.0,51.8,3,6,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.38626609442060084,1.1587982832618027,58.25
+Leandro Paredes,MF,Argentina,31,1.ar Boca Juniors,1994,7,4,473,5.3,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,4,3,40.0,88.0,58.4,9,3,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,1.7124735729386893,67.57142857142857
+Thomas Partey,MF,Ghana,33,1.es Villarreal,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,75.0,2,5,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.6666666666666666,90.0
+Marco Pašalić,MF,Croatia,25,1.us Orlando City,2000,3,1,99,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,14.0,71.0,27.5,0,2,2,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,33.0
+Mario Pašalić,MF,Croatia,31,1.it Atalanta,1995,4,1,123,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,3,15.0,77.0,34.2,2,0,1,0,MF,UEFA,Mainly a substitute,0.0,0.0,1.4634146341463414,30.75
+Nathan Patterson,DF,Scotland,24,1.eng Everton,2001,3,2,185,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,16.0,85.0,68.5,2,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.972972972972973,61.666666666666664
+João Paulo Fernandes,DF,Cape Verde,28,1.ro FCSB,1998,2,1,105,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,15.0,90.0,26.9,0,4,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,52.5
+Aleksandar Pavlovic,MF,Germany,22,1.de Bayern Munich,2004,4,4,272,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,68.0,69.7,13,4,0,0,MF,UEFA,Mainly a starter,0.0,0.0,4.301470588235294,68.0
+Tim Payne,DF,New Zealand,32,1.au Wellington,1994,3,3,224,2.5,0,1,1,0,0,0,0,0,0.0,0.4,0.4,0.0,0.4,3,0,,75.0,83.0,2,2,0,0,DF,OFC,Mainly a starter,0.0,0.4017857142857143,0.8035714285714286,74.66666666666667
+Nicolás Paz,MF,Argentina,21,1.it Como,2004,2,1,71,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,11.0,60.0,8.8,2,1,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,2.535211267605634,35.5
+Marcus Pedersen,DF,Norway,25,1.it Torino,2000,4,1,236,2.6,1,0,1,1,0,0,0,0,0.38,0.0,0.38,0.38,0.38,1,3,51.0,82.0,41.4,3,1,0,0,DF,UEFA,Mainly a substitute,0.3813559322033898,0.3813559322033898,1.1440677966101696,59.0
+Pedri,MF,Spain,23,1.es Barcelona,2002,8,5,499,5.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,3,36.0,78.0,66.5,4,5,1,0,MF,UEFA,Mainly a starter,0.0,0.0,0.7214428857715431,62.375
+Nicolas Pépé,FW,Ivory Coast,31,1.es Villarreal,1995,4,3,234,2.6,2,1,3,2,0,0,1,0,0.77,0.38,1.15,0.77,1.15,3,1,6.0,76.0,65.0,1,1,1,0,FW,CAF,Mainly a starter,0.7692307692307693,1.1538461538461537,0.38461538461538464,58.5
+Ricardo Pepi,FW,United States,23,1.nl PSV,2003,5,2,204,2.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,3,14.0,82.0,45.3,5,3,2,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,2.2058823529411766,40.8
+Kojo Peprah Oppong,DF,Ghana,22,1.fr Nice,2004,2,0,49,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,2,25.0,,13.6,1,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,1.836734693877551,24.5
+Ivan Perišić,"MF,DF",Croatia,37,1.nl PSV,1989,4,4,360,4.0,1,1,2,1,0,0,2,0,0.25,0.25,0.5,0.25,0.5,4,0,,90.0,100.0,4,1,0,0,MF,UEFA,Mainly a starter,0.25,0.5,1.0,90.0
+Jens Petter Hauge,"DF,FW",Norway,26,1.no Bodø/Glimt,1999,1,0,8,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,8.0,,1.4,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,8.0
+Charles Pickel,"DF,MF",DR Congo,29,1.es Espanyol,1997,2,0,35,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,2,18.0,,9.7,2,1,0,0,DF,CAF,Mainly a substitute,0.0,0.0,5.142857142857143,17.5
+Jordan Pickford,GK,England,32,1.eng Everton,1994,7,7,660,7.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,7,0,,94.0,88.0,0,4,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,94.28571428571429
+Pico,DF,Cape Verde,33,1.ie Shamrock,1992,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,100.0,0,3,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.0,97.5
+Frantzdy Pierrot,FW,Haiti,31,1.tr Rizespor,1995,3,2,143,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,8.0,68.0,53.0,5,4,2,0,FW,CONCACAF,Mainly a starter,0.0,0.0,3.1468531468531467,47.666666666666664
+Kevin Pina,MF,Cape Verde,29,1.ru Krasnodar,1997,4,4,349,3.9,1,0,1,1,0,0,1,0,0.26,0.0,0.26,0.26,0.26,4,0,,87.0,89.5,5,3,0,0,MF,CAF,Mainly a starter,0.25787965616045844,0.25787965616045844,1.2893982808022924,87.25
+Wagner Pina,DF,Cape Verde,23,1.tr Trabzonspor,2002,1,1,89,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,0,,89.0,22.8,1,3,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.0112359550561798,89.0
+Orbelín Pineda,"FW,MF",Mexico,30,1.gr AEK Athens,1996,2,0,31,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,16.0,,6.9,0,2,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,15.5
+Yéremy Pino,"FW,MF",Spain,23,1.eng Crystal Palace,2002,2,0,70,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,35.0,,9.3,2,0,1,0,FW,UEFA,Mainly a substitute,0.0,0.0,2.5714285714285716,35.0
+Isidro Pitta,FW,Paraguay,26,1.br RB Bragantino,1999,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,9.4,2,0,2,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,4.0,45.0
+Johny Placide,GK,Haiti,38,2.fr Bastia,1988,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,0,0,0,GK,CONCACAF,Mainly a starter,0.0,0.0,0.0,90.0
+Gonzalo Plata,FW,Ecuador,25,1.br Flamengo,2000,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.0,0.25,0.25,0.25,4,0,,90.0,100.0,5,4,0,0,FW,CONMEBOL,Mainly a starter,0.25,0.25,1.25,90.0
+Marin Pongračić,DF,Croatia,28,1.it Fiorentina,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,75.0,3,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.0,90.0
+Jackson Porozo,DF,Ecuador,25,1.mx Tijuana,2000,1,0,29,0.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,1,29.0,,8.1,2,0,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,6.206896551724138,29.0
+Pedro Porro,DF,Spain,26,1.eng Tottenham,1999,6,6,563,6.3,2,0,2,2,0,0,0,0,0.32,0.0,0.32,0.32,0.32,6,0,,94.0,75.1,10,9,0,0,DF,UEFA,Mainly a starter,0.3197158081705151,0.3197158081705151,1.5985790408525755,93.83333333333333
+Stefan Posch,DF,Austria,29,1.de Mainz 05,1997,4,4,331,3.7,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,4,0,,83.0,91.9,7,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.903323262839879,82.75
+Alexander Prass,"DF,MF",Austria,25,1.de Hoffenheim,2001,2,0,29,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,15.0,,8.1,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,14.5
+Ángelo Preciado,"DF,MF",Ecuador,28,1.br Atlético Mineiro,1998,4,0,109,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,27.0,,30.3,0,1,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,27.25
+Ruben Providence,MF,Haiti,24,2.nl Almere City,2001,3,3,220,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,73.0,81.5,3,5,0,0,MF,CONCACAF,Mainly a starter,0.0,0.0,1.2272727272727273,73.33333333333333
+Lukáš Provod,FW,Czech Republic,29,1.cz Slavia Prague,1996,3,1,122,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,30.0,63.0,45.2,2,1,1,0,FW,UEFA,Mainly a substitute,0.0,0.0,1.4754098360655739,40.666666666666664
+Marc Pubill,DF,Spain,22,1.es Atlético Madrid,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.1,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,1.0
+Gustavo Puerta,MF,Colombia,22,2.es Racing Sant,2003,5,5,469,5.2,0,1,1,0,0,0,1,0,0.0,0.19,0.19,0.0,0.19,5,0,,94.0,97.7,9,8,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.19189765458422176,1.7270788912579957,93.8
+Christian Pulisic,MF,United States,27,1.it Milan,1998,4,3,223,2.5,0,1,1,0,0,0,0,0,0.0,0.4,0.4,0.0,0.4,3,1,33.0,63.0,49.6,1,8,2,0,MF,CONCACAF,Mainly a starter,0.0,0.40358744394618834,0.40358744394618834,55.75
+Ahmed Qasem,"MF,FW",Iraq,22,1.us Nashville SC,2003,3,2,123,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,18.0,53.0,45.6,0,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.0,41.0
+Jarell Quansah,DF,England,23,1.de Leverkusen,2003,3,3,197,2.2,0,0,0,0,0,0,1,1,0.0,0.0,0.0,0.0,0.0,3,0,,66.0,26.3,2,2,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.9137055837563451,65.66666666666667
+Julián Quiñones,"FW,MF",Mexico,29,1.sa Al-Qadsiah,1997,5,5,410,4.6,4,1,5,4,0,0,0,0,0.88,0.22,1.1,0.88,1.1,5,0,,82.0,91.1,5,7,1,0,FW,CONCACAF,Mainly a starter,0.8780487804878049,1.0975609756097562,1.0975609756097562,82.0
+Alberto Quintero,"FW,MF",Panama,38,1.pa Plaza Amador,1987,1,0,3,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,3.0,,1.1,1,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,30.0,3.0
+Juan Quintero,"FW,MF",Colombia,33,1.ar River Plate,1993,4,0,121,1.3,0,1,1,0,0,0,0,0,0.0,0.74,0.74,0.0,0.74,0,4,30.0,,25.2,0,1,0,0,FW,CONMEBOL,Mainly a substitute,0.0,0.743801652892562,0.0,30.25
+Ramy Rabia,DF,Egypt,33,1.ae Al Ain,1993,5,3,372,4.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,2,36.0,100.0,77.5,3,2,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.7258064516129032,74.4
+Adrien Rabiot,MF,France,31,1.it Milan,1995,7,7,585,6.5,0,1,1,0,0,0,1,0,0.0,0.15,0.15,0.0,0.15,7,0,,84.0,81.3,13,4,1,0,MF,UEFA,Mainly a starter,0.0,0.15384615384615385,2.0,83.57142857142857
+Stjepan Radeljić,DF,Bosnia and Herzegovina,28,1.hr Rijeka,1997,2,2,180,2.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,50.0,1,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.5,90.0
+Soufiane Rahimi,FW,Morocco,30,1.ae Al Ain,1996,6,0,163,1.8,2,1,3,2,0,0,0,0,1.1,0.55,1.66,1.1,1.66,0,6,27.0,,28.6,5,6,2,0,FW,CAF,Mainly a substitute,1.1042944785276074,1.656441717791411,2.7607361963190185,27.166666666666668
+Abdul Rahman Baba,"DF,MF",Ghana,31,1.gr PAOK,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.3,0,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,0.0,1.0
+Anthony Ralston,DF,Scotland,27,1.sct Celtic,1998,2,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,6.0,,4.1,2,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,16.363636363636363,5.5
+Gonçalo Ramos,FW,Portugal,24,1.fr PSG,2001,2,0,36,0.4,1,0,1,1,0,0,0,0,2.5,0.0,2.5,2.5,2.5,0,2,18.0,,8.0,0,0,0,0,FW,UEFA,Mainly a substitute,2.5,2.5,0.0,18.0
+Jiovany Ramos,DF,Panama,29,1.ve Puerto Cabello,1997,2,2,166,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,83.0,61.5,2,1,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.0843373493975903,83.0
+Jesse Randall,MF,New Zealand,23,1.au Auckland FC,2002,3,0,61,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,20.0,,22.6,0,1,0,0,MF,OFC,Mainly a substitute,0.0,0.0,0.0,20.333333333333332
+Raúl Rangel,GK,Mexico,26,1.mx Guadalajara,2000,5,5,437,4.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,87.0,97.1,1,0,0,0,GK,CONCACAF,Mainly a starter,0.0,0.0,0.20594965675057209,87.4
+Raphinha,"MF,FW",Brazil,29,1.es Barcelona,1996,2,2,129,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,65.0,28.7,1,2,2,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,0.6976744186046512,64.5
+Nizar Al Rashdan,MF,Jordan,27,1.qa Qatar SC,1999,3,3,255,2.8,1,0,1,1,0,0,0,0,0.35,0.0,0.35,0.35,0.35,3,0,,85.0,94.4,5,4,0,0,MF,AFC,Mainly a starter,0.35294117647058826,0.35294117647058826,1.7647058823529411,85.0
+Marcus Rashford,MF,England,28,1.es Barcelona,1997,6,3,223,2.5,1,1,2,1,0,0,0,0,0.4,0.4,0.81,0.4,0.81,3,3,9.0,65.0,29.7,5,1,1,0,MF,UEFA,Mainly a starter,0.40358744394618834,0.8071748878923767,2.0179372197309418,37.166666666666664
+Nicolas Raskin,MF,Belgium,25,1.sct Rangers,2001,6,3,341,3.8,0,2,2,0,0,0,0,0,0.0,0.53,0.53,0.0,0.53,3,3,35.0,78.0,59.8,12,3,0,0,MF,UEFA,Mainly a starter,0.0,0.5278592375366569,3.167155425219941,56.833333333333336
+David Raum,DF,Germany,28,1.de RB Leipzig,1998,2,1,108,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,18.0,90.0,27.7,2,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.6666666666666667,54.0
+Noor Al Rawabdeh,MF,Jordan,29,1.my Selangor FA,1997,3,3,270,3.0,0,1,1,0,0,0,0,0,0.0,0.33,0.33,0.0,0.33,3,0,,90.0,100.0,1,0,0,0,MF,AFC,Mainly a starter,0.0,0.3333333333333333,0.3333333333333333,90.0
+Rayan,"FW,MF",Brazil,19,1.eng Bournemouth,2006,4,3,288,3.2,0,1,1,0,0,0,0,0,0.0,0.31,0.31,0.0,0.31,3,1,51.0,79.0,64.0,5,4,1,0,FW,CONMEBOL,Mainly a starter,0.0,0.3125,1.5625,72.0
+Iqraam Rayners,FW,South Africa,30,1.za Sundowns,1995,4,2,161,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,11.0,70.0,44.7,1,1,2,0,FW,CAF,Mainly a starter,0.0,0.0,0.5590062111801242,40.25
+Tim Ream,DF,United States,38,1.us Charlotte,1987,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,80.0,0,2,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.0,90.0
+Tijjani Reijnders,MF,Netherlands,27,1.eng Manchester City,1998,3,3,199,2.2,0,1,1,0,0,0,0,0,0.0,0.45,0.45,0.0,0.45,3,0,,66.0,51.0,0,3,1,0,MF,UEFA,Mainly a starter,0.0,0.45226130653266333,0.0,66.33333333333333
+Omar Rekik,DF,Tunisia,24,1.si NK Maribor,2001,2,2,180,2.0,1,0,1,1,0,0,0,0,0.5,0.0,0.5,0.5,0.5,2,0,,90.0,66.7,0,1,1,0,DF,CAF,Mainly a starter,0.5,0.5,0.0,90.0
+Israel Reyes,DF,Mexico,26,1.mx América,2000,4,2,202,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,11.0,90.0,44.9,1,0,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.44554455445544555,50.5
+Gio Reyna,MF,United States,23,1.de Gladbach,2002,5,1,131,1.5,1,0,1,1,0,0,0,0,0.69,0.0,0.69,0.69,0.69,1,4,14.0,75.0,29.1,1,3,0,0,MF,CONCACAF,Mainly a substitute,0.6870229007633588,0.6870229007633588,0.6870229007633588,26.2
+Ramin Rezaeian,"DF,MF",Iran,36,1.ir Foolad,1990,3,3,270,3.0,2,1,3,2,0,0,0,0,0.67,0.33,1.0,0.67,1.0,3,0,,90.0,100.0,2,3,1,0,DF,AFC,Mainly a starter,0.6666666666666666,1.0,0.6666666666666666,90.0
+Chadi Riad,DF,Morocco,22,1.eng Crystal Palace,2003,4,4,344,3.8,0,1,1,0,0,0,0,0,0.0,0.26,0.26,0.0,0.26,4,0,,86.0,60.4,0,1,0,0,DF,CAF,Mainly a starter,0.0,0.2616279069767442,0.0,86.0
+Declan Rice,MF,England,27,1.eng Arsenal,1999,7,7,557,6.2,1,2,3,1,0,0,2,0,0.16,0.32,0.48,0.16,0.48,7,0,,80.0,74.3,4,0,1,0,MF,UEFA,Mainly a starter,0.1615798922800718,0.48473967684021546,0.6463195691202872,79.57142857142857
+Chris Richards,DF,United States,26,1.eng Crystal Palace,2000,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,80.0,8,3,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,2.0,90.0
+Fabian Rieder,"MF,FW",Switzerland,24,1.de Augsburg,2002,5,3,302,3.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,2,23.0,86.0,50.3,3,6,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.8940397350993378,60.4
+Richard Ríos,MF,Colombia,26,1.pt Benfica,2000,5,0,140,1.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,5,28.0,,29.2,10,4,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,6.428571428571429,28.0
+Ró-Ró,DF,Qatar,35,1.qa Al Sadd,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,1,7,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.3333333333333333,90.0
+Andy Robertson,DF,Scotland,32,1.eng Liverpool,1994,3,3,225,2.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,75.0,83.3,3,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.2,75.0
+Antonee Robinson,"DF,MF",United States,28,1.eng Fulham,1997,4,4,348,3.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,87.0,77.3,4,1,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,1.0344827586206897,87.0
+Miles Robinson,DF,United States,29,1.us FC Cincinnati,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,20.0,2,0,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,2.0,90.0
+Sergio Rochet,GK,Uruguay,33,1.br Internacional,1993,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,45.0,,16.7,0,0,0,0,GK,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,45.0
+Rodri,MF,Spain,29,1.eng Manchester City,1996,8,8,724,8.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,8,0,,91.0,96.5,11,9,1,0,MF,UEFA,Mainly a starter,0.0,0.0,1.367403314917127,90.5
+Garry Rodrigues,MF,Cape Verde,35,1.cy Apollon Limassol,1990,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,19.0,57.0,19.5,0,0,2,0,MF,CAF,Mainly a starter,0.0,0.0,0.0,38.0
+Brian Rodríguez,"FW,MF",Uruguay,26,1.mx América,2000,3,0,41,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,14.0,,15.2,0,1,0,0,FW,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,13.666666666666666
+James Rodríguez,"FW,MF",Colombia,34,1.us Minnesota Utd,1991,5,5,313,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,63.0,65.2,0,5,0,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,0.0,62.6
+Kevin Rodríguez,FW,Ecuador,26,1.be Union SG,2000,4,0,118,1.3,0,1,1,0,0,0,0,0,0.0,0.76,0.76,0.0,0.76,0,4,30.0,,32.8,3,2,0,0,FW,CONMEBOL,Mainly a substitute,0.0,0.7627118644067796,2.288135593220339,29.5
+Ricardo Rodríguez,DF,Switzerland,33,1.es Real Betis,1992,6,6,517,5.7,0,1,1,0,0,0,0,0,0.0,0.17,0.17,0.0,0.17,6,0,,86.0,86.2,11,2,0,0,DF,UEFA,Mainly a starter,0.0,0.17408123791102514,1.9148936170212767,86.16666666666667
+Tomás Rodríguez,FW,Panama,27,1.cr Saprissa,1999,2,1,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,1.0,45.0,17.0,3,1,0,0,FW,CONCACAF,Mainly a starter,0.0,0.0,5.869565217391305,23.0
+Godfried Roemeratoe,MF,Curaçao,26,2.nl RKC Waalwijk,1999,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,7.0,,2.6,0,0,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,7.0
+Morgan Rogers,MF,England,23,1.eng Aston Villa,2002,7,3,339,3.8,0,1,1,0,0,0,0,0,0.0,0.27,0.27,0.0,0.27,3,4,17.0,90.0,45.2,5,5,2,0,MF,UEFA,Mainly a substitute,0.0,0.26548672566371684,1.3274336283185841,48.42857142857143
+Cristian Romero,DF,Argentina,28,1.eng Tottenham,1998,7,7,608,6.8,1,0,1,1,0,0,2,0,0.15,0.0,0.15,0.15,0.15,7,0,,87.0,75.1,9,3,0,0,DF,CONMEBOL,Mainly a starter,0.14802631578947367,0.14802631578947367,1.332236842105263,86.85714285714286
+Luis Romo,MF,Mexico,31,1.mx Guadalajara,1995,4,4,264,2.9,1,1,2,1,0,0,0,0,0.34,0.34,0.68,0.34,0.68,4,0,,66.0,58.7,1,3,0,0,MF,CONCACAF,Mainly a starter,0.3409090909090909,0.6818181818181818,0.3409090909090909,66.0
+Cristiano Ronaldo,FW,Portugal,41,1.sa Al-Nassr,1985,5,5,440,4.9,3,0,3,2,1,1,0,0,0.61,0.0,0.61,0.41,0.41,5,0,,88.0,97.8,2,5,6,0,FW,UEFA,Mainly a starter,0.6136363636363636,0.6136363636363636,0.4090909090909091,88.0
+Eloy Room,GK,Curaçao,37,2.us Miami FC,1989,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,0,0,0,GK,CONCACAF,Mainly a starter,0.0,0.0,0.0,90.0
+Marten de Roon,"DF,MF",Netherlands,35,1.it Atalanta,1991,1,0,11,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,11.0,,2.8,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,11.0
+Saed Al-Rosan,DF,Jordan,29,1.jo Al-Hussein SC,1997,1,0,10,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,10.0,,3.7,0,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,10.0
+Antonio Rüdiger,DF,Germany,33,1.es Real Madrid,1993,4,2,262,2.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,32.0,100.0,67.2,1,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.3435114503816794,65.5
+Fabián Ruiz Peña,MF,Spain,30,1.fr PSG,1996,8,4,321,3.6,1,0,1,1,0,0,0,0,0.28,0.0,0.28,0.28,0.28,4,4,15.0,66.0,42.8,1,3,0,0,MF,UEFA,Mainly a starter,0.2803738317757009,0.2803738317757009,0.2803738317757009,40.125
+Mathew Ryan,GK,Australia,34,1.es Levante,1992,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,2.0,,0.5,0,0,0,0,GK,AFC,Mainly a substitute,0.0,0.0,0.0,2.0
+Julian Ryerson,DF,Norway,28,1.de Dortmund,1997,4,4,223,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,56.0,39.1,6,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,2.42152466367713,55.75
+Elias Saad,"MF,FW",Tunisia,26,2.de Hannover 96,1999,2,2,116,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,58.0,43.0,1,3,1,0,MF,CAF,Mainly a starter,0.0,0.0,0.7758620689655172,58.0
+Marwane Saâdane,"DF,MF",Morocco,34,1.sa Al-Fateh,1992,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,4.0,,0.7,0,1,0,0,DF,CAF,Mainly a substitute,0.0,0.0,0.0,4.0
+Mustafa Saadoon,DF,Iraq,25,1.iq Al-Shorta,2001,1,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,18.0,,6.7,2,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,10.0,18.0
+Mahmoud Saber,MF,Egypt,24,1.eg ZED,2001,2,1,46,0.5,1,0,1,1,0,0,1,0,1.96,0.0,1.96,1.96,1.96,1,1,1.0,45.0,9.6,2,1,0,0,MF,CAF,Mainly a starter,1.9565217391304348,1.9565217391304348,3.9130434782608696,23.0
+Marcel Sabitzer,MF,Austria,32,1.de Dortmund,1994,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.0,0.25,0.25,0.25,4,0,,90.0,100.0,2,3,1,0,MF,UEFA,Mainly a starter,0.25,0.25,0.5,90.0
+Noah Sadiki,MF,DR Congo,21,1.eng Sunderland,2004,4,2,259,2.9,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,2,2,40.0,90.0,71.9,2,3,0,0,MF,CAF,Mainly a starter,0.0,0.0,0.694980694980695,64.75
+Michal Sadílek,MF,Czech Republic,27,1.cz Slavia Prague,1999,3,2,183,2.0,1,0,1,1,0,0,0,0,0.49,0.0,0.49,0.49,0.49,2,1,27.0,78.0,67.8,0,3,0,0,MF,UEFA,Mainly a starter,0.4918032786885246,0.4918032786885246,0.0,61.0
+Alexis Saelemaekers,MF,Belgium,26,1.it Milan,1999,4,1,83,0.9,1,0,1,1,0,0,0,0,1.08,0.0,1.08,1.08,1.08,1,3,9.0,57.0,14.6,0,2,2,0,MF,UEFA,Mainly a substitute,1.0843373493975903,1.0843373493975903,0.0,20.75
+Ismael Saibari,FW,Morocco,25,1.nl PSV,2001,5,5,381,4.2,3,0,3,3,0,0,0,0,0.71,0.0,0.71,0.71,0.71,5,0,,76.0,66.8,8,3,3,0,FW,CAF,Mainly a starter,0.7086614173228346,0.7086614173228346,1.889763779527559,76.2
+Bukayo Saka,MF,England,24,1.eng Arsenal,2001,7,3,358,4.0,3,3,6,2,1,1,0,0,0.75,0.75,1.51,0.5,1.26,3,4,38.0,69.0,47.7,4,9,4,0,MF,UEFA,Mainly a substitute,0.7541899441340782,1.5083798882681565,1.005586592178771,51.142857142857146
+Mohamed Salah,"FW,MF",Egypt,33,1.eng Liverpool,1992,5,5,425,4.7,1,2,3,1,0,0,0,0,0.21,0.42,0.64,0.21,0.64,5,0,,85.0,88.5,5,13,1,0,FW,CAF,Mainly a starter,0.21176470588235294,0.6352941176470588,1.0588235294117647,85.0
+Anass Salah-Eddine,DF,Morocco,24,1.nl PSV,2002,4,2,212,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,29.0,78.0,37.2,3,2,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.2735849056603774,53.0
+Nathan Saliba,MF,Canada,22,1.be Anderlecht,2004,3,2,182,2.0,1,2,3,1,0,0,1,0,0.49,0.99,1.48,0.49,1.48,2,1,34.0,74.0,40.4,5,2,0,0,MF,CONCACAF,Mainly a starter,0.4945054945054945,1.4835164835164836,2.4725274725274726,60.666666666666664
+William Saliba,DF,France,25,1.eng Arsenal,2001,6,6,479,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,6,0,,80.0,66.5,4,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.7515657620041754,79.83333333333333
+Shurandy Sambo,DF,Curaçao,24,1.nl Sparta R.,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.4,0,0,0,0,DF,CONCACAF,Mainly a substitute,0.0,0.0,0.0,1.0
+Antonio Sanabria,FW,Paraguay,30,1.it Cremonese,1996,2,1,83,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,22.0,61.0,17.3,1,2,0,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,1.0843373493975903,41.5
+Davinson Sánchez,DF,Colombia,30,1.tr Galatasaray,1996,5,5,480,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,100.0,6,5,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.125,96.0
+Jorge Sánchez,DF,Mexico,28,1.gr PAOK,1997,4,4,348,3.9,0,1,1,0,0,0,1,0,0.0,0.26,0.26,0.0,0.26,4,0,,87.0,77.3,5,1,1,0,DF,CONCACAF,Mainly a starter,0.0,0.25862068965517243,1.293103448275862,87.0
+Alex Sandro,"DF,MF",Brazil,35,1.br Flamengo,1991,1,0,9,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,9.0,,2.0,1,0,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,10.0,9.0
+Leroy Sané,MF,Germany,30,1.tr Galatasaray,1996,4,4,326,3.6,1,0,1,1,0,0,0,0,0.28,0.0,0.28,0.28,0.28,4,0,,82.0,83.6,3,2,1,0,MF,UEFA,Mainly a starter,0.27607361963190186,0.27607361963190186,0.8282208588957055,81.5
+Ibrahim Sangaré,MF,Ivory Coast,28,1.eng Nottingham,1997,4,3,268,3.0,0,1,1,0,0,0,0,0,0.0,0.34,0.34,0.0,0.34,3,1,14.0,85.0,74.4,2,4,0,0,MF,CAF,Mainly a starter,0.0,0.3358208955223881,0.6716417910447762,67.0
+Kaishū Sano,MF,Japan,25,1.de Mainz 05,2000,3,3,270,3.0,1,1,2,1,0,0,1,0,0.33,0.33,0.67,0.33,0.67,3,0,,90.0,75.0,4,1,0,0,MF,AFC,Mainly a starter,0.3333333333333333,0.6666666666666666,1.3333333333333333,90.0
+Danilo Santos,MF,Brazil,25,1.br Botafogo–RJ,2001,4,0,46,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,12.0,,10.2,0,0,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,11.5
+Douglas Santos,DF,Brazil,32,1.ru Zenit,1994,5,5,441,4.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,88.0,98.0,3,2,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.6122448979591837,88.2
+Bara Sapoko Ndiaye,MF,Senegal,18,1.de Bayern Munich,2007,1,0,26,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,26.0,,6.7,0,2,0,0,MF,CAF,Mainly a substitute,0.0,0.0,0.0,26.0
+Ismaila Sarr,"MF,FW",Senegal,28,1.eng Crystal Palace,1998,4,4,364,4.0,4,1,5,4,0,0,0,0,0.99,0.25,1.24,0.99,1.24,4,0,,91.0,93.3,1,9,2,0,MF,CAF,Mainly a starter,0.989010989010989,1.2362637362637363,0.24725274725274726,91.0
+Farrukh Sayfiev,"DF,MF",Uzbekistan,35,1.uz Neftchi FK,1991,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,45.0,,16.7,0,2,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,45.0
+Amine Sbai,"FW,MF",Morocco,25,1.fr Angers,2000,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,6.0,,1.1,2,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,30.0,6.0
+Joe Scally,DF,United States,23,1.de Gladbach,2002,2,1,87,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,11.0,76.0,19.3,0,2,1,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.0,43.5
+Patrik Schick,FW,Czech Republic,30,1.de Leverkusen,1996,3,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,27.0,77.0,66.7,1,3,0,0,FW,UEFA,Mainly a starter,0.0,0.0,0.5,60.0
+Andreas Schjelderup,FW,Norway,22,1.pt Benfica,2004,6,2,252,2.8,1,3,4,1,0,0,0,0,0.36,1.07,1.43,0.36,1.43,2,4,26.0,75.0,44.2,2,3,0,0,FW,UEFA,Mainly a substitute,0.35714285714285715,1.4285714285714286,0.7142857142857143,42.0
+Alexander Schlager,GK,Austria,30,1.at RB Salzburg,1996,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,1,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Xaver Schlager,MF,Austria,28,1.de RB Leipzig,1997,4,4,238,2.6,0,1,1,0,0,0,0,0,0.0,0.38,0.38,0.0,0.38,4,0,,60.0,66.1,6,0,0,0,MF,UEFA,Mainly a starter,0.0,0.37815126050420167,2.26890756302521,59.5
+Nico Schlotterbeck,DF,Germany,26,1.de Dortmund,1999,2,2,135,1.5,1,0,1,1,0,0,0,0,0.67,0.0,0.67,0.67,0.67,2,0,,68.0,34.6,2,1,0,0,DF,UEFA,Mainly a starter,0.6666666666666666,0.6666666666666666,1.3333333333333333,67.5
+Romano Schmid,"MF,FW",Austria,26,1.de Werder Bremen,2000,4,4,263,2.9,1,0,1,1,0,0,0,0,0.34,0.0,0.34,0.34,0.34,4,0,,66.0,73.1,3,4,0,0,MF,UEFA,Mainly a starter,0.34220532319391633,0.34220532319391633,1.026615969581749,65.75
+Kamogelo Sebelebele,"DF,MF",South Africa,23,1.za Orlando Pirates,2002,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,7.0,,1.9,1,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,12.857142857142858,7.0
+Abdoulaye Seck,DF,Senegal,34,1.il Maccabi Haifa,1992,1,1,57,0.6,0,1,1,0,0,0,1,0,0.0,1.58,1.58,0.0,1.58,1,0,,57.0,14.6,1,1,0,0,DF,CAF,Mainly a starter,0.0,1.5789473684210527,1.5789473684210527,57.0
+Alidu Seidu,DF,Ghana,26,1.fr Rennes,2000,1,0,78,0.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,1,78.0,,21.7,1,0,0,0,DF,CAF,Mainly a substitute,0.0,0.0,1.1538461538461537,78.0
+Nicolas Seiwald,MF,Austria,25,1.de RB Leipzig,2001,4,4,315,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,79.0,87.5,1,1,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.2857142857142857,78.75
+Ayumu Seko,DF,Japan,26,1.fr Le Havre,2000,2,1,86,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,12.0,74.0,23.9,1,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.0465116279069768,43.0
+Egil Selvik,GK,Norway,28,2.eng Watford,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,15.8,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Ken Sema,"FW,MF",Sweden,32,1.cy Pafos FC,1993,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,16.0,,4.4,0,1,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,16.0
+Nélson Semedo,"DF,MF",Portugal,32,1.tr Fenerbahçe,1993,4,0,127,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,4,32.0,,28.2,2,2,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,1.4173228346456692,31.75
+Willy Semedo,FW,Cape Verde,32,1.cy AC Omonia,1994,3,1,131,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,36.0,60.0,33.6,4,2,0,0,FW,CAF,Mainly a substitute,0.0,0.0,2.7480916030534353,43.666666666666664
+Antoine Semenyo,"MF,FW",Ghana,26,1.eng Manchester City,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,6,4,4,0,MF,CAF,Mainly a starter,0.0,0.0,1.5,90.0
+Marvin Senaya,DF,Ghana,25,1.fr Auxerre,2001,4,4,278,3.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,70.0,77.2,6,4,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.9424460431654675,69.5
+Marcos Senesi,DF,Argentina,29,1.eng Bournemouth,1997,2,1,109,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,19.0,90.0,13.5,0,3,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.0,54.5
+Igor Sergeev,FW,Uzbekistan,33,1.ir Persepolis,1993,3,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,9.0,,10.4,0,0,1,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,9.333333333333334
+Jean Seri,MF,Ivory Coast,34,1.si NK Maribor,1991,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,14.0,,3.9,0,0,0,0,MF,CAF,Mainly a substitute,0.0,0.0,0.0,14.0
+Kim Seung-gyu,GK,South Korea,35,1.jp FC Tokyo,1990,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,0,0,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Paik Seung-ho,MF,South Korea,29,2.eng Birmingham City,1997,3,3,204,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,68.0,75.6,1,2,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.4411764705882353,68.0
+Joaquin Seys,DF,Belgium,21,1.be Club Brugge,2005,1,0,30,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,30.0,,5.3,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,30.0
+Jacob Shaffelburg,MF,Canada,26,1.us LAFC,1999,5,0,92,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,5,18.0,,20.4,2,1,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,1.9565217391304348,18.4
+Mohammed Abu Al-Shamat,MF,Saudi Arabia,23,1.sa Al-Qadsiah,2002,3,1,136,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,28.0,80.0,50.4,2,1,0,0,MF,AFC,Mainly a substitute,0.0,0.0,1.3235294117647058,45.333333333333336
+Lawrence Shankland,FW,Scotland,30,1.sct Hearts,1995,2,2,171,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,86.0,63.3,5,3,1,0,FW,UEFA,Mainly a starter,0.0,0.0,2.6315789473684212,85.5
+Sharara,FW,Jordan,28,1.ma Raja Casablanca,1997,2,0,2,0.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,2,1.0,,0.7,1,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,45.0,1.0
+Aimar Sher,MF,Iraq,23,1.no Sarpsborg 08,2002,1,0,23,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,23.0,,8.5,0,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,23.0
+Kento Shiogai,FW,Japan,21,1.de Wolfsburg,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,7.0,,1.9,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,7.0
+Mostafa Shobeir,GK,Egypt,26,1.eg Al Ahly,2000,5,5,480,5.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,100.0,0,5,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,96.0
+Eldor Shomurodov,FW,Uzbekistan,30,1.tr Başakşehir,1995,3,3,269,3.0,1,0,1,1,0,0,0,0,0.33,0.0,0.33,0.33,0.33,3,0,,90.0,99.6,8,4,1,0,FW,AFC,Mainly a starter,0.3345724907063197,0.3345724907063197,2.676579925650558,89.66666666666667
+Otabek Shukurov,MF,Uzbekistan,29,1.ae Baniyas FC,1996,3,3,237,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,79.0,87.8,2,5,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.759493670886076,79.0
+Nkosinathi Sibisi,DF,South Africa,30,1.za Orlando Pirates,1995,1,1,90,1.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,25.0,1,0,0,0,DF,CAF,Mainly a starter,0.0,0.0,1.0,90.0
+Kwasi Sibo,MF,Ghana,27,1.es Oviedo,1998,4,3,248,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,13.0,78.0,68.9,7,1,0,0,MF,CAF,Mainly a starter,0.0,0.0,2.5403225806451615,62.0
+Niko Sigur,MF,Canada,22,1.hr Hajduk Split,2003,3,1,126,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,1,2,20.0,86.0,28.0,5,1,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,3.5714285714285716,42.0
+Bernardo Silva,MF,Portugal,31,1.eng Manchester City,1994,4,1,97,1.1,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,1,3,17.0,45.0,21.6,3,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,2.783505154639175,24.25
+Éderson Silva,MF,Brazil,26,1.it Atalanta,1999,2,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,11.0,,4.9,1,0,0,0,MF,CONMEBOL,Mainly a substitute,0.0,0.0,4.090909090909091,11.0
+Giuliano Simeone,FW,Argentina,23,1.es Atlético Madrid,2002,3,2,192,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,51.0,71.0,23.7,9,1,1,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,4.21875,64.0
+Dominique Simon,MF,Haiti,25,1.sk 1. FC Tatran Prešov B,2000,2,0,56,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,28.0,,20.7,1,1,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,1.6071428571428572,28.0
+Unai Simón,GK,Spain,29,1.es Athletic Club,1997,8,8,750,8.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,8,0,,94.0,100.0,0,3,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,93.75
+Sarpreet Singh,MF,New Zealand,27,1.au Wellington,1999,3,3,209,2.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,70.0,77.4,2,2,0,0,MF,OFC,Mainly a starter,0.0,0.0,0.861244019138756,69.66666666666667
+Wilfried Singo,DF,Ivory Coast,25,1.tr Galatasaray,2000,2,2,171,1.9,0,1,1,0,0,0,0,0,0.0,0.53,0.53,0.0,0.53,2,0,,86.0,47.5,3,1,0,0,DF,CAF,Mainly a starter,0.0,0.5263157894736842,1.5789473684210527,85.5
+Sphephelo Sithole,MF,South Africa,27,1.pt Tondela,1999,3,3,229,2.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,3,0,,76.0,63.6,5,1,0,0,MF,CAF,Mainly a starter,0.0,0.0,1.965065502183406,76.33333333333333
+Ellyes Skhiri,"MF,DF",Tunisia,31,1.de Frankfurt,1995,3,3,250,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,83.0,92.6,0,1,0,1,MF,CAF,Mainly a starter,0.0,0.0,0.0,83.33333333333333
+Alexandr Sojka,"MF,DF",Czech Republic,23,1.cz Viktoria Plzeň,2003,3,2,141,1.6,0,1,1,0,0,0,0,0,0.0,0.64,0.64,0.0,0.64,2,1,4.0,69.0,52.2,0,2,0,0,MF,UEFA,Mainly a starter,0.0,0.6382978723404256,0.0,47.0
+Ramón Sosa,"FW,MF",Paraguay,26,1.br Palmeiras,1999,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,12.0,,2.5,0,1,0,0,FW,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,12.0
+Tomáš Souček,MF,Czech Republic,31,1.eng West Ham,1995,3,1,137,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,24.0,90.0,50.7,3,1,2,0,MF,UEFA,Mainly a substitute,0.0,0.0,1.9708029197080292,45.666666666666664
+Harry Souttar,DF,Australia,27,2.eng Leicester City,1998,4,4,390,4.3,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,100.0,8,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.8461538461538463,97.5
+Djibril Sow,MF,Switzerland,29,1.es Sevilla,1997,4,2,253,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,48.0,79.0,42.2,5,4,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.7786561264822134,63.25
+Çağlar Söyüncü,DF,Turkey,30,1.tr Fenerbahçe,1996,1,0,7,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,7.0,,2.6,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,7.0
+Djed Spence,DF,England,25,1.eng Tottenham,2000,8,4,404,4.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,4,23.0,78.0,53.9,3,5,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.6683168316831684,50.5
+Marko Stamenic,MF,New Zealand,24,2.eng Swansea City,2002,3,3,269,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,99.6,4,0,0,0,MF,OFC,Mainly a starter,0.0,0.0,1.338289962825279,89.66666666666667
+Josip Stanišić,"DF,MF",Croatia,26,1.de Bayern Munich,2000,4,4,360,4.0,0,1,1,0,0,0,0,0,0.0,0.25,0.25,0.0,0.25,4,0,,90.0,100.0,0,4,0,0,DF,UEFA,Mainly a starter,0.0,0.25,0.0,90.0
+Carl Starfelt,DF,Sweden,31,1.es Celta Vigo,1995,1,0,4,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,4.0,,1.1,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,4.0
+Ross Stewart,FW,Scotland,29,2.eng Southampton,1996,1,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,2.0,,0.7,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,2.0
+Angelo Stiller,MF,Germany,25,1.de Stuttgart,2001,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,45.0,,11.5,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,45.0
+John Stones,DF,England,32,1.eng Manchester City,1994,5,3,330,3.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,2,18.0,98.0,44.0,1,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.2727272727272727,66.0
+Jørgen Strand Larsen,FW,Norway,26,1.eng Crystal Palace,2000,2,1,105,1.2,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,1,1,15.0,90.0,18.4,0,2,1,0,FW,UEFA,Mainly a starter,0.0,0.0,0.0,52.5
+Elliot Stroud,MF,Sweden,23,1.se Mjällby,2002,4,2,166,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,14.0,70.0,46.1,3,1,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.6265060240963856,41.5
+Luis Suárez,FW,Colombia,28,1.pt Sporting CP,1997,5,3,331,3.7,0,1,1,0,0,0,1,0,0.0,0.27,0.27,0.0,0.27,3,2,57.0,72.0,69.0,7,8,1,0,FW,CONMEBOL,Mainly a starter,0.0,0.2719033232628399,1.903323262839879,66.2
+Luka Sučić,"FW,MF",Croatia,23,1.es Real Sociedad,2002,1,0,19,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,19.0,,5.3,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,19.0
+Petar Sučić,"MF,FW",Croatia,22,1.it Inter,2003,4,3,289,3.2,1,1,2,1,0,0,1,0,0.31,0.31,0.62,0.31,0.62,3,1,19.0,90.0,80.3,7,6,1,0,MF,UEFA,Mainly a starter,0.31141868512110726,0.6228373702422145,2.179930795847751,72.25
+Yukinari Sugawara,MF,Japan,25,1.de Werder Bremen,2000,4,1,148,1.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,3,19.0,90.0,41.1,3,1,0,0,MF,AFC,Mainly a substitute,0.0,0.0,1.8243243243243243,37.0
+Rebin Sulaka,DF,Iraq,34,1.th Port FC,1992,2,1,43,0.5,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,1,1,31.0,12.0,15.9,1,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,2.0930232558139537,21.5
+Pavel Šulc,FW,Czech Republic,25,1.fr Lyon,2000,3,2,189,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,36.0,77.0,70.0,2,1,1,0,FW,UEFA,Mainly a starter,0.0,0.0,0.9523809523809523,63.0
+Kamaldeen Sulemana,"MF,FW",Ghana,24,1.us Atlanta Utd,2002,2,2,127,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,64.0,35.3,2,1,1,0,MF,CAF,Mainly a starter,0.0,0.0,1.4173228346456692,63.5
+Crysencio Summerville,FW,Netherlands,24,1.eng West Ham,2001,4,2,253,2.8,2,2,4,2,0,0,1,0,0.71,0.71,1.42,0.71,1.42,2,2,32.0,95.0,64.9,2,5,1,0,FW,UEFA,Mainly a starter,0.7114624505928854,1.4229249011857708,0.7114624505928854,63.25
+Ivan Šunjić,MF,Bosnia and Herzegovina,29,1.cy Pafos FC,1996,4,3,196,2.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,1,17.0,60.0,54.4,7,0,0,0,MF,UEFA,Mainly a starter,0.0,0.0,3.2142857142857144,49.0
+Finn Surman,DF,New Zealand,22,1.us Portland Timbers,2003,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.0,0.33,0.33,0.33,3,0,,90.0,100.0,4,2,0,0,DF,OFC,Mainly a starter,0.3333333333333333,0.3333333333333333,1.3333333333333333,90.0
+Josip Šutalo,DF,Croatia,26,1.nl Ajax,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,2,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.5,90.0
+Junnosuke Suzuki,DF,Japan,22,1.dk FC Copenhagen,2003,2,0,43,0.5,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,2,22.0,,11.9,2,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,4.186046511627907,21.5
+Yuito Suzuki,"FW,MF",Japan,24,1.de Freiburg,2001,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,12.0,,3.3,0,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,0.0,12.0
+Zion Suzuki,GK,Japan,23,1.it Parma,2002,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,1,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Mattias Svanberg,MF,Sweden,27,1.de Wolfsburg,1999,2,0,16,0.2,1,0,1,1,0,0,0,0,5.63,0.0,5.63,5.63,5.63,0,2,8.0,,4.4,0,1,0,0,MF,UEFA,Mainly a substitute,5.625,5.625,0.0,8.0
+Daniel Svensson,DF,Sweden,24,1.de Dortmund,2002,3,1,98,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,9.0,81.0,27.2,0,0,1,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,32.666666666666664
+Alexander Sørloth,FW,Norway,30,1.es Atlético Madrid,1995,5,5,337,3.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,67.0,59.1,6,2,2,0,FW,UEFA,Mainly a starter,0.0,0.0,1.6023738872403561,67.4
+Musa Al-Taamari,FW,Jordan,29,1.fr Rennes,1997,3,2,215,2.4,1,1,2,1,0,0,0,0,0.42,0.42,0.84,0.42,0.84,2,1,45.0,85.0,79.6,2,3,1,0,FW,AFC,Mainly a starter,0.4186046511627907,0.8372093023255814,0.8372093023255814,71.66666666666667
+Haris Tabaković,FW,Bosnia and Herzegovina,31,2.de Schalke 04,1994,1,0,16,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,16.0,,4.4,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,16.0
+Lee Tae-seok,MF,South Korea,23,1.at Austria Wien,2002,2,2,113,1.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,57.0,41.9,3,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,2.3893805309734515,56.5
+Nicolás Tagliafico,DF,Argentina,33,1.fr Lyon,1992,7,5,476,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,2,22.0,86.0,58.8,9,16,2,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,1.7016806722689075,68.0
+Jonathan Tah,DF,Germany,30,1.de Bayern Munich,1996,4,4,372,4.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,93.0,95.4,5,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.2096774193548387,93.0
+Benjamin Tahirovic,MF,Bosnia and Herzegovina,23,1.dk Brøndby,2003,4,2,237,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,43.0,76.0,65.8,3,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.139240506329114,59.25
+Zaid Tahseen,DF,Iraq,25,1.uz Pakhtakor Tashkent FK,2001,2,2,149,1.7,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,75.0,55.2,3,2,0,0,DF,AFC,Mainly a starter,0.0,0.0,1.8120805369127517,74.5
+Chemsdine Talbi,MF,Morocco,21,1.eng Sunderland,2005,5,1,179,2.0,0,1,1,0,0,0,0,0,0.0,0.5,0.5,0.0,0.5,1,4,24.0,84.0,31.4,0,1,0,0,MF,CAF,Mainly a substitute,0.0,0.5027932960893855,0.0,35.8
+Montassar Talbi,DF,Tunisia,28,1.fr Lorient,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,1,1,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.3333333333333333,90.0
+Hassan Al Tambakti,DF,Saudi Arabia,27,1.sa Al-Hilal,1999,3,3,212,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,71.0,78.5,0,1,0,1,DF,AFC,Mainly a starter,0.0,0.0,0.0,70.66666666666667
+Ao Tanaka,MF,Japan,27,1.eng Leeds United,1998,3,2,193,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,13.0,90.0,53.6,6,2,0,0,MF,AFC,Mainly a starter,0.0,0.0,2.7979274611398965,64.33333333333333
+Shogo Taniguchi,DF,Japan,34,1.be Sint-Truiden,1991,3,2,232,2.6,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,52.0,90.0,64.4,2,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.7758620689655172,77.33333333333333
+Mehdi Taremi,FW,Iran,33,1.gr Olympiacos,1992,3,3,259,2.9,0,0,0,0,0,1,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,86.0,95.9,3,5,2,0,FW,AFC,Mainly a starter,0.0,0.0,1.0424710424710424,86.33333333333333
+Aurélien Tchouaméni,MF,France,26,1.es Real Madrid,2000,4,4,360,4.0,0,1,1,0,0,0,1,0,0.0,0.25,0.25,0.0,0.25,4,0,,90.0,50.0,4,3,0,0,MF,UEFA,Mainly a starter,0.0,0.25,1.0,90.0
+Arthur Theate,DF,Belgium,26,1.de Frankfurt,2000,3,2,228,2.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,18.0,105.0,40.0,1,0,0,0,DF,UEFA,Mainly a starter,0.0,0.0,0.39473684210526316,76.0
+Igor Thiago,FW,Brazil,24,1.eng Brentford,2001,1,1,61,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,61.0,13.6,2,0,0,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,2.9508196721311477,61.0
+Malick Thiaw,"DF,MF",Germany,24,1.eng Newcastle,2001,2,0,42,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,21.0,,10.8,1,1,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,2.142857142857143,21.0
+Ryan Thomas,MF,New Zealand,31,1.nl Zwolle,1994,3,1,83,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,19.0,45.0,30.7,3,3,0,0,MF,OFC,Mainly a substitute,0.0,0.0,3.253012048192771,27.666666666666668
+Brandon Thomas-Asante,"FW,MF",Ghana,27,2.eng Coventry City,1998,2,0,53,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,27.0,,14.7,0,1,1,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,26.5
+Morten Thorsby,MF,Norway,30,1.it Cremonese,1996,1,0,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,45.0,,7.9,1,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,2.0,45.0
+Kristian Thorstvedt,MF,Norway,27,1.it Sassuolo,1999,2,1,63,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,18.0,45.0,11.1,2,1,0,0,MF,UEFA,Mainly a starter,0.0,0.0,2.857142857142857,31.5
+Marcus Thuram,"FW,MF",France,28,1.it Inter,1997,1,0,1,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,1.0,,0.1,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,1.0
+Youri Tielemans,MF,Belgium,29,1.eng Aston Villa,1997,5,5,474,5.3,2,0,2,1,1,1,0,0,0.38,0.0,0.38,0.19,0.19,5,0,,95.0,83.2,7,10,1,0,MF,UEFA,Mainly a starter,0.379746835443038,0.379746835443038,1.3291139240506329,94.8
+Kieran Tierney,MF,Scotland,29,1.sct Celtic,1997,2,1,104,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,45.0,59.0,38.5,3,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,2.5961538461538463,52.0
+Guus Til,"FW,MF",Netherlands,28,1.nl PSV,1997,1,0,32,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,32.0,,8.2,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,32.0
+Malik Tillman,MF,United States,24,1.de Leverkusen,2002,5,4,356,4.0,2,1,3,2,0,0,1,0,0.51,0.25,0.76,0.51,0.76,4,1,5.0,88.0,79.1,3,13,0,0,MF,CONCACAF,Mainly a starter,0.5056179775280899,0.7584269662921348,0.7584269662921348,71.2
+Quinten Timber,MF,Netherlands,24,1.fr Marseille,2001,2,0,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,28.0,,14.1,0,2,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,27.5
+Takehiro Tomiyasu,DF,Japan,27,1.nl Ajax,1998,3,2,184,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,16.0,84.0,51.1,5,2,0,0,DF,AFC,Mainly a starter,0.0,0.0,2.4456521739130435,61.333333333333336
+Ivan Toney,FW,England,30,1.sa Al-Ahli,1996,2,1,79,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,1.0,78.0,10.5,0,3,2,0,FW,UEFA,Mainly a starter,0.0,0.0,0.0,39.5
+Mehdi Torabi,MF,Iran,31,1.ir Tractor,1994,1,0,25,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,25.0,,9.3,0,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,0.0,25.0
+Félix Torres Caicedo,DF,Ecuador,29,1.br Internacional,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,6.0,,1.7,0,0,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,0.0,6.0
+Ferran Torres,FW,Spain,26,1.es Barcelona,2000,8,1,288,3.2,1,1,2,1,0,0,1,0,0.31,0.31,0.62,0.31,0.62,1,7,30.0,80.0,38.4,6,4,3,0,FW,UEFA,Mainly a substitute,0.3125,0.625,1.875,36.0
+Sebastian Tounekti,FW,Tunisia,23,1.sct Celtic,2002,3,1,84,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,10.0,64.0,31.1,1,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,1.0714285714285714,28.0
+Bazoumana Touré,MF,Ivory Coast,20,1.de Hoffenheim,2006,3,1,80,0.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,13.0,55.0,22.2,0,1,0,0,MF,CAF,Mainly a substitute,0.0,0.0,0.0,26.666666666666668
+Mo Touré,FW,Australia,22,2.eng Norwich City,2004,3,2,165,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,47.0,59.0,42.3,4,2,1,0,FW,AFC,Mainly a starter,0.0,0.0,2.1818181818181817,55.0
+Kai Trewin,"DF,MF",Australia,25,1.us NYCFC,2001,1,0,75,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,75.0,,19.2,0,1,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,75.0
+Trézéguet,MF,Egypt,31,1.eg Al Ahly,1994,4,1,164,1.8,1,1,2,1,0,0,0,0,0.55,0.55,1.1,0.55,1.1,1,3,25.0,90.0,34.2,3,2,0,0,MF,CAF,Mainly a substitute,0.5487804878048781,1.0975609756097562,1.646341463414634,41.0
+Francisco Trincão,"FW,MF",Portugal,26,1.pt Sporting CP,1999,1,0,28,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,28.0,,6.2,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,28.0
+Leandro Trossard,"MF,FW",Belgium,31,1.eng Arsenal,1994,6,6,506,5.6,2,2,4,2,0,0,0,0,0.36,0.36,0.71,0.36,0.71,6,0,,84.0,88.8,4,8,1,0,MF,UEFA,Mainly a starter,0.3557312252964427,0.7114624505928854,0.7114624505928854,84.33333333333333
+Auston Trusty,DF,United States,27,1.sct Celtic,1998,2,1,101,1.1,1,0,1,1,0,0,0,0,0.89,0.0,0.89,0.89,0.89,1,1,11.0,90.0,22.4,2,0,0,0,DF,CONCACAF,Mainly a starter,0.8910891089108911,0.8910891089108911,1.7821782178217822,50.5
+Axel Tuanzebe,DF,DR Congo,28,1.eng Burnley,1997,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,3,3,0,0,DF,CAF,Mainly a starter,0.0,0.0,0.75,90.0
+Matt Turner,GK,United States,31,1.us NE Revolution,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,20.0,0,0,0,0,GK,CONCACAF,Mainly a starter,0.0,0.0,0.0,90.0
+Ayase Ueda,FW,Japan,27,1.nl Feyenoord,1998,4,4,321,3.6,2,1,3,2,0,0,0,0,0.56,0.28,0.84,0.56,0.84,4,0,,80.0,89.2,6,4,1,0,FW,AFC,Mainly a starter,0.5607476635514018,0.8411214953271028,1.6822429906542056,80.25
+Manuel Ugarte,MF,Uruguay,25,1.eng Manchester Utd,2001,3,3,184,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,61.0,68.1,1,0,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,0.4891304347826087,61.333333333333336
+Deniz Undav,FW,Germany,29,1.de Stuttgart,1996,4,1,151,1.7,3,2,5,3,0,0,0,0,1.79,1.19,2.98,1.79,2.98,1,3,30.0,62.0,38.7,3,0,0,0,FW,UEFA,Mainly a substitute,1.7880794701986755,2.980132450331126,1.7880794701986755,37.75
+Dayot Upamecano,DF,France,27,1.de Bayern Munich,1998,8,7,660,7.3,0,1,1,0,0,0,0,0,0.0,0.14,0.14,0.0,0.14,7,1,45.0,88.0,91.7,7,4,0,0,DF,UEFA,Mainly a starter,0.0,0.13636363636363635,0.9545454545454546,82.5
+Jakhongir Urozov,DF,Uzbekistan,22,1.uz FK Dinamo Samarqand,2004,2,1,95,1.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,14.0,81.0,35.2,0,0,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.0,47.5
+Oston Urunov,MF,Uzbekistan,25,1.ir Persepolis,2000,2,1,63,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,18.0,45.0,23.3,0,0,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.0,31.5
+Can Uzun,MF,Turkey,20,1.de Frankfurt,2005,2,0,38,0.4,0,1,1,0,0,0,0,0,0.0,2.37,2.37,0.0,2.37,0,2,19.0,,14.1,0,1,0,0,MF,UEFA,Mainly a substitute,0.0,2.3684210526315788,0.0,19.0
+Enner Valencia,FW,Ecuador,36,1.mx Pachuca,1989,4,4,287,3.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,72.0,79.7,4,7,2,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,1.254355400696864,71.75
+Yan Valery,DF,Tunisia,27,1.ch Young Boys,1999,3,3,251,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,84.0,93.0,4,0,1,0,DF,CAF,Mainly a starter,0.0,0.0,1.4342629482071714,83.66666666666667
+Federico Valverde,MF,Uruguay,27,1.es Real Madrid,1998,3,3,236,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,79.0,87.4,1,0,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,0.3813559322033898,78.66666666666667
+Virgil van Dijk,DF,Netherlands,34,1.eng Liverpool,1991,4,4,390,4.3,1,1,2,1,0,0,0,0,0.23,0.23,0.46,0.23,0.46,4,0,,98.0,100.0,2,2,0,0,DF,UEFA,Mainly a starter,0.23076923076923078,0.46153846153846156,0.46153846153846156,97.5
+Hans Vanaken,MF,Belgium,33,1.be Club Brugge,1992,6,3,319,3.5,1,2,3,1,0,0,0,0,0.28,0.56,0.85,0.28,0.85,3,3,36.0,70.0,56.0,0,6,0,0,MF,UEFA,Mainly a starter,0.28213166144200624,0.8463949843260188,0.0,53.166666666666664
+Guillermo Varela,DF,Uruguay,33,1.br Flamengo,1993,3,3,270,3.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,100.0,1,1,0,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.3333333333333333,90.0
+Hélio Varela,FW,Cape Verde,24,1.il Maccabi Tel Aviv,2002,3,0,104,1.2,1,0,1,1,0,0,0,0,0.87,0.0,0.87,0.87,0.87,0,3,35.0,,26.7,1,2,1,0,FW,CAF,Mainly a substitute,0.8653846153846154,0.8653846153846154,0.8653846153846154,34.666666666666664
+Camilo Vargas,GK,Colombia,37,1.mx Atlas,1989,5,5,480,5.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,96.0,100.0,0,0,0,0,GK,CONMEBOL,Mainly a starter,0.0,0.0,0.0,96.0
+Obed Vargas,MF,Mexico,20,1.es Atlético Madrid,2005,3,0,66,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,3,22.0,,14.7,1,0,0,0,MF,CONCACAF,Mainly a substitute,0.0,0.0,1.3636363636363635,22.0
+Ruben Vargas,MF,Switzerland,27,1.es Sevilla,1998,6,3,284,3.2,2,1,3,2,0,0,0,0,0.63,0.32,0.95,0.63,0.95,3,3,19.0,76.0,47.3,6,6,2,0,MF,UEFA,Mainly a starter,0.6338028169014085,0.9507042253521126,1.9014084507042253,47.333333333333336
+Nikola Vasilj,GK,Bosnia and Herzegovina,30,1.de St Pauli,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Johan Vásquez,DF,Mexico,27,1.it Genoa,1998,4,4,360,4.0,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,80.0,0,2,0,0,DF,CONCACAF,Mainly a starter,0.0,0.0,0.0,90.0
+Alexis Vega,"FW,MF",Mexico,28,1.mx Toluca,1997,1,0,12,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,12.0,,2.7,0,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,12.0
+Renato Veiga,DF,Portugal,22,1.es Villarreal,2003,5,5,450,5.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,5,0,,90.0,100.0,5,3,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.0,90.0
+Gustavo Velásquez,DF,Paraguay,35,1.py Cerro Porteño,1991,5,2,246,2.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,3,22.0,90.0,51.3,2,0,0,0,DF,CONMEBOL,Mainly a substitute,0.0,0.0,0.7317073170731707,49.2
+Nishan Velupillay,MF,Australia,25,1.au Melb. Victory,2001,2,1,75,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,30.0,45.0,19.2,1,0,0,0,MF,AFC,Mainly a starter,0.0,0.0,1.2,37.5
+Micky van de Ven,"DF,MF",Netherlands,25,1.eng Tottenham,2001,3,3,265,2.9,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,3,0,,88.0,67.9,5,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.6981132075471699,88.33333333333333
+Bart Verbruggen,GK,Netherlands,23,1.eng Brighton,2002,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,100.0,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,97.5
+Matías Viña,DF,Uruguay,28,1.br Flamengo,1997,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,16.7,0,1,1,0,DF,CONMEBOL,Mainly a starter,0.0,0.0,0.0,45.0
+Federico Viñas,FW,Uruguay,27,1.es Oviedo,1998,3,2,192,2.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,34.0,79.0,71.1,3,3,3,0,FW,CONMEBOL,Mainly a starter,0.0,0.0,1.40625,64.0
+Denis Višinský,FW,Czech Republic,23,1.cz Viktoria Plzeň,2003,1,1,55,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,55.0,20.4,0,1,0,0,FW,UEFA,Mainly a starter,0.0,0.0,0.0,55.0
+Pedro Vite,MF,Ecuador,24,1.mx UNAM,2002,4,4,360,4.0,0,1,1,0,0,0,0,0,0.0,0.25,0.25,0.0,0.25,4,0,,90.0,100.0,2,5,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.25,0.5,90.0
+Vitinha,MF,Portugal,26,1.fr PSG,2000,5,5,376,4.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,5,0,,75.0,83.6,4,5,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.9574468085106383,75.2
+Nikola Vlašić,MF,Croatia,28,1.it Torino,1997,3,2,189,2.1,1,0,1,1,0,0,0,0,0.48,0.0,0.48,0.48,0.48,2,1,13.0,88.0,52.5,5,0,2,0,MF,UEFA,Mainly a starter,0.47619047619047616,0.47619047619047616,2.380952380952381,63.0
+Cristian Volpato,MF,Australia,22,1.it Sassuolo,2003,3,2,160,1.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,30.0,65.0,41.0,1,2,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.5625,53.333333333333336
+Vozinha,GK,Cape Verde,40,2.pt Chaves,1986,4,4,390,4.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,98.0,100.0,0,3,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,97.5
+Francis de Vries,DF,New Zealand,31,1.au Auckland FC,1994,2,0,18,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,9.0,,6.7,0,0,0,0,DF,OFC,Mainly a substitute,0.0,0.0,0.0,9.0
+Luka Vušković,DF,Croatia,19,1.de Hamburger SV,2007,1,1,65,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,65.0,18.1,1,1,0,0,DF,UEFA,Mainly a starter,0.0,0.0,1.3846153846153846,65.0
+Elye Wahi,FW,Ivory Coast,23,1.fr Nice,2003,3,1,110,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,2,28.0,55.0,30.6,0,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,0.0,36.666666666666664
+Aaron Wan-Bissaka,DF,DR Congo,28,1.eng West Ham,1997,4,4,354,3.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,89.0,98.3,1,1,1,0,DF,CAF,Mainly a starter,0.0,0.0,0.2542372881355932,88.5
+Paul Wanner,MF,Austria,20,1.nl PSV,2005,4,2,234,2.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,2,39.0,79.0,65.0,4,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.5384615384615385,58.5
+Tsuyoshi Watanabe,DF,Japan,29,1.nl Feyenoord,1997,2,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,16.0,74.0,25.0,0,1,0,0,DF,AFC,Mainly a starter,0.0,0.0,0.0,45.0
+Cecilio Waterman,FW,Panama,35,1.cl U Concepción,1991,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,14.0,62.0,28.1,1,1,0,0,FW,CONCACAF,Mainly a starter,0.0,0.0,1.1842105263157894,38.0
+Ollie Watkins,"FW,MF",England,30,1.eng Aston Villa,1995,2,0,52,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,26.0,,6.9,1,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,1.7307692307692308,26.0
+Timothy Weah,MF,United States,26,1.fr Marseille,2000,2,1,76,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,19.0,57.0,16.9,2,0,2,0,MF,CONCACAF,Mainly a starter,0.0,0.0,2.3684210526315788,38.0
+Wout Weghorst,FW,Netherlands,33,1.nl Ajax,1992,1,0,50,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,50.0,,12.8,1,2,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,1.8,50.0
+Jacob Widell Zetterström,GK,Sweden,27,2.eng Derby County,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,90.0,50.0,0,0,0,0,GK,UEFA,Mainly a starter,0.0,0.0,0.0,90.0
+Silvan Widmer,DF,Switzerland,33,1.de Mainz 05,1993,5,1,175,1.9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,4,23.0,85.0,29.2,2,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,1.0285714285714285,35.0
+Iñaki Williams,"MF,FW",Ghana,31,1.es Athletic Club,1994,2,2,126,1.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,0,,63.0,35.0,2,1,1,0,MF,CAF,Mainly a starter,0.0,0.0,1.4285714285714286,63.0
+Nico Williams,MF,Spain,23,1.es Athletic Club,2002,6,0,113,1.3,0,1,1,0,0,0,0,0,0.0,0.8,0.8,0.0,0.8,0,6,19.0,,15.1,2,1,1,0,MF,UEFA,Mainly a substitute,0.0,0.7964601769911505,1.592920353982301,18.833333333333332
+Ronwen Williams,GK,South Africa,34,1.za Sundowns,1992,4,4,360,4.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,90.0,100.0,0,0,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Patrick Wimmer,"FW,MF",Austria,25,1.de Wolfsburg,2001,2,0,21,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,11.0,,5.8,3,1,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,12.857142857142858,10.5
+Florian Wirtz,MF,Germany,23,1.eng Liverpool,2003,4,4,361,4.0,0,3,3,0,0,0,0,0,0.0,0.75,0.75,0.0,0.75,4,0,,90.0,92.6,1,3,1,0,MF,UEFA,Mainly a starter,0.0,0.7479224376731302,0.24930747922437674,90.25
+Yoane Wissa,FW,DR Congo,29,1.eng Newcastle,1996,4,4,360,4.0,3,0,3,2,1,1,0,0,0.75,0.0,0.75,0.5,0.5,4,0,,90.0,100.0,5,9,1,0,FW,CAF,Mainly a starter,0.75,0.75,1.25,90.0
+Axel Witsel,"DF,MF",Belgium,37,1.es Girona,1989,2,0,33,0.4,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0,2,17.0,,5.8,2,1,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,5.454545454545454,16.5
+Nick Woltemade,"FW,MF",Germany,24,1.eng Newcastle,2002,1,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,33.0,,8.5,0,0,0,0,FW,UEFA,Mainly a substitute,0.0,0.0,0.0,33.0
+Chris Wood,FW,New Zealand,34,1.eng Nottingham,1991,3,3,270,3.0,0,2,2,0,0,0,0,0,0.0,0.67,0.67,0.0,0.67,3,0,,90.0,100.0,2,1,4,0,FW,OFC,Mainly a starter,0.0,0.6666666666666666,0.6666666666666666,90.0
+Haji Wright,"FW,MF",United States,28,2.eng Coventry City,1998,2,0,2,0.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,1.0,,0.4,0,0,1,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,0.0,1.0
+Granit Xhaka,MF,Switzerland,33,1.eng Sunderland,1992,6,6,600,6.7,1,0,1,0,1,1,2,0,0.15,0.0,0.15,0.0,0.0,6,0,,100.0,100.0,4,12,0,0,MF,UEFA,Mainly a starter,0.15,0.15,0.6,100.0
+Kevin Yakob,MF,Iraq,25,1.dk AGF,2000,1,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,24.0,,8.9,1,0,0,0,MF,AFC,Mainly a substitute,0.0,0.0,3.75,24.0
+Lamine Yamal,"MF,FW",Spain,18,1.es Barcelona,2007,8,7,614,6.8,1,0,1,1,0,0,0,0,0.15,0.0,0.15,0.15,0.15,7,1,20.0,85.0,81.9,14,9,7,0,MF,UEFA,Mainly a starter,0.1465798045602606,0.1465798045602606,2.0521172638436482,76.75
+Yannick,MF,Cape Verde,30,2.pt Farense,1995,2,0,32,0.4,0,1,1,0,0,0,0,0,0.0,2.81,2.81,0.0,2.81,0,2,16.0,,8.2,1,1,0,0,MF,CAF,Mainly a substitute,0.0,2.8125,2.8125,16.0
+Gessime Yassine,MF,Morocco,20,1.fr Strasbourg,2005,3,0,80,0.9,1,0,1,1,0,0,0,0,1.13,0.0,1.13,1.13,1.13,0,3,27.0,,14.0,2,3,0,0,MF,CAF,Mainly a substitute,1.125,1.125,2.25,26.666666666666668
+John Yeboah,MF,Ecuador,25,2.it Venezia,2000,4,4,311,3.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,4,0,,78.0,86.4,0,4,0,0,MF,CONMEBOL,Mainly a starter,0.0,0.0,0.0,77.75
+Tete Yengi,FW,Australia,25,1.jp Machida Zelvia,2000,2,0,24,0.3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,12.0,,6.2,3,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,11.25,12.0
+Kenan Yıldız,MF,Turkey,21,1.it Juventus,2005,3,2,218,2.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,1,45.0,87.0,80.7,2,4,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.8256880733944955,72.66666666666667
+Caleb Yirenkyi,MF,Ghana,20,1.dk Nordsjælland,2006,4,3,264,2.9,1,0,1,1,0,0,2,0,0.34,0.0,0.34,0.34,0.34,3,1,6.0,86.0,73.3,7,3,0,0,MF,CAF,Mainly a starter,0.3409090909090909,0.3409090909090909,2.3863636363636362,66.0
+Seol Young-woo,MF,South Korea,27,1.rs Red Star,1998,3,3,250,2.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,83.0,92.6,1,2,4,0,MF,AFC,Mainly a starter,0.0,0.0,0.36,83.33333333333333
+Manaf Younis,DF,Iraq,29,1.iq Al-Shorta,1996,1,0,75,0.8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,75.0,,27.8,0,0,0,0,DF,AFC,Mainly a substitute,0.0,0.0,0.0,75.0
+Aria Yousefi,MF,Iran,24,1.ir Sepahan,2002,1,1,45,0.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,45.0,16.7,0,1,0,0,MF,AFC,Mainly a starter,0.0,0.0,0.0,45.0
+Ali Yousif,FW,Iraq,30,1.iq Al-Talaba,1996,1,0,33,0.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,33.0,,12.2,1,0,0,0,FW,AFC,Mainly a substitute,0.0,0.0,2.727272727272727,33.0
+İsmail Yüksek,MF,Turkey,27,1.tr Fenerbahçe,1999,2,2,139,1.5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,2,0,,70.0,51.5,2,0,0,0,MF,UEFA,Mainly a starter,0.0,0.0,1.2949640287769784,69.5
+Utkir Yusupov,GK,Uzbekistan,35,1.uz Navbahor,1991,1,1,90,1.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,0,,90.0,33.3,0,1,0,0,GK,AFC,Mainly a starter,0.0,0.0,0.0,90.0
+Warren Zaïre-Emery,MF,France,20,1.fr PSG,2006,2,1,110,1.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,20.0,90.0,15.3,1,0,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.8181818181818182,55.0
+Denis Zakaria,DF,Switzerland,29,1.fr Monaco,1996,4,4,357,4.0,0,0,0,0,0,0,2,0,0.0,0.0,0.0,0.0,0.0,4,0,,89.0,59.5,4,0,1,0,DF,UEFA,Mainly a starter,0.0,0.0,1.0084033613445378,89.25
+Jaroslav Zelený,MF,Czech Republic,33,1.cz Sparta Prague,1992,2,1,126,1.4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,1,1,36.0,90.0,46.7,0,2,0,0,MF,UEFA,Mainly a starter,0.0,0.0,0.0,63.0
+Alejandro Zendejas,"FW,MF",United States,28,1.mx América,1998,1,0,14,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,14.0,,3.1,1,0,0,0,FW,CONCACAF,Mainly a substitute,0.0,0.0,6.428571428571429,14.0
+Besfort Zeneli,MF,Sweden,23,1.be Union SG,2002,2,0,60,0.7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,2,30.0,,16.7,1,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,1.5,30.0
+Ramiz Zerrouki,MF,Algeria,28,1.nl Twente,1998,3,2,111,1.2,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0.0,2,1,9.0,51.0,30.8,4,0,0,0,MF,CAF,Mainly a starter,0.0,0.0,3.2432432432432434,37.0
+Luca Zidane,GK,Algeria,28,2.es Granada,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,3,0,,90.0,75.0,0,0,0,0,GK,CAF,Mainly a starter,0.0,0.0,0.0,90.0
+Mostafa Ziko,"FW,MF",Egypt,29,1.eg Pyramids FC,1997,5,5,370,4.1,2,1,3,2,0,0,0,0,0.49,0.24,0.73,0.49,0.73,5,0,,74.0,77.1,6,5,2,0,FW,CAF,Mainly a starter,0.4864864864864865,0.7297297297297297,1.4594594594594594,74.0
+David Zima,DF,Czech Republic,25,1.cz Slavia Prague,2000,1,0,13,0.1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,13.0,,4.8,0,0,0,0,DF,UEFA,Mainly a substitute,0.0,0.0,0.0,13.0
+Zizo,MF,Egypt,30,1.eg Al Ahly,1996,4,0,56,0.6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,4,14.0,,11.7,2,1,0,0,MF,CAF,Mainly a substitute,0.0,0.0,3.2142857142857144,14.0
+Martín Zubimendi,MF,Spain,27,1.eng Arsenal,1999,1,0,22,0.2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0,1,22.0,,2.9,0,0,0,0,MF,UEFA,Mainly a substitute,0.0,0.0,0.0,22.0
+Themba Zwane,"FW,MF",South Africa,36,1.za Sundowns,1989,1,0,23,0.3,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0,0,1,23.0,,6.4,1,0,0,0,FW,CAF,Mainly a substitute,0.0,0.0,3.9130434782608696,23.0
+Martin Ødegaard,MF,Norway,27,1.eng Arsenal,1998,5,5,470,5.2,0,4,4,0,0,0,0,0,0.0,0.77,0.77,0.0,0.77,5,0,,94.0,82.5,3,4,0,0,MF,UEFA,Mainly a starter,0.0,0.7659574468085106,0.574468085106383,94.0
+Leo Østigård,DF,Norway,26,1.it Genoa,1999,5,1,146,1.6,1,0,1,1,0,0,0,0,0.62,0.0,0.62,0.62,0.62,1,4,14.0,90.0,25.6,2,2,0,0,DF,UEFA,Mainly a substitute,0.6164383561643836,0.6164383561643836,1.2328767123287672,29.2

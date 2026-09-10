@@ -1,0 +1,209 @@
+match_id,stage,is_knockout,date,venue_city,stadium,country,elevation_m,roof,sheltered,team,opponent,goals_for,goals_against,confederation,result
+55,Group stage,False,2026-06-16,Kansas City,Arrowhead Stadium,USA,270,open,False,Algeria,Argentina,0,3,CAF,loss
+58,Group stage,False,2026-06-22,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Algeria,Jordan,2,1,CAF,win
+59,Group stage,False,2026-06-27,Kansas City,Arrowhead Stadium,USA,270,open,False,Algeria,Austria,3,3,CAF,draw
+85,Round of 32,True,2026-07-02,Vancouver,BC Place,Canada,5,retractable,True,Algeria,Switzerland,0,2,CAF,loss
+55,Group stage,False,2026-06-16,Kansas City,Arrowhead Stadium,USA,270,open,False,Argentina,Algeria,3,0,CONMEBOL,win
+57,Group stage,False,2026-06-22,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Argentina,Austria,2,0,CONMEBOL,win
+60,Group stage,False,2026-06-27,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Argentina,Jordan,3,1,CONMEBOL,win
+86,Round of 32,True,2026-07-03,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Argentina,Cape Verde,3,2,CONMEBOL,win
+95,Round of 16,True,2026-07-07,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Argentina,Egypt,3,2,CONMEBOL,win
+100,Quarter-final,True,2026-07-11,Kansas City,Arrowhead Stadium,USA,270,open,False,Argentina,Switzerland,3,1,CONMEBOL,win
+102,Semi-final,True,2026-07-15,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Argentina,England,2,1,CONMEBOL,win
+104,Final,True,2026-07-19,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Argentina,Spain,0,1,CONMEBOL,loss
+20,Group stage,False,2026-06-13,Vancouver,BC Place,Canada,5,retractable,True,Australia,Turkey,2,0,AFC,win
+21,Group stage,False,2026-06-19,Seattle,Lumen Field,USA,10,canopy,True,Australia,United States,0,2,AFC,loss
+24,Group stage,False,2026-06-25,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Australia,Paraguay,0,0,AFC,draw
+88,Round of 32,True,2026-07-03,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Australia,Egypt,1,1,AFC,draw
+56,Group stage,False,2026-06-16,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Austria,Jordan,3,1,UEFA,win
+57,Group stage,False,2026-06-22,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Austria,Argentina,0,2,UEFA,loss
+59,Group stage,False,2026-06-27,Kansas City,Arrowhead Stadium,USA,270,open,False,Austria,Algeria,3,3,UEFA,draw
+84,Round of 32,True,2026-07-02,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Austria,Spain,0,3,UEFA,loss
+37,Group stage,False,2026-06-15,Seattle,Lumen Field,USA,10,canopy,True,Belgium,Egypt,1,1,UEFA,draw
+39,Group stage,False,2026-06-21,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Belgium,Iran,0,0,UEFA,draw
+42,Group stage,False,2026-06-26,Vancouver,BC Place,Canada,5,retractable,True,Belgium,New Zealand,5,1,UEFA,win
+82,Round of 32,True,2026-07-01,Seattle,Lumen Field,USA,10,canopy,True,Belgium,Senegal,3,2,UEFA,win
+94,Round of 16,True,2026-07-06,Seattle,Lumen Field,USA,10,canopy,True,Belgium,United States,4,1,UEFA,win
+98,Quarter-final,True,2026-07-10,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Belgium,Spain,1,2,UEFA,loss
+7,Group stage,False,2026-06-12,Toronto,BMO Field,Canada,80,open,False,Bosnia and Herzegovina,Canada,1,1,UEFA,draw
+9,Group stage,False,2026-06-18,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Bosnia and Herzegovina,Switzerland,1,4,UEFA,loss
+12,Group stage,False,2026-06-24,Seattle,Lumen Field,USA,10,canopy,True,Bosnia and Herzegovina,Qatar,3,1,UEFA,win
+81,Round of 32,True,2026-07-01,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Bosnia and Herzegovina,United States,0,2,UEFA,loss
+13,Group stage,False,2026-06-13,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Brazil,Morocco,1,1,CONMEBOL,draw
+16,Group stage,False,2026-06-19,Philadelphia,Lincoln Financial Field,USA,10,open,False,Brazil,Haiti,3,0,CONMEBOL,win
+17,Group stage,False,2026-06-24,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Brazil,Scotland,3,0,CONMEBOL,win
+76,Round of 32,True,2026-06-29,Houston,NRG Stadium,USA,15,retractable,True,Brazil,Japan,2,1,CONMEBOL,win
+91,Round of 16,True,2026-07-05,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Brazil,Norway,1,2,CONMEBOL,loss
+7,Group stage,False,2026-06-12,Toronto,BMO Field,Canada,80,open,False,Canada,Bosnia and Herzegovina,1,1,CONCACAF,draw
+10,Group stage,False,2026-06-18,Vancouver,BC Place,Canada,5,retractable,True,Canada,Qatar,6,0,CONCACAF,win
+11,Group stage,False,2026-06-24,Vancouver,BC Place,Canada,5,retractable,True,Canada,Switzerland,1,2,CONCACAF,loss
+73,Round of 32,True,2026-06-28,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Canada,South Africa,1,0,CONCACAF,win
+90,Round of 16,True,2026-07-04,Houston,NRG Stadium,USA,15,retractable,True,Canada,Morocco,0,3,CONCACAF,loss
+43,Group stage,False,2026-06-15,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Cape Verde,Spain,0,0,CAF,draw
+46,Group stage,False,2026-06-21,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Cape Verde,Uruguay,2,2,CAF,draw
+47,Group stage,False,2026-06-26,Houston,NRG Stadium,USA,15,retractable,True,Cape Verde,Saudi Arabia,0,0,CAF,draw
+86,Round of 32,True,2026-07-03,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Cape Verde,Argentina,2,3,CAF,loss
+62,Group stage,False,2026-06-17,Mexico City,Estadio Azteca,Mexico,2240,open,False,Colombia,Uzbekistan,3,1,CONMEBOL,win
+64,Group stage,False,2026-06-23,Guadalajara (Zapopan),Estadio Akron,Mexico,1566,open,False,Colombia,DR Congo,1,0,CONMEBOL,win
+65,Group stage,False,2026-06-27,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Colombia,Portugal,0,0,CONMEBOL,draw
+87,Round of 32,True,2026-07-03,Kansas City,Arrowhead Stadium,USA,270,open,False,Colombia,Ghana,1,0,CONMEBOL,win
+96,Round of 16,True,2026-07-07,Vancouver,BC Place,Canada,5,retractable,True,Colombia,Switzerland,0,0,CONMEBOL,draw
+67,Group stage,False,2026-06-17,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Croatia,England,2,4,UEFA,loss
+70,Group stage,False,2026-06-23,Toronto,BMO Field,Canada,80,open,False,Croatia,Panama,1,0,UEFA,win
+72,Group stage,False,2026-06-27,Philadelphia,Lincoln Financial Field,USA,10,open,False,Croatia,Ghana,2,1,UEFA,win
+83,Round of 32,True,2026-07-02,Toronto,BMO Field,Canada,80,open,False,Croatia,Portugal,1,2,UEFA,loss
+25,Group stage,False,2026-06-14,Houston,NRG Stadium,USA,15,retractable,True,Curaçao,Germany,1,7,CONCACAF,loss
+28,Group stage,False,2026-06-20,Kansas City,Arrowhead Stadium,USA,270,open,False,Curaçao,Ecuador,0,0,CONCACAF,draw
+29,Group stage,False,2026-06-25,Philadelphia,Lincoln Financial Field,USA,10,open,False,Curaçao,Ivory Coast,0,2,CONCACAF,loss
+2,Group stage,False,2026-06-11,Guadalajara (Zapopan),Estadio Akron,Mexico,1566,open,False,Czech Republic,South Korea,1,2,UEFA,loss
+3,Group stage,False,2026-06-18,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Czech Republic,South Africa,1,1,UEFA,draw
+5,Group stage,False,2026-06-24,Mexico City,Estadio Azteca,Mexico,2240,open,False,Czech Republic,Mexico,0,3,UEFA,loss
+61,Group stage,False,2026-06-17,Houston,NRG Stadium,USA,15,retractable,True,DR Congo,Portugal,1,1,CAF,draw
+64,Group stage,False,2026-06-23,Guadalajara (Zapopan),Estadio Akron,Mexico,1566,open,False,DR Congo,Colombia,0,1,CAF,loss
+66,Group stage,False,2026-06-27,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,DR Congo,Uzbekistan,3,1,CAF,win
+80,Round of 32,True,2026-07-01,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,DR Congo,England,1,2,CAF,loss
+26,Group stage,False,2026-06-14,Philadelphia,Lincoln Financial Field,USA,10,open,False,Ecuador,Ivory Coast,0,1,CONMEBOL,loss
+28,Group stage,False,2026-06-20,Kansas City,Arrowhead Stadium,USA,270,open,False,Ecuador,Curaçao,0,0,CONMEBOL,draw
+30,Group stage,False,2026-06-25,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Ecuador,Germany,2,1,CONMEBOL,win
+79,Round of 32,True,2026-06-30,Mexico City,Estadio Azteca,Mexico,2240,open,False,Ecuador,Mexico,0,2,CONMEBOL,loss
+37,Group stage,False,2026-06-15,Seattle,Lumen Field,USA,10,canopy,True,Egypt,Belgium,1,1,CAF,draw
+40,Group stage,False,2026-06-21,Vancouver,BC Place,Canada,5,retractable,True,Egypt,New Zealand,3,1,CAF,win
+41,Group stage,False,2026-06-26,Seattle,Lumen Field,USA,10,canopy,True,Egypt,Iran,1,1,CAF,draw
+88,Round of 32,True,2026-07-03,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Egypt,Australia,1,1,CAF,draw
+95,Round of 16,True,2026-07-07,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Egypt,Argentina,2,3,CAF,loss
+67,Group stage,False,2026-06-17,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,England,Croatia,4,2,UEFA,win
+69,Group stage,False,2026-06-23,Boston (Foxborough),Gillette Stadium,USA,30,open,False,England,Ghana,0,0,UEFA,draw
+71,Group stage,False,2026-06-27,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,England,Panama,2,0,UEFA,win
+80,Round of 32,True,2026-07-01,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,England,DR Congo,2,1,UEFA,win
+92,Round of 16,True,2026-07-05,Mexico City,Estadio Azteca,Mexico,2240,open,False,England,Mexico,3,2,UEFA,win
+99,Quarter-final,True,2026-07-11,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,England,Norway,2,1,UEFA,win
+102,Semi-final,True,2026-07-15,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,England,Argentina,1,2,UEFA,loss
+103,Match for third place,True,2026-07-18,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,England,France,6,4,UEFA,win
+49,Group stage,False,2026-06-16,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,France,Senegal,3,1,UEFA,win
+51,Group stage,False,2026-06-22,Philadelphia,Lincoln Financial Field,USA,10,open,False,France,Iraq,3,0,UEFA,win
+53,Group stage,False,2026-06-26,Boston (Foxborough),Gillette Stadium,USA,30,open,False,France,Norway,4,1,UEFA,win
+77,Round of 32,True,2026-06-30,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,France,Sweden,3,0,UEFA,win
+89,Round of 16,True,2026-07-04,Philadelphia,Lincoln Financial Field,USA,10,open,False,France,Paraguay,1,0,UEFA,win
+97,Quarter-final,True,2026-07-09,Boston (Foxborough),Gillette Stadium,USA,30,open,False,France,Morocco,2,0,UEFA,win
+101,Semi-final,True,2026-07-14,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,France,Spain,0,2,UEFA,loss
+103,Match for third place,True,2026-07-18,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,France,England,4,6,UEFA,loss
+25,Group stage,False,2026-06-14,Houston,NRG Stadium,USA,15,retractable,True,Germany,Curaçao,7,1,UEFA,win
+27,Group stage,False,2026-06-20,Toronto,BMO Field,Canada,80,open,False,Germany,Ivory Coast,2,1,UEFA,win
+30,Group stage,False,2026-06-25,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Germany,Ecuador,1,2,UEFA,loss
+74,Round of 32,True,2026-06-29,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Germany,Paraguay,1,1,UEFA,draw
+68,Group stage,False,2026-06-17,Toronto,BMO Field,Canada,80,open,False,Ghana,Panama,1,0,CAF,win
+69,Group stage,False,2026-06-23,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Ghana,England,0,0,CAF,draw
+72,Group stage,False,2026-06-27,Philadelphia,Lincoln Financial Field,USA,10,open,False,Ghana,Croatia,1,2,CAF,loss
+87,Round of 32,True,2026-07-03,Kansas City,Arrowhead Stadium,USA,270,open,False,Ghana,Colombia,0,1,CAF,loss
+14,Group stage,False,2026-06-13,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Haiti,Scotland,0,1,CONCACAF,loss
+16,Group stage,False,2026-06-19,Philadelphia,Lincoln Financial Field,USA,10,open,False,Haiti,Brazil,0,3,CONCACAF,loss
+18,Group stage,False,2026-06-24,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Haiti,Morocco,2,4,CONCACAF,loss
+38,Group stage,False,2026-06-15,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Iran,New Zealand,2,2,AFC,draw
+39,Group stage,False,2026-06-21,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Iran,Belgium,0,0,AFC,draw
+41,Group stage,False,2026-06-26,Seattle,Lumen Field,USA,10,canopy,True,Iran,Egypt,1,1,AFC,draw
+50,Group stage,False,2026-06-16,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Iraq,Norway,1,4,AFC,loss
+51,Group stage,False,2026-06-22,Philadelphia,Lincoln Financial Field,USA,10,open,False,Iraq,France,0,3,AFC,loss
+54,Group stage,False,2026-06-26,Toronto,BMO Field,Canada,80,open,False,Iraq,Senegal,0,5,AFC,loss
+26,Group stage,False,2026-06-14,Philadelphia,Lincoln Financial Field,USA,10,open,False,Ivory Coast,Ecuador,1,0,CAF,win
+27,Group stage,False,2026-06-20,Toronto,BMO Field,Canada,80,open,False,Ivory Coast,Germany,1,2,CAF,loss
+29,Group stage,False,2026-06-25,Philadelphia,Lincoln Financial Field,USA,10,open,False,Ivory Coast,Curaçao,2,0,CAF,win
+78,Round of 32,True,2026-06-30,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Ivory Coast,Norway,1,2,CAF,loss
+31,Group stage,False,2026-06-14,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Japan,Netherlands,2,2,AFC,draw
+34,Group stage,False,2026-06-20,Monterrey (Guadalupe),Estadio BBVA,Mexico,540,open,False,Japan,Tunisia,4,0,AFC,win
+35,Group stage,False,2026-06-25,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Japan,Sweden,1,1,AFC,draw
+76,Round of 32,True,2026-06-29,Houston,NRG Stadium,USA,15,retractable,True,Japan,Brazil,1,2,AFC,loss
+56,Group stage,False,2026-06-16,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Jordan,Austria,1,3,AFC,loss
+58,Group stage,False,2026-06-22,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Jordan,Algeria,1,2,AFC,loss
+60,Group stage,False,2026-06-27,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Jordan,Argentina,1,3,AFC,loss
+1,Group stage,False,2026-06-11,Mexico City,Estadio Azteca,Mexico,2240,open,False,Mexico,South Africa,2,0,CONCACAF,win
+4,Group stage,False,2026-06-18,Guadalajara (Zapopan),Estadio Akron,Mexico,1566,open,False,Mexico,South Korea,1,0,CONCACAF,win
+5,Group stage,False,2026-06-24,Mexico City,Estadio Azteca,Mexico,2240,open,False,Mexico,Czech Republic,3,0,CONCACAF,win
+79,Round of 32,True,2026-06-30,Mexico City,Estadio Azteca,Mexico,2240,open,False,Mexico,Ecuador,2,0,CONCACAF,win
+92,Round of 16,True,2026-07-05,Mexico City,Estadio Azteca,Mexico,2240,open,False,Mexico,England,2,3,CONCACAF,loss
+13,Group stage,False,2026-06-13,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Morocco,Brazil,1,1,CAF,draw
+15,Group stage,False,2026-06-19,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Morocco,Scotland,1,0,CAF,win
+18,Group stage,False,2026-06-24,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Morocco,Haiti,4,2,CAF,win
+75,Round of 32,True,2026-06-29,Monterrey (Guadalupe),Estadio BBVA,Mexico,540,open,False,Morocco,Netherlands,1,1,CAF,draw
+90,Round of 16,True,2026-07-04,Houston,NRG Stadium,USA,15,retractable,True,Morocco,Canada,3,0,CAF,win
+97,Quarter-final,True,2026-07-09,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Morocco,France,0,2,CAF,loss
+31,Group stage,False,2026-06-14,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Netherlands,Japan,2,2,UEFA,draw
+33,Group stage,False,2026-06-20,Houston,NRG Stadium,USA,15,retractable,True,Netherlands,Sweden,5,1,UEFA,win
+36,Group stage,False,2026-06-25,Kansas City,Arrowhead Stadium,USA,270,open,False,Netherlands,Tunisia,3,1,UEFA,win
+75,Round of 32,True,2026-06-29,Monterrey (Guadalupe),Estadio BBVA,Mexico,540,open,False,Netherlands,Morocco,1,1,UEFA,draw
+38,Group stage,False,2026-06-15,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,New Zealand,Iran,2,2,OFC,draw
+40,Group stage,False,2026-06-21,Vancouver,BC Place,Canada,5,retractable,True,New Zealand,Egypt,1,3,OFC,loss
+42,Group stage,False,2026-06-26,Vancouver,BC Place,Canada,5,retractable,True,New Zealand,Belgium,1,5,OFC,loss
+50,Group stage,False,2026-06-16,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Norway,Iraq,4,1,UEFA,win
+52,Group stage,False,2026-06-22,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Norway,Senegal,3,2,UEFA,win
+53,Group stage,False,2026-06-26,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Norway,France,1,4,UEFA,loss
+78,Round of 32,True,2026-06-30,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Norway,Ivory Coast,2,1,UEFA,win
+91,Round of 16,True,2026-07-05,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Norway,Brazil,2,1,UEFA,win
+99,Quarter-final,True,2026-07-11,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Norway,England,1,2,UEFA,loss
+68,Group stage,False,2026-06-17,Toronto,BMO Field,Canada,80,open,False,Panama,Ghana,0,1,CONCACAF,loss
+70,Group stage,False,2026-06-23,Toronto,BMO Field,Canada,80,open,False,Panama,Croatia,0,1,CONCACAF,loss
+71,Group stage,False,2026-06-27,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Panama,England,0,2,CONCACAF,loss
+19,Group stage,False,2026-06-12,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Paraguay,United States,1,4,CONMEBOL,loss
+22,Group stage,False,2026-06-19,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Paraguay,Turkey,1,0,CONMEBOL,win
+24,Group stage,False,2026-06-25,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Paraguay,Australia,0,0,CONMEBOL,draw
+74,Round of 32,True,2026-06-29,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Paraguay,Germany,1,1,CONMEBOL,draw
+89,Round of 16,True,2026-07-04,Philadelphia,Lincoln Financial Field,USA,10,open,False,Paraguay,France,0,1,CONMEBOL,loss
+61,Group stage,False,2026-06-17,Houston,NRG Stadium,USA,15,retractable,True,Portugal,DR Congo,1,1,UEFA,draw
+63,Group stage,False,2026-06-23,Houston,NRG Stadium,USA,15,retractable,True,Portugal,Uzbekistan,5,0,UEFA,win
+65,Group stage,False,2026-06-27,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Portugal,Colombia,0,0,UEFA,draw
+83,Round of 32,True,2026-07-02,Toronto,BMO Field,Canada,80,open,False,Portugal,Croatia,2,1,UEFA,win
+93,Round of 16,True,2026-07-06,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Portugal,Spain,0,1,UEFA,loss
+8,Group stage,False,2026-06-13,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Qatar,Switzerland,1,1,AFC,draw
+10,Group stage,False,2026-06-18,Vancouver,BC Place,Canada,5,retractable,True,Qatar,Canada,0,6,AFC,loss
+12,Group stage,False,2026-06-24,Seattle,Lumen Field,USA,10,canopy,True,Qatar,Bosnia and Herzegovina,1,3,AFC,loss
+44,Group stage,False,2026-06-15,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Saudi Arabia,Uruguay,1,1,AFC,draw
+45,Group stage,False,2026-06-21,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Saudi Arabia,Spain,0,4,AFC,loss
+47,Group stage,False,2026-06-26,Houston,NRG Stadium,USA,15,retractable,True,Saudi Arabia,Cape Verde,0,0,AFC,draw
+14,Group stage,False,2026-06-13,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Scotland,Haiti,1,0,UEFA,win
+15,Group stage,False,2026-06-19,Boston (Foxborough),Gillette Stadium,USA,30,open,False,Scotland,Morocco,0,1,UEFA,loss
+17,Group stage,False,2026-06-24,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Scotland,Brazil,0,3,UEFA,loss
+49,Group stage,False,2026-06-16,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Senegal,France,1,3,CAF,loss
+52,Group stage,False,2026-06-22,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Senegal,Norway,2,3,CAF,loss
+54,Group stage,False,2026-06-26,Toronto,BMO Field,Canada,80,open,False,Senegal,Iraq,5,0,CAF,win
+82,Round of 32,True,2026-07-01,Seattle,Lumen Field,USA,10,canopy,True,Senegal,Belgium,2,3,CAF,loss
+1,Group stage,False,2026-06-11,Mexico City,Estadio Azteca,Mexico,2240,open,False,South Africa,Mexico,0,2,CAF,loss
+3,Group stage,False,2026-06-18,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,South Africa,Czech Republic,1,1,CAF,draw
+6,Group stage,False,2026-06-24,Monterrey (Guadalupe),Estadio BBVA,Mexico,540,open,False,South Africa,South Korea,1,0,CAF,win
+73,Round of 32,True,2026-06-28,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,South Africa,Canada,0,1,CAF,loss
+2,Group stage,False,2026-06-11,Guadalajara (Zapopan),Estadio Akron,Mexico,1566,open,False,South Korea,Czech Republic,2,1,AFC,win
+4,Group stage,False,2026-06-18,Guadalajara (Zapopan),Estadio Akron,Mexico,1566,open,False,South Korea,Mexico,0,1,AFC,loss
+6,Group stage,False,2026-06-24,Monterrey (Guadalupe),Estadio BBVA,Mexico,540,open,False,South Korea,South Africa,0,1,AFC,loss
+43,Group stage,False,2026-06-15,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Spain,Cape Verde,0,0,UEFA,draw
+45,Group stage,False,2026-06-21,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Spain,Saudi Arabia,4,0,UEFA,win
+48,Group stage,False,2026-06-26,Guadalajara (Zapopan),Estadio Akron,Mexico,1566,open,False,Spain,Uruguay,1,0,UEFA,win
+84,Round of 32,True,2026-07-02,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Spain,Austria,3,0,UEFA,win
+93,Round of 16,True,2026-07-06,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Spain,Portugal,1,0,UEFA,win
+98,Quarter-final,True,2026-07-10,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Spain,Belgium,2,1,UEFA,win
+101,Semi-final,True,2026-07-14,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Spain,France,2,0,UEFA,win
+104,Final,True,2026-07-19,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Spain,Argentina,1,0,UEFA,win
+32,Group stage,False,2026-06-14,Monterrey (Guadalupe),Estadio BBVA,Mexico,540,open,False,Sweden,Tunisia,5,1,UEFA,win
+33,Group stage,False,2026-06-20,Houston,NRG Stadium,USA,15,retractable,True,Sweden,Netherlands,1,5,UEFA,loss
+35,Group stage,False,2026-06-25,Dallas (Arlington),AT&T Stadium,USA,180,retractable,True,Sweden,Japan,1,1,UEFA,draw
+77,Round of 32,True,2026-06-30,New York/New Jersey (East Rutherford),MetLife Stadium,USA,5,open,False,Sweden,France,0,3,UEFA,loss
+8,Group stage,False,2026-06-13,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Switzerland,Qatar,1,1,UEFA,draw
+9,Group stage,False,2026-06-18,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Switzerland,Bosnia and Herzegovina,4,1,UEFA,win
+11,Group stage,False,2026-06-24,Vancouver,BC Place,Canada,5,retractable,True,Switzerland,Canada,2,1,UEFA,win
+85,Round of 32,True,2026-07-02,Vancouver,BC Place,Canada,5,retractable,True,Switzerland,Algeria,2,0,UEFA,win
+96,Round of 16,True,2026-07-07,Vancouver,BC Place,Canada,5,retractable,True,Switzerland,Colombia,0,0,UEFA,draw
+100,Quarter-final,True,2026-07-11,Kansas City,Arrowhead Stadium,USA,270,open,False,Switzerland,Argentina,1,3,UEFA,loss
+32,Group stage,False,2026-06-14,Monterrey (Guadalupe),Estadio BBVA,Mexico,540,open,False,Tunisia,Sweden,1,5,CAF,loss
+34,Group stage,False,2026-06-20,Monterrey (Guadalupe),Estadio BBVA,Mexico,540,open,False,Tunisia,Japan,0,4,CAF,loss
+36,Group stage,False,2026-06-25,Kansas City,Arrowhead Stadium,USA,270,open,False,Tunisia,Netherlands,1,3,CAF,loss
+20,Group stage,False,2026-06-13,Vancouver,BC Place,Canada,5,retractable,True,Turkey,Australia,0,2,UEFA,loss
+22,Group stage,False,2026-06-19,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,Turkey,Paraguay,0,1,UEFA,loss
+23,Group stage,False,2026-06-25,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,Turkey,United States,3,2,UEFA,win
+19,Group stage,False,2026-06-12,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,United States,Paraguay,4,1,CONCACAF,win
+21,Group stage,False,2026-06-19,Seattle,Lumen Field,USA,10,canopy,True,United States,Australia,2,0,CONCACAF,win
+23,Group stage,False,2026-06-25,Los Angeles (Inglewood),SoFi Stadium,USA,30,canopy,True,United States,Turkey,2,3,CONCACAF,loss
+81,Round of 32,True,2026-07-01,San Francisco Bay Area (Santa Clara),Levi's Stadium,USA,9,open,False,United States,Bosnia and Herzegovina,2,0,CONCACAF,win
+94,Round of 16,True,2026-07-06,Seattle,Lumen Field,USA,10,canopy,True,United States,Belgium,1,4,CONCACAF,loss
+44,Group stage,False,2026-06-15,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Uruguay,Saudi Arabia,1,1,CONMEBOL,draw
+46,Group stage,False,2026-06-21,Miami (Miami Gardens),Hard Rock Stadium,USA,2,canopy,True,Uruguay,Cape Verde,2,2,CONMEBOL,draw
+48,Group stage,False,2026-06-26,Guadalajara (Zapopan),Estadio Akron,Mexico,1566,open,False,Uruguay,Spain,0,1,CONMEBOL,loss
+62,Group stage,False,2026-06-17,Mexico City,Estadio Azteca,Mexico,2240,open,False,Uzbekistan,Colombia,1,3,AFC,loss
+63,Group stage,False,2026-06-23,Houston,NRG Stadium,USA,15,retractable,True,Uzbekistan,Portugal,0,5,AFC,loss
+66,Group stage,False,2026-06-27,Atlanta,Mercedes-Benz Stadium,USA,320,retractable,True,Uzbekistan,DR Congo,1,3,AFC,loss

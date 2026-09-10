@@ -1,0 +1,161 @@
+team,match_id,from_stage,to_stage,into_knockout,rest_days,confederation,interval_label
+Algeria,58,Group stage,Group stage,False,6,CAF,Before a group match
+Algeria,59,Group stage,Group stage,False,5,CAF,Before a group match
+Algeria,85,Group stage,Round of 32,True,5,CAF,Before a knockout match
+Argentina,57,Group stage,Group stage,False,6,CONMEBOL,Before a group match
+Argentina,60,Group stage,Group stage,False,5,CONMEBOL,Before a group match
+Argentina,86,Group stage,Round of 32,True,6,CONMEBOL,Before a knockout match
+Argentina,95,Round of 32,Round of 16,True,4,CONMEBOL,Before a knockout match
+Argentina,100,Round of 16,Quarter-final,True,4,CONMEBOL,Before a knockout match
+Argentina,102,Quarter-final,Semi-final,True,4,CONMEBOL,Before a knockout match
+Argentina,104,Semi-final,Final,True,4,CONMEBOL,Before a knockout match
+Australia,21,Group stage,Group stage,False,6,AFC,Before a group match
+Australia,24,Group stage,Group stage,False,6,AFC,Before a group match
+Australia,88,Group stage,Round of 32,True,8,AFC,Before a knockout match
+Austria,57,Group stage,Group stage,False,6,UEFA,Before a group match
+Austria,59,Group stage,Group stage,False,5,UEFA,Before a group match
+Austria,84,Group stage,Round of 32,True,5,UEFA,Before a knockout match
+Belgium,39,Group stage,Group stage,False,6,UEFA,Before a group match
+Belgium,42,Group stage,Group stage,False,5,UEFA,Before a group match
+Belgium,82,Group stage,Round of 32,True,5,UEFA,Before a knockout match
+Belgium,94,Round of 32,Round of 16,True,5,UEFA,Before a knockout match
+Belgium,98,Round of 16,Quarter-final,True,4,UEFA,Before a knockout match
+Bosnia and Herzegovina,9,Group stage,Group stage,False,6,UEFA,Before a group match
+Bosnia and Herzegovina,12,Group stage,Group stage,False,6,UEFA,Before a group match
+Bosnia and Herzegovina,81,Group stage,Round of 32,True,7,UEFA,Before a knockout match
+Brazil,16,Group stage,Group stage,False,6,CONMEBOL,Before a group match
+Brazil,17,Group stage,Group stage,False,5,CONMEBOL,Before a group match
+Brazil,76,Group stage,Round of 32,True,5,CONMEBOL,Before a knockout match
+Brazil,91,Round of 32,Round of 16,True,6,CONMEBOL,Before a knockout match
+Canada,10,Group stage,Group stage,False,6,CONCACAF,Before a group match
+Canada,11,Group stage,Group stage,False,6,CONCACAF,Before a group match
+Canada,73,Group stage,Round of 32,True,4,CONCACAF,Before a knockout match
+Canada,90,Round of 32,Round of 16,True,6,CONCACAF,Before a knockout match
+Cape Verde,46,Group stage,Group stage,False,6,CAF,Before a group match
+Cape Verde,47,Group stage,Group stage,False,5,CAF,Before a group match
+Cape Verde,86,Group stage,Round of 32,True,7,CAF,Before a knockout match
+Colombia,64,Group stage,Group stage,False,6,CONMEBOL,Before a group match
+Colombia,65,Group stage,Group stage,False,4,CONMEBOL,Before a group match
+Colombia,87,Group stage,Round of 32,True,6,CONMEBOL,Before a knockout match
+Colombia,96,Round of 32,Round of 16,True,4,CONMEBOL,Before a knockout match
+Croatia,70,Group stage,Group stage,False,6,UEFA,Before a group match
+Croatia,72,Group stage,Group stage,False,4,UEFA,Before a group match
+Croatia,83,Group stage,Round of 32,True,5,UEFA,Before a knockout match
+Curaçao,28,Group stage,Group stage,False,6,CONCACAF,Before a group match
+Curaçao,29,Group stage,Group stage,False,5,CONCACAF,Before a group match
+Czech Republic,3,Group stage,Group stage,False,7,UEFA,Before a group match
+Czech Republic,5,Group stage,Group stage,False,6,UEFA,Before a group match
+DR Congo,64,Group stage,Group stage,False,6,CAF,Before a group match
+DR Congo,66,Group stage,Group stage,False,4,CAF,Before a group match
+DR Congo,80,Group stage,Round of 32,True,4,CAF,Before a knockout match
+Ecuador,28,Group stage,Group stage,False,6,CONMEBOL,Before a group match
+Ecuador,30,Group stage,Group stage,False,5,CONMEBOL,Before a group match
+Ecuador,79,Group stage,Round of 32,True,5,CONMEBOL,Before a knockout match
+Egypt,40,Group stage,Group stage,False,6,CAF,Before a group match
+Egypt,41,Group stage,Group stage,False,5,CAF,Before a group match
+Egypt,88,Group stage,Round of 32,True,7,CAF,Before a knockout match
+Egypt,95,Round of 32,Round of 16,True,4,CAF,Before a knockout match
+England,69,Group stage,Group stage,False,6,UEFA,Before a group match
+England,71,Group stage,Group stage,False,4,UEFA,Before a group match
+England,80,Group stage,Round of 32,True,4,UEFA,Before a knockout match
+England,92,Round of 32,Round of 16,True,4,UEFA,Before a knockout match
+England,99,Round of 16,Quarter-final,True,6,UEFA,Before a knockout match
+England,102,Quarter-final,Semi-final,True,4,UEFA,Before a knockout match
+England,103,Semi-final,Match for third place,True,3,UEFA,Before a knockout match
+France,51,Group stage,Group stage,False,6,UEFA,Before a group match
+France,53,Group stage,Group stage,False,4,UEFA,Before a group match
+France,77,Group stage,Round of 32,True,4,UEFA,Before a knockout match
+France,89,Round of 32,Round of 16,True,4,UEFA,Before a knockout match
+France,97,Round of 16,Quarter-final,True,5,UEFA,Before a knockout match
+France,101,Quarter-final,Semi-final,True,5,UEFA,Before a knockout match
+France,103,Semi-final,Match for third place,True,4,UEFA,Before a knockout match
+Germany,27,Group stage,Group stage,False,6,UEFA,Before a group match
+Germany,30,Group stage,Group stage,False,5,UEFA,Before a group match
+Germany,74,Group stage,Round of 32,True,4,UEFA,Before a knockout match
+Ghana,69,Group stage,Group stage,False,6,CAF,Before a group match
+Ghana,72,Group stage,Group stage,False,4,CAF,Before a group match
+Ghana,87,Group stage,Round of 32,True,6,CAF,Before a knockout match
+Haiti,16,Group stage,Group stage,False,6,CONCACAF,Before a group match
+Haiti,18,Group stage,Group stage,False,5,CONCACAF,Before a group match
+Iran,39,Group stage,Group stage,False,6,AFC,Before a group match
+Iran,41,Group stage,Group stage,False,5,AFC,Before a group match
+Iraq,51,Group stage,Group stage,False,6,AFC,Before a group match
+Iraq,54,Group stage,Group stage,False,4,AFC,Before a group match
+Ivory Coast,27,Group stage,Group stage,False,6,CAF,Before a group match
+Ivory Coast,29,Group stage,Group stage,False,5,CAF,Before a group match
+Ivory Coast,78,Group stage,Round of 32,True,5,CAF,Before a knockout match
+Japan,34,Group stage,Group stage,False,6,AFC,Before a group match
+Japan,35,Group stage,Group stage,False,5,AFC,Before a group match
+Japan,76,Group stage,Round of 32,True,4,AFC,Before a knockout match
+Jordan,58,Group stage,Group stage,False,6,AFC,Before a group match
+Jordan,60,Group stage,Group stage,False,5,AFC,Before a group match
+Mexico,4,Group stage,Group stage,False,7,CONCACAF,Before a group match
+Mexico,5,Group stage,Group stage,False,6,CONCACAF,Before a group match
+Mexico,79,Group stage,Round of 32,True,6,CONCACAF,Before a knockout match
+Mexico,92,Round of 32,Round of 16,True,5,CONCACAF,Before a knockout match
+Morocco,15,Group stage,Group stage,False,6,CAF,Before a group match
+Morocco,18,Group stage,Group stage,False,5,CAF,Before a group match
+Morocco,75,Group stage,Round of 32,True,5,CAF,Before a knockout match
+Morocco,90,Round of 32,Round of 16,True,5,CAF,Before a knockout match
+Morocco,97,Round of 16,Quarter-final,True,5,CAF,Before a knockout match
+Netherlands,33,Group stage,Group stage,False,6,UEFA,Before a group match
+Netherlands,36,Group stage,Group stage,False,5,UEFA,Before a group match
+Netherlands,75,Group stage,Round of 32,True,4,UEFA,Before a knockout match
+New Zealand,40,Group stage,Group stage,False,6,OFC,Before a group match
+New Zealand,42,Group stage,Group stage,False,5,OFC,Before a group match
+Norway,52,Group stage,Group stage,False,6,UEFA,Before a group match
+Norway,53,Group stage,Group stage,False,4,UEFA,Before a group match
+Norway,78,Group stage,Round of 32,True,4,UEFA,Before a knockout match
+Norway,91,Round of 32,Round of 16,True,5,UEFA,Before a knockout match
+Norway,99,Round of 16,Quarter-final,True,6,UEFA,Before a knockout match
+Panama,70,Group stage,Group stage,False,6,CONCACAF,Before a group match
+Panama,71,Group stage,Group stage,False,4,CONCACAF,Before a group match
+Paraguay,22,Group stage,Group stage,False,7,CONMEBOL,Before a group match
+Paraguay,24,Group stage,Group stage,False,6,CONMEBOL,Before a group match
+Paraguay,74,Group stage,Round of 32,True,4,CONMEBOL,Before a knockout match
+Paraguay,89,Round of 32,Round of 16,True,5,CONMEBOL,Before a knockout match
+Portugal,63,Group stage,Group stage,False,6,UEFA,Before a group match
+Portugal,65,Group stage,Group stage,False,4,UEFA,Before a group match
+Portugal,83,Group stage,Round of 32,True,5,UEFA,Before a knockout match
+Portugal,93,Round of 32,Round of 16,True,4,UEFA,Before a knockout match
+Qatar,10,Group stage,Group stage,False,5,AFC,Before a group match
+Qatar,12,Group stage,Group stage,False,6,AFC,Before a group match
+Saudi Arabia,45,Group stage,Group stage,False,6,AFC,Before a group match
+Saudi Arabia,47,Group stage,Group stage,False,5,AFC,Before a group match
+Scotland,15,Group stage,Group stage,False,6,UEFA,Before a group match
+Scotland,17,Group stage,Group stage,False,5,UEFA,Before a group match
+Senegal,52,Group stage,Group stage,False,6,CAF,Before a group match
+Senegal,54,Group stage,Group stage,False,4,CAF,Before a group match
+Senegal,82,Group stage,Round of 32,True,5,CAF,Before a knockout match
+South Africa,3,Group stage,Group stage,False,7,CAF,Before a group match
+South Africa,6,Group stage,Group stage,False,6,CAF,Before a group match
+South Africa,73,Group stage,Round of 32,True,4,CAF,Before a knockout match
+South Korea,4,Group stage,Group stage,False,7,AFC,Before a group match
+South Korea,6,Group stage,Group stage,False,6,AFC,Before a group match
+Spain,45,Group stage,Group stage,False,6,UEFA,Before a group match
+Spain,48,Group stage,Group stage,False,5,UEFA,Before a group match
+Spain,84,Group stage,Round of 32,True,6,UEFA,Before a knockout match
+Spain,93,Round of 32,Round of 16,True,4,UEFA,Before a knockout match
+Spain,98,Round of 16,Quarter-final,True,4,UEFA,Before a knockout match
+Spain,101,Quarter-final,Semi-final,True,4,UEFA,Before a knockout match
+Spain,104,Semi-final,Final,True,5,UEFA,Before a knockout match
+Sweden,33,Group stage,Group stage,False,6,UEFA,Before a group match
+Sweden,35,Group stage,Group stage,False,5,UEFA,Before a group match
+Sweden,77,Group stage,Round of 32,True,5,UEFA,Before a knockout match
+Switzerland,9,Group stage,Group stage,False,5,UEFA,Before a group match
+Switzerland,11,Group stage,Group stage,False,6,UEFA,Before a group match
+Switzerland,85,Group stage,Round of 32,True,8,UEFA,Before a knockout match
+Switzerland,96,Round of 32,Round of 16,True,5,UEFA,Before a knockout match
+Switzerland,100,Round of 16,Quarter-final,True,4,UEFA,Before a knockout match
+Tunisia,34,Group stage,Group stage,False,6,CAF,Before a group match
+Tunisia,36,Group stage,Group stage,False,5,CAF,Before a group match
+Turkey,22,Group stage,Group stage,False,6,UEFA,Before a group match
+Turkey,23,Group stage,Group stage,False,6,UEFA,Before a group match
+United States,21,Group stage,Group stage,False,7,CONCACAF,Before a group match
+United States,23,Group stage,Group stage,False,6,CONCACAF,Before a group match
+United States,81,Group stage,Round of 32,True,6,CONCACAF,Before a knockout match
+United States,94,Round of 32,Round of 16,True,5,CONCACAF,Before a knockout match
+Uruguay,46,Group stage,Group stage,False,6,CONMEBOL,Before a group match
+Uruguay,48,Group stage,Group stage,False,5,CONMEBOL,Before a group match
+Uzbekistan,63,Group stage,Group stage,False,6,AFC,Before a group match
+Uzbekistan,66,Group stage,Group stage,False,4,AFC,Before a group match
