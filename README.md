@@ -104,9 +104,6 @@ None of the four response variables existed in a source file:
 | 3 | `involvements_per90` | (goals + assists) / minutes × 90 |
 | 4 | `rest_days` | days to the **next** match, per nation |
 
-`rest_days` is the one worth reading twice: each interval is labelled by the match it
-leads *into*, not the one it follows. Labelling it the obvious way hides the effect,
-because the last group-stage interval is really the run-up to a Round of 32 tie.
 
 ## Data sources
 
