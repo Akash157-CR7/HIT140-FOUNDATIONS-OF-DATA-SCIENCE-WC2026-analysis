@@ -4,10 +4,10 @@
 
 | Member | Student ID | Task owned |
 |---|---|---|
-| Angel Shahi | s400420 | 1 — Goal timing |
-| Nishant Shrestha | s400342 | 2 — Team playing style |
-| Sabraham Shrestha | s404389 | 3 — Attacking output by position |
-| Akash Singh | s401643 | 4 — Schedule recovery |
+| Angel Shahi | s400420 | 1 - Goal timing |
+| Nishant Shrestha | s400342 | 2 - Team playing style |
+| Sabraham Shrestha | s404389 | 3 - Attacking output by position |
+| Akash Singh | s401643 | 4 -Schedule recovery |
 
 ---
 
