@@ -15,10 +15,10 @@
 
 | # | Owner | Focal point | Response variable | Unit of analysis | n | Test |
 |---|---|---|---|---|---|---|
-| 1 | Angel Shahi | Goal timing — **when** a goal arrives | Minute of the goal | Goal event | 300 | **One-sample** *t* against 45.5 |
-| 2 | Nishant Shrestha | Team playing style — **how** a team plays | Possession share (%) | Nation | 48 | Two-sample *t* |
-| 3 | Sabraham Shrestha | Attacking output — **who** creates goals | Goals + assists per 90 min | Player | 286 | Two-sample *t* |
-| 4 | Akash Singh | Schedule recovery — **how often** they play | Days between matches | Recovery interval | 160 | Two-sample *t* |
+| 1 | Angel Shahi | Goal timing - **when** a goal arrives | Minute of the goal | Goal event | 300 | **One-sample** *t* against 45.5 |
+| 2 | Nishant Shrestha | Team playing style - **how** a team plays | Possession share (%) | Nation | 48 | Two-sample *t* |
+| 3 | Sabraham Shrestha | Attacking output - **who** creates goals | Goals + assists per 90 min | Player | 286 | Two-sample *t* |
+| 4 | Akash Singh | Schedule recovery - **how often** they play | Days between matches | Recovery interval | 160 | Two-sample *t* |
 
 Four different constructs, four different response variables, four different units of
 analysis. Every task covers the six required skills: analytic question, data wrangling,
@@ -33,17 +33,17 @@ data preparation and sampling, descriptive statistics, confidence interval, and 
 | 3 | 0.34 per 90 | [0.30, 0.39] | 4.42 | 72 | < .001 | Reject H₀ |
 | 4 | 5.29 days | [5.14, 5.44] | −4.12 | 63 | < .001 | Reject H₀ |
 
-The interval in each row is the Week 3 z-interval for that task's own mean —
-x̄ ± z*·s/√n with z* = 1.960 — not for the difference between groups.
+The interval in each row is the Week 3 z-interval for that task's own mean -
+x̄ ± z*·s/√n with z* = 1.960 - not for the difference between groups.
 
 Each task also reports a second result that qualifies the headline:
 
 | # | The check | What it shows |
 |---|---|---|
-| 1 | Re-run without added-time goals | t(253) = 1.56, p = .120 — the late surplus sits in added time |
-| 2 | Split by confederation instead | t(21) = 2.93, p = .004 — style and strength are tangled |
-| 3 | Test assists alone | t(72) = 1.46, p = .074 — the choice of variable carries the task |
-| 4 | Paired winner-vs-loser rest | t(31) = −0.39, p = .701 — the squeeze is even-handed |
+| 1 | Re-run without added-time goals | t(253) = 1.56, p = .120 - the late surplus sits in added time |
+| 2 | Split by confederation instead | t(21) = 2.93, p = .004 - style and strength are tangled |
+| 3 | Test assists alone | t(72) = 1.46, p = .074 - the choice of variable carries the task |
+| 4 | Paired winner-vs-loser rest | t(31) = −0.39, p = .701 - the squeeze is even-handed |
 
 The four focal points were chosen after exploring the verified data, so running four
 tests raises the chance that at least one rejection is a false positive. HIT140 has
@@ -63,7 +63,7 @@ The brief requires the skills of **Weeks 1 to 5**. Every procedure used here com
 
 Techniques outside that range are deliberately absent: bootstrap intervals,
 Levene's test, Welch degrees of freedom, pooled variance, Mann–Whitney, Wilcoxon,
-Shapiro–Wilk, Cohen's *d*, statistical power, the Bonferroni correction — and
+Shapiro–Wilk, Cohen's *d*, statistical power, the Bonferroni correction - and
 correlation, which is Week 6.
 
 Both *t*-tests are written out from the Week 4 formulas rather than called from a
@@ -85,13 +85,13 @@ library, so the arithmetic in the code is the arithmetic in the lecture.
 
 | Table | Rows | Serves |
 |---|---|---|
-| `goals.csv` | 308 | Task 1 — minute of each goal event |
-| `squad_profile.csv` | 48 | Task 2 — possession share per nation |
-| `players.csv` | 1,039 | Task 3 — goal involvements per 90 |
-| `rest.csv` | 160 | Task 4 — the recovery intervals |
-| `rest_pairs.csv` | 32 | Task 4 — the paired winner-vs-loser test |
-| `matches.csv` | 104 | verification — match count and stages |
-| `team_match.csv` | 208 | verification — team-match count |
+| `goals.csv` | 308 | Task 1 - minute of each goal event |
+| `squad_profile.csv` | 48 | Task 2 - possession share per nation |
+| `players.csv` | 1,039 | Task 3 - goal involvements per 90 |
+| `rest.csv` | 160 | Task 4 - the recovery intervals |
+| `rest_pairs.csv` | 32 | Task 4 - the paired winner-vs-loser test |
+| `matches.csv` | 104 | verification - match count and stages |
+| `team_match.csv` | 208 | verification - team-match count |
 
 ### The variables were built, not found
 
@@ -111,7 +111,7 @@ because the last group-stage interval is really the run-up to a Round of 32 tie.
 ## Data sources
 
 **FBref is our primary source.** Its 2026 World Cup tables carry Tasks 2, 3 and 4
-outright — squad possession, the player tables, and the fixture list with dates.
+outright - squad possession, the player tables, and the fixture list with dates.
 They were taken from the site's own *Share & Export → Get table as CSV* control.
 
 FBref publishes goal times only inside individual match reports, not in any
@@ -121,9 +121,9 @@ only — no task reads it.
 
 | | Source | Role | Used by |
 |---|---|---|---|
-| 1 | **FBref, 2026 World Cup** (`fbref.com`) | primary — players, squads, fixtures | Tasks 2, 3, 4 |
-| 2 | `openfootball/worldcup.json` | the 308 goal events and their minutes | Task 1 |
-| 3 | `martj42/international_results` | verification only | no task |
+| 1 | **FBref, 2026 World Cup** (`fbref.com`) | primary - players, squads, fixtures | Tasks 2, 3, 4 |
+| 2 | **FIFA 2026 (`fifa2026.com`) | the 308 goal events and their minutes | Task 1 |
+
 
 Three sources maintained by different people from different upstreams agree on all
 104 scorelines and all 308 goal events. That agreement is only possible if all three
@@ -138,7 +138,7 @@ Python 3.10 or newer. Everything runs from inside this folder.
 
 `WC2026_Analysis.ipynb` walks through all four tasks with **the figures inline** and
 every table printed. It is saved with its outputs already in it, so it can be read
-without running anything — open it in VS Code (install the *Jupyter* extension) or
+without running anything - open it in VS Code (install the *Jupyter* extension) or
 with `jupyter notebook`. To re-run it, use **Run All**.
 
 The first cell installs any missing package and locates `dataset/`, so **Run All**
